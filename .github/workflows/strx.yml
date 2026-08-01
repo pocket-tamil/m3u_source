@@ -1,0 +1,42 @@
+name: Update StreamX M3U
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: playlist-update
+  cancel-in-progress: true
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download latest playlist
+        run: |
+          curl -L "https://lemajekaat.streamxlive.workers.dev/" -o strx.m3u
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add alex.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "Update alex.m3u"
+            git pull --rebase origin main
+            git push
+          fi
