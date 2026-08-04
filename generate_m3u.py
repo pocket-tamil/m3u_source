@@ -24,10 +24,7 @@ def add_channel(name, logo, url):
 
     url = url.strip()
 
-    if not url:
-        return
-
-    if url in seen:
+    if not url or url in seen:
         return
 
     seen.add(url)
@@ -40,46 +37,94 @@ def add_channel(name, logo, url):
         f'tvg-logo="{logo}" '
         f'group-title="Local TV",{name}\n'
     )
+
     playlist.append(url + "\n\n")
 
 
 def parse_item(item, source):
-    """Parse a channel item."""
+    """Parse a channel from any supported JSON format."""
 
+    # -----------------------
+    # Channel Name
+    # -----------------------
     name = (
-        item.get("channelname")
+        item.get("channel_name")          # Ashoka Digital
+        or item.get("channelname")        # SSCloud7
         or item.get("name")
         or item.get("title")
-        or item.get("channel_name")
         or item.get("content_title")
         or "Unknown"
     )
 
+    # -----------------------
+    # Logo
+    # -----------------------
     logo = (
-        item.get("logo")
+        item.get("channel_image")         # Ashoka Digital
+        or item.get("logo")               # SSCloud7
+        or item.get("channel_logo")
         or item.get("image")
         or item.get("thumbnail")
         or item.get("poster")
-        or item.get("channel_logo")
         or ""
     )
 
-    # Ashoka Digital logos are filenames only
+    # Ashoka Digital logo filenames
     if "ashokadigital.net" in source and logo:
-        if not logo.startswith("http"):
-            logo = f"https://livetv.ashokadigital.net/upload/logo/{logo}"
+        if not logo.startswith(("http://", "https://")):
+            logo = (
+                "https://livetv.ashokadigital.net/upload/logo/"
+                + logo
+            )
 
+    # -----------------------
+    # Stream URL
+    # -----------------------
     url = (
-        item.get("playbackurl")
+        item.get("channel_url")           # Ashoka Digital
+        or item.get("playbackurl")        # SSCloud7
         or item.get("stream_url")
+        or item.get("content_url")
         or item.get("url")
         or item.get("link")
-        or item.get("content_url")
-        or item.get("channel_url")
         or ""
     )
 
     add_channel(name, logo, url)
+
+
+def parse_data(data, source):
+    """Recursively parse JSON."""
+
+    if isinstance(data, list):
+
+        for item in data:
+
+            if not isinstance(item, dict):
+                continue
+
+            # SSCloud7 nested format
+            if "channeldata" in item:
+
+                parse_data(item["channeldata"], source)
+
+            else:
+                parse_item(item, source)
+
+    elif isinstance(data, dict):
+
+        # Ashoka / Generic collections
+        for key in (
+            "channeldata",
+            "channels",
+            "data",
+            "results",
+            "posts",
+            "items",
+            "list",
+        ):
+            if key in data:
+                parse_data(data[key], source)
 
 
 for source in SOURCES:
@@ -87,53 +132,24 @@ for source in SOURCES:
     print(f"Downloading: {source}")
 
     try:
-        response = requests.get(source, headers=HEADERS, timeout=30)
+        response = requests.get(
+            source,
+            headers=HEADERS,
+            timeout=30,
+        )
+
         response.raise_for_status()
+
         data = response.json()
 
+        parse_data(data, source)
+
     except Exception as e:
-        print(f"Failed: {e}")
-        continue
+        print(f"Error: {e}")
 
-    # Root is a list
-    if isinstance(data, list):
-
-        for item in data:
-
-            # SSCloud7 format
-            if isinstance(item, dict) and "channeldata" in item:
-
-                for channel in item.get("channeldata", []):
-                    parse_item(channel, source)
-
-            else:
-                parse_item(item, source)
-
-    # Root is a dictionary
-    elif isinstance(data, dict):
-
-        for key in (
-            "channeldata",
-            "channels",
-            "data",
-            "results",
-            "items",
-            "posts",
-            "list",
-        ):
-
-            if key not in data:
-                continue
-
-            value = data[key]
-
-            if isinstance(value, list):
-
-                for channel in value:
-                    parse_item(channel, source)
 
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.writelines(playlist)
 
-print(f"\nDone! Generated {len(seen)} unique channels.")
-print(f"Saved to {OUTPUT_FILE}")
+print(f"\nGenerated {len(seen)} unique channels.")
+print(f"Saved as {OUTPUT_FILE}")
