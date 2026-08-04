@@ -116,7 +116,10 @@ for source in SOURCES:
                 for channel in value:
                     parse_item(channel)
 
-with open("playlist.m3u", "w", encoding="utf-8") as f:
+OUTPUT_FILE = "local_channels.m3u"
+
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.writelines(playlist)
 
 print(f"Done! Generated {len(seen)} channels.")
+print(f"Saved as {OUTPUT_FILE}")
