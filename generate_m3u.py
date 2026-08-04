@@ -3,12 +3,14 @@ import requests
 SOURCES = [
     "https://sscloud7.in/multi/tamilott.json",
     "https://as.al/raw/NyCqwJ",
-    "https://livetv.ashokadigital.net/api/api.php?get_posts=&page=1&count=361&api_key=cda11bx8aITlKsXdsfafadskljasldfjoierKLrteaadfjalM<",
+    "https://livetv.ashokadigital.net/api/api.php?get_posts=&page=1&count=361&api_key=cda11bx8aITlKsXdsfafadskljasldfjoierKLrteaadfjalM",
 ]
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
+
+OUTPUT_FILE = "local_channels.m3u"
 
 playlist = ["#EXTM3U\n\n"]
 seen = set()
@@ -21,6 +23,9 @@ def add_channel(name, logo, url):
         return
 
     url = url.strip()
+
+    if not url:
+        return
 
     if url in seen:
         return
@@ -35,39 +40,50 @@ def add_channel(name, logo, url):
         f'tvg-logo="{logo}" '
         f'group-title="Local TV",{name}\n'
     )
-
     playlist.append(url + "\n\n")
 
 
-def parse_item(item):
-    """Parse a generic channel item."""
+def parse_item(item, source):
+    """Parse a channel item."""
 
-    add_channel(
+    name = (
         item.get("channelname")
         or item.get("name")
         or item.get("title")
         or item.get("channel_name")
         or item.get("content_title")
-        or "Unknown",
+        or "Unknown"
+    )
 
+    logo = (
         item.get("logo")
         or item.get("image")
         or item.get("thumbnail")
         or item.get("poster")
         or item.get("channel_logo")
-        or "",
+        or ""
+    )
 
+    # Ashoka Digital logos are filenames only
+    if "ashokadigital.net" in source and logo:
+        if not logo.startswith("http"):
+            logo = f"https://livetv.ashokadigital.net/upload/logo/{logo}"
+
+    url = (
         item.get("playbackurl")
         or item.get("stream_url")
         or item.get("url")
         or item.get("link")
         or item.get("content_url")
         or item.get("channel_url")
-        or "",
+        or ""
     )
+
+    add_channel(name, logo, url)
 
 
 for source in SOURCES:
+
     print(f"Downloading: {source}")
 
     try:
@@ -79,24 +95,24 @@ for source in SOURCES:
         print(f"Failed: {e}")
         continue
 
-    # Root List
+    # Root is a list
     if isinstance(data, list):
 
         for item in data:
 
-            # sscloud7 format
+            # SSCloud7 format
             if isinstance(item, dict) and "channeldata" in item:
 
                 for channel in item.get("channeldata", []):
-                    parse_item(channel)
+                    parse_item(channel, source)
 
             else:
-                parse_item(item)
+                parse_item(item, source)
 
-    # Root Dict
+    # Root is a dictionary
     elif isinstance(data, dict):
 
-        for key in [
+        for key in (
             "channeldata",
             "channels",
             "data",
@@ -104,7 +120,7 @@ for source in SOURCES:
             "items",
             "posts",
             "list",
-        ]:
+        ):
 
             if key not in data:
                 continue
@@ -114,12 +130,10 @@ for source in SOURCES:
             if isinstance(value, list):
 
                 for channel in value:
-                    parse_item(channel)
-
-OUTPUT_FILE = "local_channels.m3u"
+                    parse_item(channel, source)
 
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.writelines(playlist)
 
-print(f"Done! Generated {len(seen)} channels.")
-print(f"Saved as {OUTPUT_FILE}")
+print(f"\nDone! Generated {len(seen)} unique channels.")
+print(f"Saved to {OUTPUT_FILE}")
