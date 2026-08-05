@@ -5,9 +5,11 @@ OUTPUT = "live-events.m3u"
 
 PLAYLISTS = {
     "SonyLiv": "https://github.com/drmlive/sliv-live-events/raw/refs/heads/main/sonyliv.m3u",
-    "Fancode": "https://github.com/drmlive/fancode-live-events/raw/refs/heads/main/fancode.m3u",
-    "Prime Video": "https://github.com/srhady/willow-event/raw/refs/heads/main/primevideo_sports.m3u",
+    "Fancode": "https://github.com/doctor-8trange/zyphx8/raw/refs/heads/main/data/fancode.m3u",
+    "Hotstar": "https://jhsevetns-fhd.rtxcric.workers.dev/playlist.m3u",
+    "ICC TV": "https://github.com/doctor-8trange/nexphi0/raw/refs/heads/main/data/icc.m3u",
     "Willow": "https://github.com/srhady/willow-event/raw/refs/heads/main/live_sports.m3u",
+    "Prime Video": "https://github.com/srhady/willow-event/raw/refs/heads/main/primevideo_sports.m3u",
     "AxSports": "https://github.com/srhady/axsports/raw/refs/heads/main/playlist.m3u",
 }
 
