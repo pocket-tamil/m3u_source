@@ -15,9 +15,6 @@ https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-name="N TV" tvg-logo="https://play-lh.googleusercontent.com/UVc6l0tUqHwyP90mPznDMc2A3jLzSVVx1-Ux-OB3vKd6wcaln3RPN1pbuqiUd10tRbc" group-title="Local TV",N TV
 https://stream.sscloud7.in/live/ntv/index.m3u8
 
-#EXTINF:-1 tvg-name="Max Movies" tvg-logo="https://play-lh.googleusercontent.com/ex6JZgJ5vlmt_7K95JyKZRaEfgIe1jVqFZ8jhMo-a-r0bQhwcTbEeSTtsOnzNb7p3PHF" group-title="Local TV",Max Movies
-https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-
 #EXTINF:-1 tvg-name="Boys Tv" tvg-logo="https://sscloud7.in/rasinetwork/boystv.png" group-title="Local TV",Boys Tv
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
 
@@ -38,6 +35,9 @@ http://stream.sscloud7.com/live/subintv/index.mpd
 
 #EXTINF:-1 tvg-name="Suriyan TV" tvg-logo="https://play-lh.googleusercontent.com/xrhduYZfMC9K2QoICuL_mltG8mfw9TaUOTwtuVj_y7Hyq09_nOMBceniqwuWfAB-LyM" group-title="Local TV",Suriyan TV
 http://suriyantv.sscloud7.in/live/suriyantv/index.mpd
+
+#EXTINF:-1 tvg-name="Max Movies" tvg-logo="https://play-lh.googleusercontent.com/ex6JZgJ5vlmt_7K95JyKZRaEfgIe1jVqFZ8jhMo-a-r0bQhwcTbEeSTtsOnzNb7p3PHF" group-title="Local TV",Max Movies
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 
 #EXTINF:-1 tvg-name="Ayya Vaikundar Tv" tvg-logo="https://play-lh.googleusercontent.com/Wjryzlp0lgqUpxASoJW_9LttnkqAkR6OdK_F4z63_KtGCUvpALikeosMfqaIps-uovY=w240-h480-rw" group-title="Local TV",Ayya Vaikundar Tv
 http://ayyatv.sscloud7.in/live/ayyatv/index.m3u8
@@ -60,9 +60,6 @@ https://stream.sscloud7.in/live/maishatv/index.m3u8
 #EXTINF:-1 tvg-name="Sky Tv" tvg-logo="https://play-lh.googleusercontent.com/XAf3yuwvudSlv0RqvYxP1oUm7DsuqXanbtAzRFx9CI8dNAKOHkQbhfbpwohi9Lpf9w" group-title="Local TV",Sky Tv
 https://sscloud7.com/live/skytv/index.m3u8
 
-#EXTINF:-1 tvg-name="Malar Tv" tvg-logo="https://play-lh.googleusercontent.com/ktFafhaxQQYVgS3A-_WiuBhIWm9TBdkUdlJlKZhAN15QIWVZxKVWKXghIkFO-CLKeivm" group-title="Local TV",Malar Tv
-https://sscloud7.com/live/malartv/index.m3u8
-
 #EXTINF:-1 tvg-name="Pcv Tv" tvg-logo="https://play-lh.googleusercontent.com/5btL_rqwAHbmk7FbZTHMxtjhemefL5mT5XpsbFEkq9EA8Ky8CGcIPqNX-DHHFc0i1Q" group-title="Local TV",Pcv Tv
 https://stream.sscloud7.in/live/livepcv/index.mpd
 
@@ -74,9 +71,6 @@ http://live1.sscloud7.com/live/omsakthitv/index.mpd
 
 #EXTINF:-1 tvg-name="Devi Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png" group-title="Local TV",Devi Tv
 https://server.sscloud7.in/live/devitv/index.m3u8
-
-#EXTINF:-1 tvg-name="Smiley Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DT24xetsTN_ZW9g__mgsl8-BLxYxMq53VQ&s" group-title="Local TV",Smiley Tv
-https://sscloud7.com/live/smileytv/index.m3u8
 
 #EXTINF:-1 tvg-name="Deivaoli Tv" tvg-logo="https://play-lh.googleusercontent.com/OZC3XALE6RuarHXPuMoaP89xjuuui3_gV_xuk-W4Va_3y4PW-oN8HiwLKhrFZbcWtw=w240-h480-rw" group-title="Local TV",Deivaoli Tv
 http://deivaoli.sscloud7.in/live/deivaoli/index.mpd
@@ -92,9 +86,6 @@ https://live.sscloud7.in/live/aaryaatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Thentral Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1725798539.png" group-title="Local TV",Thentral Tv
 https://sscloud7.com/live/thendraltv/index.m3u8
-
-#EXTINF:-1 tvg-name="Mayuri Tv" tvg-logo="https://play-lh.googleusercontent.com/wmEtgSjC0zsvTSsw-OHXy_qdqi5GWXhP5EYhrpxlv-jVqk3Ji-M2keTBVz4Hs_duzD0=w240-h480-rw" group-title="Local TV",Mayuri Tv
-https://server.sscloud7.in/live/mayuritvtvl/index.m3u8
 
 #EXTINF:-1 tvg-name="Isai Tv" tvg-logo="https://play-lh.googleusercontent.com/JIDLyaNUGSSKfeACT3tH5u6zusXveTpGeRrff0bW-zn8A25nCvptdvLdPu_R9PpYpg" group-title="Local TV",Isai Tv
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
@@ -158,9 +149,6 @@ https://ipcloud.live/nvision/nvisionhd/index.m3u8
 
 #EXTINF:-1 tvg-name="Tvi HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLeZmBsIU3nOT8SqI0S41Lahu68TRIL4bWw&s" group-title="Local TV",Tvi HD
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
-
-#EXTINF:-1 tvg-name="Moon Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbTcq11HWdO5dJ8o_wjoXQdUH12P3Rq2Z3jg&s" group-title="Local TV",Moon Tv
-http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Astro Vinmin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Astro_Vinmeen_%282024%29.png" group-title="Local TV",Astro Vinmin
 https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8
