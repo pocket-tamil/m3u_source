@@ -214,7 +214,7 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 https://live1.sscloud7.in/live/vintv/index.m3u8
 
 #EXTINF:-1 tvg-name="INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1757781783_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",INFO TV
-https://app.ashokadigital.net/app/ce705f4a/index.m3u8
+https://127.0.0.1:8080/hls/tv.m3u8
 
 #EXTINF:-1 tvg-name="Params Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631200_params tv png lgog .png" group-title="Local TV",Params Tv
 https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
