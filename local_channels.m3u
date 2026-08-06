@@ -60,6 +60,9 @@ https://stream.sscloud7.in/live/maishatv/index.m3u8
 #EXTINF:-1 tvg-name="Sky Tv" tvg-logo="https://play-lh.googleusercontent.com/XAf3yuwvudSlv0RqvYxP1oUm7DsuqXanbtAzRFx9CI8dNAKOHkQbhfbpwohi9Lpf9w" group-title="Local TV",Sky Tv
 https://sscloud7.com/live/skytv/index.m3u8
 
+#EXTINF:-1 tvg-name="Rahul Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757628.PNG" group-title="Local TV",Rahul Tv
+http://raghultv.sscloud7.in/live/raghultv/index.mpd
+
 #EXTINF:-1 tvg-name="Pcv Tv" tvg-logo="https://play-lh.googleusercontent.com/5btL_rqwAHbmk7FbZTHMxtjhemefL5mT5XpsbFEkq9EA8Ky8CGcIPqNX-DHHFc0i1Q" group-title="Local TV",Pcv Tv
 https://stream.sscloud7.in/live/livepcv/index.mpd
 
@@ -71,6 +74,9 @@ http://live1.sscloud7.com/live/omsakthitv/index.mpd
 
 #EXTINF:-1 tvg-name="Devi Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png" group-title="Local TV",Devi Tv
 https://server.sscloud7.in/live/devitv/index.m3u8
+
+#EXTINF:-1 tvg-name="Ayya  Tv" tvg-logo="https://phoenixcreations.online/v1/008jenifertv/assets/tvchannels/jenifertv-tvchannelavathar-jenifertv1695969914.png" group-title="Local TV",Ayya  Tv
+http://raghultv.sscloud7.in/live/ayyatv/playlist.mpd
 
 #EXTINF:-1 tvg-name="Deivaoli Tv" tvg-logo="https://play-lh.googleusercontent.com/OZC3XALE6RuarHXPuMoaP89xjuuui3_gV_xuk-W4Va_3y4PW-oN8HiwLKhrFZbcWtw=w240-h480-rw" group-title="Local TV",Deivaoli Tv
 http://deivaoli.sscloud7.in/live/deivaoli/index.mpd
@@ -86,6 +92,9 @@ https://live.sscloud7.in/live/aaryaatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Thentral Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1725798539.png" group-title="Local TV",Thentral Tv
 https://sscloud7.com/live/thendraltv/index.m3u8
+
+#EXTINF:-1 tvg-name="Jenifer TV" tvg-logo="https://phoenixcreations.online/v1/008jenifertv/assets/channellogo/jenifertv-channellogo-jenifertv1695969380.png" group-title="Local TV",Jenifer TV
+http://raghultv.sscloud7.in/live/jenifertv/index.mpd
 
 #EXTINF:-1 tvg-name="Isai Tv" tvg-logo="https://play-lh.googleusercontent.com/JIDLyaNUGSSKfeACT3tH5u6zusXveTpGeRrff0bW-zn8A25nCvptdvLdPu_R9PpYpg" group-title="Local TV",Isai Tv
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
@@ -110,15 +119,6 @@ https://stream.galaxyott.live/live/dharshantv/index.m3u8
 
 #EXTINF:-1 tvg-name="A2A Tv" tvg-logo="https://play-lh.googleusercontent.com/3QhCPFmEaaCogxrmC35DPWZ9E11cs6jqsjN5Vf3FB9e4zlRnhNPkqikwvOUUU7eOBOk=w240-h480-rw" group-title="Local TV",A2A Tv
 https://live.sscloud7.in/live/a2atv/index.m3u8
-
-#EXTINF:-1 tvg-name="Rahul Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757628.PNG" group-title="Local TV",Rahul Tv
-http://raghultv.sscloud7.in/live/raghultv/index.mpd
-
-#EXTINF:-1 tvg-name="Ayya  Tv" tvg-logo="https://phoenixcreations.online/v1/008jenifertv/assets/tvchannels/jenifertv-tvchannelavathar-jenifertv1695969914.png" group-title="Local TV",Ayya  Tv
-http://raghultv.sscloud7.in/live/ayyatv/playlist.mpd
-
-#EXTINF:-1 tvg-name="Jenifer TV" tvg-logo="https://phoenixcreations.online/v1/008jenifertv/assets/channellogo/jenifertv-channellogo-jenifertv1695969380.png" group-title="Local TV",Jenifer TV
-http://raghultv.sscloud7.in/live/jenifertv/index.mpd
 
 #EXTINF:-1 tvg-name="OM TV" tvg-logo="https://phoenixcreations.online/v1/008jenifertv/assets/tvchannels/jenifertv-tvchannelavathar-jenifertv1695969956.png" group-title="Local TV",OM TV
 http://raghultv.sscloud7.in/live/ohmtv/playlist.mpd
@@ -214,7 +214,7 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 https://live1.sscloud7.in/live/vintv/index.m3u8
 
 #EXTINF:-1 tvg-name="INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1757781783_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",INFO TV
-https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
+http://192.168.1.33:8080/hls/TV.m3u8
 
 #EXTINF:-1 tvg-name="Params Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631200_params tv png lgog .png" group-title="Local TV",Params Tv
 https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
@@ -614,6 +614,9 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 
 #EXTINF:-1 tvg-name="rio tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785590479_WhatsApp Image 2026-08-01 at 6.41.03 PM.jpeg" group-title="Local TV",rio tv
 https://ipcloud.live/riotv/riotvhd/index.m3u8
+
+#EXTINF:-1 tvg-name="Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785674178_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",Tv
+https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 
 #EXTINF:-1 tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp Image 2026-08-06 at 12.21.27 PM.jpeg" group-title="Local TV",abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
