@@ -21,106 +21,62 @@ https://dai-fancode.pages.dev/mumbai/4248391_english_hls_1d475b161477105_1ta-di_
 #EXTINF:-1 tvg-id="4248182" tvg-name="Day 2   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png" tvg-language="English" group-title="Fancode",ENG | Day 2   World Feed
 https://dai-fancode.pages.dev/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="7551939263" tvg-name="Birmingham Phoenix vs SunRisers Leeds ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5137/1786015545137-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786137058~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074978/15mindvrm0150d85262cae44431b868831fd4ef1ffe07august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=lgfyYorSnWVOIXMCtNZS2YdPz4D0vGasvM46BThHVmEt-did=8YNCh7TDFbDFBve4UwYF4mMcgf3tqPXkdY5EXRoqzh1M-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.08.04.9-ut=paid-ttl=1800-type=paid-raf=1786135858-~hmac=776b47e57225758d604ab90834d5123c297a3e1e96ca9b5fc0f8b73426cc9417"}
+#EXTINF:-1 tvg-id="8790386367" tvg-name="Birmingham Phoenix vs SunRisers Leeds ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5137/1786015545137-b" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786138805~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074978/15mindvrm0150d85262cae44431b868831fd4ef1ffe07august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=h3z4RPC5EDeg3RV57yVwpkeim1XzCAyXCvxa7Eczr6zN-did=ArQYvWhlT3Ey9zLG0CrNS4jGAqqwbaPysUm2JUk06kz3-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.10.02.7-ut=paid-ttl=1800-type=paid-raf=1786137605-~hmac=9fbeeffa9d45bffb3ff5c53766159d197c80a68d61c3cf6e00d10eca58c7764a"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2027134/inallow-hundredmen-2026/eng/1540074978/15mindvrm0150d85262cae44431b868831fd4ef1ffe07august2026/master_ap.m3u8?a=ns&hdnea=exp=1786137058~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074978/15mindvrm0150d85262cae44431b868831fd4ef1ffe07august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=lgfyYorSnWVOIXMCtNZS2YdPz4D0vGasvM46BThHVmEt-did=8YNCh7TDFbDFBve4UwYF4mMcgf3tqPXkdY5EXRoqzh1M-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.08.04.9-ut=paid-ttl=1800-type=paid-raf=1786135858-~hmac=776b47e57225758d604ab90834d5123c297a3e1e96ca9b5fc0f8b73426cc9417
-
-#EXTINF:-1 tvg-id="B0GS57WVB9" tvg-name="The Hundred Mens Competition 2026 - 24th Match - Birmingham Phoenix vs Sunrisers Leeds" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.439cfda5-3924-4b06-8a5f-04eb96714b27/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",The Hundred Mens Competition 2026 - 24th Match - Birmingham Phoenix vs Sunrisers Leeds
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d528100f5052c5bbe18503ccf5dc845:ee73d720083412797646f90c64f10060
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/saq13g3n8i/out/v1/eca8b3190aab4da7ad62d849f3729eae/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HCHMRW1M" tvg-name="Wolves vs. Port Vale" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b0f7454-12ac-427e-adf9-ec679daaf263/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video",Wolves vs. Port Vale
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+https://live13p.hotstar.com/hls/live/2027134/inallow-hundredmen-2026/eng/1540074978/15mindvrm0150d85262cae44431b868831fd4ef1ffe07august2026/master_ap.m3u8?a=ns&hdnea=exp=1786138805~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074978/15mindvrm0150d85262cae44431b868831fd4ef1ffe07august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=h3z4RPC5EDeg3RV57yVwpkeim1XzCAyXCvxa7Eczr6zN-did=ArQYvWhlT3Ey9zLG0CrNS4jGAqqwbaPysUm2JUk06kz3-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.10.02.7-ut=paid-ttl=1800-type=paid-raf=1786137605-~hmac=9fbeeffa9d45bffb3ff5c53766159d197c80a68d61c3cf6e00d10eca58c7764a
 
 #EXTINF:-1 tvg-id="B0H8K1GTM6" tvg-name="MLP Dallas-2026 Playoffs: First Round, Day 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.570012b7-8e15-4993-a12a-44f77392b15f/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",MLP Dallas-2026 Playoffs: First Round, Day 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H9BBGFL8" tvg-name="Grand Prix de Trois Riviere - Friday Morning" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c6b05d0e-7a56-4c68-900a-2e4ae20e4ca5/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Grand Prix de Trois Riviere - Friday Morning
+#EXTINF:-1 tvg-id="B0HB5359PQ" tvg-name="Second Semifinal: Teams" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e16dc3eb-6d5d-49db-9506-914653dabcf9/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Second Semifinal: Teams
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0FN15Z7ZZ" tvg-name="PONY League World Series, Game 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9d9db6b2-5073-431e-864b-ff1b70111d18/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",PONY League World Series, Game 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H9KNZ4LY" tvg-name="Canada, ATP/WTA 3rd Round & Doubles 1st Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a61329fe-e2cc-4b4a-874a-e6eefbfa53ed/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Canada, ATP/WTA 3rd Round & Doubles 1st Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0FN15Z7ZZ" tvg-name="PONY League World Series, Game 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9d9db6b2-5073-431e-864b-ff1b70111d18/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",PONY League World Series, Game 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup.jpg" group-title="AxSports", Rogers Cup - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786221148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8434353d8afc7a2f5fcaf6ba8c19ec9b
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LIV%20Golf%20New%20York.jpg" group-title="AxSports", LIV Golf New York - LIV Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=1786221150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-32c021ac022d3913499667c582bb0784
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wolverhampton%20vs%20Port%20Vale.jpg" group-title="AxSports", Wolverhampton vs Port Vale - England League Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78713/chunks.m3u8?is_vip=false&token=1786221151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a573d4092ee3faa807915429a6a8a327
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wolverhampton%20vs%20Port%20Vale.jpg" group-title="AxSports", Wolverhampton vs Port Vale - England League Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78713-hd/chunks.m3u8?is_vip=false&token=1786221153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a6c71b970f8ae2dc741acf482c283d2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wycombe%20vs%20Stevenage.jpg" group-title="AxSports", Wycombe vs Stevenage - England League Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78712/chunks.m3u8?is_vip=false&token=1786221154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dfec544c447a84d533413eb3186fa392
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%20vs%20Padova.jpg" group-title="AxSports", Monza vs Padova - Europe Friendlies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a73653a3d248e0fcbd5ff27/chunks.m3u8?is_vip=false&token=1786221156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0410805e8718b3fc6beb8a94b44775be
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Middlesbrough%20vs%20Wrexham.jpg" group-title="AxSports", Middlesbrough vs Wrexham - England League Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7871f/chunks.m3u8?is_vip=false&token=1786221157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-880e4d4e70149f476c772f12eca2c169
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Middlesbrough%20vs%20Wrexham.jpg" group-title="AxSports", Middlesbrough vs Wrexham - England League Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7871f-hd/chunks.m3u8?is_vip=false&token=1786221158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f1ce703e4d4673c320d206aded971463
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786224755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8f141ef76a2779ef0095574239e55196
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wyndham%20Championship.jpg" group-title="AxSports", Wyndham Championship - PGA Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1786221160-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a70ca73170e5f951673c280b766b98cb
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estoril%20vs%20Famalicao.jpg" group-title="AxSports", Estoril vs Famalicao - Primeira Liga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed614/chunks.m3u8?is_vip=false&token=1786221162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da42f5057aa53ce80bccbc8276d7b6bc
+https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1786224757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4a1516ce025fb6b9a2e48d5a962686d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Grand%20Prix%20of%20Portland%2C%20Practice%201.jpg" group-title="AxSports", Grand Prix of Portland, Practice 1 - Indy NXT Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786221164-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f1df39cde4b55f789a535a9d3144b02c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786224759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1bb222da64b946adecf58a53ff45fa7b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Practice%201%20Grand%20Prix%20of%20Portland.jpg" group-title="AxSports", Practice 1: Grand Prix of Portland - INDYCAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1786224762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-db85987e7f1175d95d4cc56ed31e9b20
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%20Live.jpg" group-title="AxSports", Saratoga Live - Horse Racing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786224763-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c198bf907e84d45574b1981b4fd6bb07
 
