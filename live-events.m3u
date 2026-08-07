@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021882/1786078899750452_SLvsIND_warmup_match1_day1_landscape_thumb.jpg" group-title="SonyLiv", Day 1 - SLC XI vs IND - Warm-Up Match - 7 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786124292~acl=/*~id=33779541518394715697195903676514~hmac=e0041b81dacd0feea6bc9bd702a7a1538d2bb4fd45a54f0f60866c7e458e220b
+https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786130363~acl=/*~id=86168383203044781209558737853016~hmac=4acf2555d75276c44e63b700d001864d55572e01e963a16120321ca92987e817
 
 #EXTINF:-1 tvg-id="1803698613" tvg-name="London Spirit vs MI London ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2581/1785929952581-b" group-title="Hotstar", ENGLISH FHD @rtxcric
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786050096~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074975/15mindvrm0183743da88b524dff849709bd5dcc985106august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=SqGwMbewlLeLYnD5xBWZ3m97JVBLMQQZCh3HB2acKBzN-did=qB3LfDMMqXcy4Pz2VHq7oSGZzzzVsf2hnhPycvbfddqx-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.05.19.8-ut=paid-ttl=1800-type=paid-raf=1786048896-~hmac=9eadf4cbf3c2f050ddc46280b0f7a2282f008682ecc9dcc78adf3d237df06a51"}
@@ -25,17 +25,29 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GWK8WCDZ" tvg-name="Taranaki v Waikato" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a07fa29b-3a2a-4168-a994-7d1d6d28a008/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Taranaki v Waikato
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H2S3JNC8" tvg-name="Phygital Just Dance Playoffs" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9b45c642-98f2-4576-afd4-61aac6a3c860/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Phygital Just Dance Playoffs
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taranaki%20vs%20Waikato.jpg" group-title="AxSports", Taranaki vs Waikato - NPC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1786173446-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-67b7d4771db1db0b87f6f621528d0e9d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weekend%205%2C%20Day%201.jpg" group-title="AxSports", Weekend 5, Day 1 - Australian Darts Association
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1786167150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-204fcce725cabf7465effe42e80ab40d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1786173448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-815acab69b2e95eb048801cd36ed9d26
 
