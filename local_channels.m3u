@@ -214,7 +214,7 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 https://live1.sscloud7.in/live/vintv/index.m3u8
 
 #EXTINF:-1 tvg-name="INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1757781783_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",INFO TV
-https://127.0.0.1:8080/hls/tv.m3u8
+https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 
 #EXTINF:-1 tvg-name="Params Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631200_params tv png lgog .png" group-title="Local TV",Params Tv
 https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
@@ -245,9 +245,6 @@ https://account8.livebox.co.in/Yeshuahls/live.m3u8
 
 #EXTINF:-1 tvg-name="karthick tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782982584_ashoka-digital-640x360.gif" group-title="Local TV",karthick tv
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
-
-#EXTINF:-1 tvg-name="thalapathy tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739547835_WhatsApp_Image_2025-02-14_at_8.57.35_PM-removebg-preview.png" group-title="Local TV",thalapathy tv
-https://app.ashokadigital.net/app/1ef919c6/index.m3u8
 
 #EXTINF:-1 tvg-name="shalwin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769047456_234234234234.png" group-title="Local TV",shalwin tv
 https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
@@ -614,9 +611,6 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 
 #EXTINF:-1 tvg-name="rio tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785590479_WhatsApp Image 2026-08-01 at 6.41.03 PM.jpeg" group-title="Local TV",rio tv
 https://ipcloud.live/riotv/riotvhd/index.m3u8
-
-#EXTINF:-1 tvg-name="Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785674178_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",Tv
-https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 
 #EXTINF:-1 tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp Image 2026-08-06 at 12.21.27 PM.jpeg" group-title="Local TV",abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
