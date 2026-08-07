@@ -3,6 +3,7 @@ import requests
 SOURCES = [
     "https://sscloud7.in/multi/tamilott.json",
     "https://as.al/raw/NyCqwJ",
+    "https://tavapi.inditechman.com/api/tamiltvapp.json",
     "https://livetv.ashokadigital.net/api/api.php?get_posts=&page=1&count=361&api_key=cda11bx8aITlKsXdsfafadskljasldfjoierKLrteaadfjalM<",
 ]
 
