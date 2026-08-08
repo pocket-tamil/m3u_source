@@ -1,16 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="SonyLiv", Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786212283~acl=/*~id=44348644044477937925507074502394~hmac=f7aeae44fe6170e03f43e73ddc6487b81795b6728c4e1e3cef75609ade46476a
+https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786215921~acl=/*~id=47391408925183481168814203894790~hmac=7ddf8d269df29f7ae74f123f52b6f301223f23c1dd41b790976e3381ea70b15f
 
-#EXTINF:-1 tvg-id="4248250" tvg-name="Tanzania Vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" tvg-language="English" group-title="Fancode",ENG | Tanzania Vs Uganda
+#EXTINF:-1 tvg-id="4248250" tvg-name="Uganda Vs Tanzania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" tvg-language="English" group-title="Fancode",ENG | Uganda Vs Tanzania
 https://dai-fancode.pages.dev/mumbai/4248250_english_hls_604dbbc6e537886_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="5097791322" tvg-name="BWF Korea Masters: Semi-finals ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1716/1786120391716-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786170639~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540074378/15mindvrm0126d56a1fb8ad4827b1e4a1ed166a1afd08august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=i4vAdNq6fU4N2IFJF8GmRQhAVoMxc6dRV-did=YpdOUr3PW7rYmIIW1rH3oepLShQbhPW1o5FttgXs2C88-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.02.22.0-ut=paid-ttl=1800-type=paid-raf=1786169439-~hmac=34f7acde89a76048daf5a31e280fea8c9ba779db669415283f09f9e3be69dd58"}
+#EXTINF:-1 tvg-id="4248226" tvg-name="Semifinal 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg" tvg-language="English" group-title="Fancode",ENG | Semifinal 1
+https://dai-fancode.pages.dev/mumbai/4248226_english_hls_467381dcea15960_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="2666316396" tvg-name="BWF Korea Masters: Semi-finals ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1716/1786120391716-b" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786175672~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540074378/15mindvrm0126d56a1fb8ad4827b1e4a1ed166a1afd08august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=qh8r5e1Hzi7wChkbzSuT3i224wETFF0iZpa4B4Re4rqi-did=1tT5QpElTqPgrJbq4L6hOm9ZazLnaqXFKOJZrXs83ZsM-cc=in-bl=jhs-de=9-pl=androidtv-ap=25.10.05.1-ut=paid-ttl=1800-type=paid-raf=1786174472-~hmac=c6943f9c97320783df1873dcf785c932997daf9efa7a4f2b116b4c9c09266a28"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540074378/15mindvrm0126d56a1fb8ad4827b1e4a1ed166a1afd08august2026/master_ap.m3u8?a=ns&hdnea=exp=1786170639~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540074378/15mindvrm0126d56a1fb8ad4827b1e4a1ed166a1afd08august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=i4vAdNq6fU4N2IFJF8GmRQhAVoMxc6dRV-did=YpdOUr3PW7rYmIIW1rH3oepLShQbhPW1o5FttgXs2C88-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.02.22.0-ut=paid-ttl=1800-type=paid-raf=1786169439-~hmac=34f7acde89a76048daf5a31e280fea8c9ba779db669415283f09f9e3be69dd58
+https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540074378/15mindvrm0126d56a1fb8ad4827b1e4a1ed166a1afd08august2026/master_ap.m3u8?a=ns&hdnea=exp=1786175672~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540074378/15mindvrm0126d56a1fb8ad4827b1e4a1ed166a1afd08august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=qh8r5e1Hzi7wChkbzSuT3i224wETFF0iZpa4B4Re4rqi-did=1tT5QpElTqPgrJbq4L6hOm9ZazLnaqXFKOJZrXs83ZsM-cc=in-bl=jhs-de=9-pl=androidtv-ap=25.10.05.1-ut=paid-ttl=1800-type=paid-raf=1786174472-~hmac=c6943f9c97320783df1873dcf785c932997daf9efa7a4f2b116b4c9c09266a28
 
 #EXTINF:-1 tvg-id="6f616c92-9bc5-46a0-9ef5-090af5e31125" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wmkx8hoiq4mkee2ywud0" tvg-lang="English" group-title="ICC TV",English | Tanzania v Uganda (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -23,40 +26,52 @@ https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540074378/15m
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786196711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fd62d7d1339b86473934068a3ada5d941433b3aeb8c6aa50786230d1a8b4ce93/manifest.mpd?vcfilter=6f616c92-9bc5-46a0-9ef5-090af5e31125&
 
+#EXTINF:-1 tvg-id="B0HBX2MD1B" tvg-name="Hawke's Bay v Tasman" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc7578f7-283f-4deb-ab35-9e4616b6d273/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Hawke's Bay v Tasman
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0HCT5WN87" tvg-name="PPA Tour: Asia Ho Chi Minh-Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b539806-a5a1-4cba-ba78-979d9a13dfdb/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",PPA Tour: Asia Ho Chi Minh-Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bay%20of%20Plenty%20vs%20Northland.jpg" group-title="AxSports", Bay of Plenty vs Northland - NPC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1786255346-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8e49fe4979a4ae00a67ce9d1a5f44d97
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adelaide%20University%20SC%20vs%20Adelaide%20Vipers.jpg" group-title="AxSports", Adelaide University SC vs Adelaide Vipers - AUS-S State League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a76c3d19d49414102643e10/chunks.m3u8?is_vip=false&token=1786255348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4dff45b8c0b4987f8a238ea199c35f65
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a76c3d19d49414102643e10/chunks.m3u8?is_vip=false&token=1786259857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb716e738a3e0f5fee1be171f0dda7b2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Consadole%20Sapporo%20vs%20Tokushima%20Vortis.jpg" group-title="AxSports", Hokkaido Consadole Sapporo vs Tokushima Vortis - J2 League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed55d/chunks.m3u8?is_vip=false&token=1786255349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6807aef929981b3588f1bc48ead547dd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed55d/chunks.m3u8?is_vip=false&token=1786259859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4224f4d02b5292f07ef99c6a14641c5e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Port%20Adelaide%20vs%20Sydney%20Swans.jpg" group-title="AxSports", Port Adelaide vs Sydney Swans - AFL Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786255351-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-674ad61325191c14db90f2ddcb3d3637
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786259860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4ebbc16404b54ec28a050f3ea440b984
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yenisey%20Krasnoyarsk%20Women%20vs%20Krylya%20Sovetov%20Samara%20Women.jpg" group-title="AxSports", Yenisey Krasnoyarsk Women vs Krylya Sovetov Samara Women - Major League Soccer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a565694d06bfc5094e14314/chunks.m3u8?is_vip=false&token=1786255356-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b54b7deca4eac1121f7780b7f356421
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a565694d06bfc5094e14314/chunks.m3u8?is_vip=false&token=1786259862-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-98600e13b8da05d7370e52ca205ee2c4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Essendon%20vs%20Geelong%20Cats.jpg" group-title="AxSports", Essendon vs Geelong Cats - AFL Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1786255357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-69a8102d68f1d523b88fb1e271770b96
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1786259864-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ae18e236855e20c33927dd895490ad0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hawke's%20Bay%20vs%20Tasman.jpg" group-title="AxSports", Hawke's Bay vs Tasman - NPC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1786259866-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6429a97e7c9741ce223ed94c7a64946c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Setagaya%20SfidWomen%20vs%20Yokohama%20FC%20Seagulls%20Women.jpg" group-title="AxSports", Setagaya SfidWomen vs Yokohama FC Seagulls Women - JPN Nadeshiko League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd52114/chunks.m3u8?is_vip=false&token=1786259867-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e0e852b81b5d359eacdf56c7a09c75b9
 
