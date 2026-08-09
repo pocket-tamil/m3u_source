@@ -15,6 +15,9 @@ https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-name="N TV" tvg-logo="https://play-lh.googleusercontent.com/UVc6l0tUqHwyP90mPznDMc2A3jLzSVVx1-Ux-OB3vKd6wcaln3RPN1pbuqiUd10tRbc" group-title="Local TV",N TV
 https://stream.sscloud7.in/live/ntv/index.m3u8
 
+#EXTINF:-1 tvg-name="Anandham Tv" tvg-logo="https://play-lh.googleusercontent.com/sPVbaR_HUZkQKIUGw0MalnzReEY7PGXcF4_S0RzAQgoe3DNsivPEYPAwZ6fHqcBOM1vR" group-title="Local TV",Anandham Tv
+https://server.sscloud7.in/live/anandhamtv/index.mpd
+
 #EXTINF:-1 tvg-name="Boys Tv" tvg-logo="https://sscloud7.in/rasinetwork/boystv.png" group-title="Local TV",Boys Tv
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
 
@@ -26,9 +29,6 @@ https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
 
 #EXTINF:-1 tvg-name="Surya Tv" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT" group-title="Local TV",Surya Tv
 https://galaxyott.live/hls/suryatv.m3u8
-
-#EXTINF:-1 tvg-name="Anandham Tv" tvg-logo="https://play-lh.googleusercontent.com/sPVbaR_HUZkQKIUGw0MalnzReEY7PGXcF4_S0RzAQgoe3DNsivPEYPAwZ6fHqcBOM1vR" group-title="Local TV",Anandham Tv
-https://server.sscloud7.in/live/anandhamtv/index.mpd
 
 #EXTINF:-1 tvg-name="Subin Tv" tvg-logo="https://play-lh.googleusercontent.com/15SYoZc_Ris_TrrUQcLNjWCXL4Py_xLruhVDVLCNlAewB5jUaT_YqGzyVaMDgmfyA3Jg" group-title="Local TV",Subin Tv
 http://stream.sscloud7.com/live/subintv/index.mpd
@@ -386,6 +386,9 @@ http://122.165.249.163:8080/hls/supertv/index.m3u8
 
 #EXTINF:-1 tvg-name="thirumalai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775583461_WhatsApp Image 2026-04-07 at 6.43.19 PM.jpeg" group-title="Local TV",thirumalai tv
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+
+#EXTINF:-1 tvg-name="jaya subu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786290541_WhatsApp Image 2026-08-09 at 8.35.04 PM.jpeg" group-title="Local TV",jaya subu tv
+http://view.rcserver.in/tmp_hls11/jeyasubbutv/index.m3u8
 
 #EXTINF:-1 tvg-name="anjtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783396931_ANJ LOGO breakfree copy.png" group-title="Local TV",anjtv
 https://rtmp.notvstream.in/anjtv/anjtv/index.m3u8
