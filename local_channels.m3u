@@ -612,6 +612,9 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-name="rio tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785590479_WhatsApp Image 2026-08-01 at 6.41.03 PM.jpeg" group-title="Local TV",rio tv
 https://ipcloud.live/riotv/riotvhd/index.m3u8
 
+#EXTINF:-1 tvg-name="thoma tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786264094_WhatsApp Image 2026-08-08 at 10.03.07 PM.jpeg" group-title="Local TV",thoma tv
+https://thoma.stream.onecloudlive.in/thoma/thoma/index.m3u8
+
 #EXTINF:-1 tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp Image 2026-08-06 at 12.21.27 PM.jpeg" group-title="Local TV",abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
 
@@ -766,7 +769,7 @@ hgchgv
 https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 
 #EXTINF:-1 tvg-name="Jayaam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732251489_Jayaam copy.png" group-title="Local TV",Jayaam tv
-https://app.ashokadigital.net/app/67a779e9/index.m3u8
+https://app.ashoapp/67a779e9/index.m3u8
 
 #EXTINF:-1 tvg-name="kallai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774607362_Kallai Tv.png" group-title="Local TV",kallai tv
 rtmp://kallaiads.stream.onecloudlive.in:1935/kallaiads/kallaitv
