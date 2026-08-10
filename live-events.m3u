@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4248280" tvg-name="Saint Lucia Kings Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248280_53026_ABF_SLK_FC-Web.png" tvg-language="English" group-title="Fancode",ENG | Saint Lucia Kings Vs Antigua & Barbuda Falcons
-https://dai-fancode.pages.dev/mumbai/4248280_english_hls_93d03dca8e84670_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
 #EXTINF:-1 tvg-id="101109987" tvg-name="Philadelphia Phillies @ Toronto Blue Jays ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1368/1786189721368-b" group-title="Hotstar", ENGLISH FHD @rtxcric
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786312597~acl=/hls/live/2123129/inallow-mlb-2026/eng/1540074939/15mindvrm01cec46be6a067449ea55cf3c5c864e08a09august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=keWSUgWCrSGV0DuzIYTpSsf9D4EWt0y9DHGCcSuDEuMH-did=6zDE1SQr9wjdPaHZIPVNwIeOf7oiySoNNshl4kj9RLHo-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.07.02.6-ut=paid-ttl=1800-type=paid-raf=1786311397-~hmac=fd65d61f5dd6e5c5aad2bb8eb11a8dd6d1ebdb09644ca5b5bb6f6b94131ec88c"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
@@ -14,43 +11,4 @@ https://live14p.hotstar.com/hls/live/2123129/inallow-mlb-2026/eng/1540074939/15m
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://live13p.hotstar.com/hls/live/2123051/inallow-mlb-2026/hin/1540074939/15mindvrm01cec46be6a067449ea55cf3c5c864e08a09august2026/master_ap.m3u8?a=ns&hdnea=exp=1786312599~acl=/hls/live/2123051/inallow-mlb-2026/hin/1540074939/15mindvrm01cec46be6a067449ea55cf3c5c864e08a09august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=keWSUgWCrSGV0DuzIYTpSsf9D4EWt0y9DHGCcSuDEuMH-did=6zDE1SQr9wjdPaHZIPVNwIeOf7oiySoNNshl4kj9RLHo-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.06.6-ut=paid-ttl=1800-type=paid-raf=1786311399-~hmac=c70d6bea5a5de0fcbf1f8fe2c8a8f6fff0c2dadc8a1258dd7e5030c5ea44c6f5
-
-#EXTINF:-1 tvg-id="B0HCVBP755" tvg-name="Caribbean Premier League 2026 - 3rd Match - Antigua And Barbuda Falcons vs Saint Lucia Kings" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c28b9d19-7582-4752-940c-fb4cbbedfaf0/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Caribbean Premier League 2026 - 3rd Match - Antigua And Barbuda Falcons vs Saint Lucia Kings
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wggd0kavgs/out/v1/3dd6c0550f904bde9d1dc1b59742e035/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HBB8X2NB" tvg-name="Antigua & Barbuda Falcons vs. St. Lucia Kings" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bd5e41a-4676-4cea-8b28-b4f20d4de682/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Antigua & Barbuda Falcons vs. St. Lucia Kings
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20vs%20Club%20Tijuana.jpg" group-title="AxSports", San Diego vs Club Tijuana - Leagues Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb62/chunks.m3u8?is_vip=false&token=1786420955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8761ccbbbdaff536ef7f22cda8e65ca0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20vs%20Club%20Tijuana.jpg" group-title="AxSports", San Diego vs Club Tijuana - Leagues Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb62-hd/chunks.m3u8?is_vip=false&token=1786420956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aea6001c3ec12df0b7b34c253fff59dc
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20vs%20Portland%20Timbers.jpg" group-title="AxSports", Club America vs Portland Timbers - Leagues Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb66/chunks.m3u8?is_vip=false&token=1786420958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15876996f760051e54399d749c6c821d
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20vs%20Portland%20Timbers.jpg" group-title="AxSports", Club America vs Portland Timbers - Leagues Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb66-hd/chunks.m3u8?is_vip=false&token=1786420959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-52e91ef29e47652ef5d0938ff987cbfd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Coast%20vs%20Auckland%20City.jpg" group-title="AxSports", Central Coast vs Auckland City - OFC Champions League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f9218cb9e8c43b3bb20c/chunks.m3u8?is_vip=false&token=1786420961-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-234b989be7081c67f3060720d45bcb50
 
