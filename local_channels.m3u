@@ -67,13 +67,13 @@ http://raghultv.sscloud7.in/live/raghultv/index.mpd
 https://stream.sscloud7.in/live/livepcv/index.mpd
 
 #EXTINF:-1 tvg-name="Vinayaga Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Local TV",Vinayaga Tv
-https://server.sscloud7.in/live/vinayagatv/index.m3u8
+http://vinayagatv.sscloud7.in/live/vinayagatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Om Sakthi Tv" tvg-logo="https://play-lh.googleusercontent.com/HwAxBfvYnVONPV82QxbaCOvbNjC3Xc7jZgMWCNusF_eLDbUHZhAUB2W8y0AL_KHb8w" group-title="Local TV",Om Sakthi Tv
 http://live1.sscloud7.com/live/omsakthitv/index.mpd
 
 #EXTINF:-1 tvg-name="Devi Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png" group-title="Local TV",Devi Tv
-https://server.sscloud7.in/live/devitv/index.m3u8
+http://devitv.sscloud7.in/live/devitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Ayya  Tv" tvg-logo="https://phoenixcreations.online/v1/008jenifertv/assets/tvchannels/jenifertv-tvchannelavathar-jenifertv1695969914.png" group-title="Local TV",Ayya  Tv
 http://raghultv.sscloud7.in/live/ayyatv/playlist.mpd
@@ -109,7 +109,7 @@ https://sscloud7.com/live/jithtv/index.m3u8
 https://live.applelive.in/vtv/vtv/index.m3u8
 
 #EXTINF:-1 tvg-name="King Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812585.PNG" group-title="Local TV",King Tv
-http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8
+http://kingtv.sscloud7.in/kingtv/kingtv/index.mpd
 
 #EXTINF:-1 tvg-name="Maran Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757327.PNG" group-title="Local TV",Maran Tv
 https://server.sscloud7.in/live/marantv/index.mpd
@@ -388,7 +388,7 @@ http://122.165.249.163:8080/hls/supertv/index.m3u8
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
 
 #EXTINF:-1 tvg-name="jaya subu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786290541_WhatsApp Image 2026-08-09 at 8.35.04 PM.jpeg" group-title="Local TV",jaya subu tv
-http://view.rcserver.in/tmp_hls11/jeyasubbutv/index.m3u8
+http://view.rcserver.in/tmp_hls6/jeyasubbutv/index.m3u8
 
 #EXTINF:-1 tvg-name="anjtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783396931_ANJ LOGO breakfree copy.png" group-title="Local TV",anjtv
 https://rtmp.notvstream.in/anjtv/anjtv/index.m3u8
