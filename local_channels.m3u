@@ -222,9 +222,6 @@ https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
 #EXTINF:-1 tvg-name="Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782816106_Ashoka TV LOGO SWF.gif" group-title="Local TV",Ashoka Tv
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 
-#EXTINF:-1 tvg-name="palkarnu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785202037_palkaarnu tv logo png.png" group-title="Local TV",palkarnu tv
-http://192.168.1.10:8080/hls/TV.m3u8
-
 #EXTINF:-1 tvg-name="ARK Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784905126_WhatsApp Image 2026-07-24 at 20.08.51.jpeg" group-title="Local TV",ARK Tv
 https://ktismaservers.in:3917/live/arktvlive.m3u8
 
