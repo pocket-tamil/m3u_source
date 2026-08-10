@@ -1,81 +1,51 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4248055" tvg-name="Ireland Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" tvg-language="English" group-title="Fancode",ENG | Ireland Vs Afghanistan
-https://dai-fancode.pages.dev/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
 #EXTINF:-1 tvg-id="4247980" tvg-name="Outer Delhi Warriors Vs Purani Dilli 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | Outer Delhi Warriors Vs Purani Dilli 6
 https://dai-fancode.pages.dev/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248362" tvg-name="Oman Vs Goa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-T20is-old.png" tvg-language="English" group-title="Fancode",ENG | Oman Vs Goa
-https://dai-fancode.pages.dev/mumbai/4248362_english_hls_219877dd9747594_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="1364330321" tvg-name="Trent Rockets vs Southern Brave ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1580/1786284681580-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786384419~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074993/15mindvrm0159f3520fe5154bfa9fdcccdee401f9af10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=aHOOkH7hLVHYHTcJNhSqcpr5e9UBQa5teuVefAbAajx2-did=fgzcnXEn2qvZvoPNVlErDxqCjrSP8MfQsUsxKbzoi0V7-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.04.11.7-ut=paid-ttl=1800-type=paid-raf=1786383219-~hmac=da7ce0d080139ffc42a4540b8fea5f03049d2240dc5901c6bfd779071abf6ef7"}
+#EXTINF:-1 tvg-id="5214146948" tvg-name="Trent Rockets vs Southern Brave ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1580/1786284681580-b" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786387770~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074993/15mindvrm0159f3520fe5154bfa9fdcccdee401f9af10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Ddz9CLOYguGsjCR8lyHwwgJsCOZc2N1Osqi137tbIJeN-did=vP2SH13VIpL7rzSxyeZOzEu25XBrLFt5GlL0ocVa0WT0-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.06.23.6-ut=paid-ttl=1800-type=paid-raf=1786386570-~hmac=153aa3186cf371d05ea58dd0c1498b370ecc6bc7ce91aea275cde4a816ae5af4"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2027134/inallow-hundredmen-2026/eng/1540074993/15mindvrm0159f3520fe5154bfa9fdcccdee401f9af10august2026/master_ap.m3u8?a=ns&hdnea=exp=1786384419~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074993/15mindvrm0159f3520fe5154bfa9fdcccdee401f9af10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=aHOOkH7hLVHYHTcJNhSqcpr5e9UBQa5teuVefAbAajx2-did=fgzcnXEn2qvZvoPNVlErDxqCjrSP8MfQsUsxKbzoi0V7-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.04.11.7-ut=paid-ttl=1800-type=paid-raf=1786383219-~hmac=da7ce0d080139ffc42a4540b8fea5f03049d2240dc5901c6bfd779071abf6ef7
+https://live13p.hotstar.com/hls/live/2027134/inallow-hundredmen-2026/eng/1540074993/15mindvrm0159f3520fe5154bfa9fdcccdee401f9af10august2026/master_ap.m3u8?a=ns&hdnea=exp=1786387770~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074993/15mindvrm0159f3520fe5154bfa9fdcccdee401f9af10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Ddz9CLOYguGsjCR8lyHwwgJsCOZc2N1Osqi137tbIJeN-did=vP2SH13VIpL7rzSxyeZOzEu25XBrLFt5GlL0ocVa0WT0-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.06.23.6-ut=paid-ttl=1800-type=paid-raf=1786386570-~hmac=153aa3186cf371d05ea58dd0c1498b370ecc6bc7ce91aea275cde4a816ae5af4
 
-#EXTINF:-1 tvg-id="5318315855" tvg-name="Purani Dilli 6 vs Outer Delhi Warriors HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/623/1786277630623-b" group-title="Hotstar", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786384416~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=aHOOkH7hLVHYHTcJNhSqcpr5e9UBQa5teuVefAbAajx2-did=fgzcnXEn2qvZvoPNVlErDxqCjrSP8MfQsUsxKbzoi0V7-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.07.14.1-ut=paid-ttl=1800-type=paid-raf=1786383216-~hmac=f863849d769c8aee7a191a6613167bcf2acce841be0977d92a02986cdbd7937e"}
+#EXTINF:-1 tvg-id="3570776342" tvg-name="Purani Dilli 6 vs Outer Delhi Warriors HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/623/1786277630623-b" group-title="Hotstar", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786387772~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Ddz9CLOYguGsjCR8lyHwwgJsCOZc2N1Osqi137tbIJeN-did=vP2SH13VIpL7rzSxyeZOzEu25XBrLFt5GlL0ocVa0WT0-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.05.12.8-ut=paid-ttl=1800-type=paid-raf=1786386572-~hmac=5ebcb22ea243307624605f9c13672002cfcec8a903a0ebfb721fda1eca6f8e3e"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap.m3u8?a=ns&hdnea=exp=1786384416~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=aHOOkH7hLVHYHTcJNhSqcpr5e9UBQa5teuVefAbAajx2-did=fgzcnXEn2qvZvoPNVlErDxqCjrSP8MfQsUsxKbzoi0V7-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.07.14.1-ut=paid-ttl=1800-type=paid-raf=1786383216-~hmac=f863849d769c8aee7a191a6613167bcf2acce841be0977d92a02986cdbd7937e
+https://live15p.hotstar.com/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap.m3u8?a=ns&hdnea=exp=1786387772~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Ddz9CLOYguGsjCR8lyHwwgJsCOZc2N1Osqi137tbIJeN-did=vP2SH13VIpL7rzSxyeZOzEu25XBrLFt5GlL0ocVa0WT0-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.05.12.8-ut=paid-ttl=1800-type=paid-raf=1786386572-~hmac=5ebcb22ea243307624605f9c13672002cfcec8a903a0ebfb721fda1eca6f8e3e
 
 #EXTINF:-1 tvg-id="B0HCTYWK8J" tvg-name="Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.33a735b4-e330-411c-870a-ce6487621bc4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4ewgxa3j3d/out/v1/678c3d45170e407cab21ad7a0796ae2d/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ewgxa3j3d/out/v1/678c3d45170e407cab21ad7a0796ae2d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H8PQMKMQ" tvg-name="The Hundred Women's Competition 2026 - 29th Match - Trent Rockets Women vs Southern Brave Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2bc05dcc-06c7-44d3-b15b-74599a8a5bec/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",The Hundred Women's Competition 2026 - 29th Match - Trent Rockets Women vs Southern Brave Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h5k5laylkq/out/v1/004d46ce4fdf49eb83725eaf74240aeb/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H8CQYPF5" tvg-name="The Hundred Mens Competition 2026 - 29th Match - Trent Rockets vs Southern Brave" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9cf20c9e-173f-4ceb-92d5-247b0b37ef21/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",The Hundred Mens Competition 2026 - 29th Match - Trent Rockets vs Southern Brave
+#EXTINF:-1 tvg-id="B0H8CQYPF5" tvg-name="The Hundred Mens Competition 2026 - 29th Match - Trent Rockets vs Southern Brave" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9cf20c9e-173f-4ceb-92d5-247b0b37ef21/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",The Hundred Mens Competition 2026 - 29th Match - Trent Rockets vs Southern Brave
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d90b5d203600947dca7edb4422a2b51:aa30b2d1feaf767f5b000356d5ea62ee
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HBCSC5T9" tvg-name="Ireland vs. Afghanistan" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e99dc400-6ad6-4249-b2d2-e7463c0dc768/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Ireland vs. Afghanistan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rockets%20vs%20Brave.jpg" group-title="AxSports", Rockets vs Brave - The Hundred Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786468649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d45adb9b4ae7c3e2f90feab1b0191339
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fakel%20vs%20Akhmat.jpg" group-title="AxSports", Fakel vs Akhmat - Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb52/chunks.m3u8?is_vip=false&token=1786468653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-289eca6ab9e9ccbc5ec80c84e5a5db58
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb52/chunks.m3u8?is_vip=false&token=1786472250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ba6ad1c0b2c47eb36d13df5eb32b67f4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup.jpg" group-title="AxSports", Rogers Cup - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786468654-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-95e26e0a418c019497ee6f5af5cae4de
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Benfica%20B%20vs%20Leixoes.jpg" group-title="AxSports", Benfica B vs Leixoes - Segunda Liga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78854/chunks.m3u8?is_vip=false&token=1786468662-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a9b2fee3cdad6fc0ee8112280ae96754
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786472252-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3aa101fd37702eac8679488ede676854
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lusit%C3%A2nia%20Lourosa%20vs%20FC%20Porto%20B.jpg" group-title="AxSports", Lusitânia Lourosa vs FC Porto B - Segunda Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78851/chunks.m3u8?is_vip=false&token=1786468663-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ad56463e4ee2bf44078529ca903f7a5c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78851/chunks.m3u8?is_vip=false&token=1786472259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-30380738665c9d20808f82a3bb042634
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rockets%20vs%20Brave.jpg" group-title="AxSports", Rockets vs Brave - The Hundred
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786468665-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cdf49da501aa72367dcf54a469f90dc2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786472261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6418b772385b125722ed0a0398cff4b
 
