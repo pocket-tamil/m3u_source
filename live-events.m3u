@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="4247985" tvg-name="East Delhi Riders Vs West Delhi Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | East Delhi Riders Vs West Delhi Lions
+https://dai-fancode.pages.dev/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="101109987" tvg-name="Philadelphia Phillies @ Toronto Blue Jays ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1368/1786189721368-b" group-title="Hotstar", ENGLISH FHD @rtxcric
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786312597~acl=/hls/live/2123129/inallow-mlb-2026/eng/1540074939/15mindvrm01cec46be6a067449ea55cf3c5c864e08a09august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=keWSUgWCrSGV0DuzIYTpSsf9D4EWt0y9DHGCcSuDEuMH-did=6zDE1SQr9wjdPaHZIPVNwIeOf7oiySoNNshl4kj9RLHo-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.07.02.6-ut=paid-ttl=1800-type=paid-raf=1786311397-~hmac=fd65d61f5dd6e5c5aad2bb8eb11a8dd6d1ebdb09644ca5b5bb6f6b94131ec88c"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
