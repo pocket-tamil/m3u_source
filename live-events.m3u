@@ -1,34 +1,58 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708502815385_DC26_SC_DELHI_vs_Indian_Air_Force_FT_landscape_thumb.jpg" group-title="SonyLiv", SC Delhi vs Indian Air Force FT - 10 Aug 2026 [ENG] - IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000293/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786410769~acl=/*~id=77594359575482498289756670411433~hmac=b849776521ef9bea92cae2efa964733e240dd026f30e6c9d8e0bea251ebff50f
-
-#EXTINF:-1 tvg-id="4247985" tvg-name="East Delhi Riders Vs West Delhi Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | East Delhi Riders Vs West Delhi Lions
-https://dai-fancode.pages.dev/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://sonydaimenew.akamaized.net/hls/live/20000293/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786415623~acl=/*~id=06625123205961759897983877866583~hmac=30df8b325d9cfee3978847c18e694802f13536e45f7b811d0bb7e918b64c32e5
 
 #EXTINF:-1 tvg-id="4248055" tvg-name="Ireland Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" tvg-language="English" group-title="Fancode",ENG | Ireland Vs Afghanistan
 https://dai-fancode.pages.dev/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4247980" tvg-name="Purani Dilli 6 Vs Outer Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | Purani Dilli 6 Vs Outer Delhi Warriors
+#EXTINF:-1 tvg-id="4247980" tvg-name="Outer Delhi Warriors Vs Purani Dilli 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | Outer Delhi Warriors Vs Purani Dilli 6
 https://dai-fancode.pages.dev/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="2588131528" tvg-name="Purani Dilli 6 vs Outer Delhi Warriors HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/623/1786277630623-b" group-title="Hotstar", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786369312~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0RhPcnloJz4KCD1i0Cr9p8B34WSOdbCFj33rkOwOeepR-did=V0qW5ml36pMiyQz0zmv41bUsVe4LqP3tq93xpmUbTpsp-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.09.15.3-ut=paid-ttl=1800-type=paid-raf=1786368112-~hmac=d3bcf0655a4ef99f7026358595fe0e7d2cd56cea13ed350be375dde5b7b4acbd"}
+#EXTINF:-1 tvg-id="4248362" tvg-name="Oman Vs Goa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-T20is-old.png" tvg-language="English" group-title="Fancode",ENG | Oman Vs Goa
+https://dai-fancode.pages.dev/mumbai/4248362_english_hls_219877dd9747594_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="6100885978" tvg-name="Trent Rockets vs Southern Brave ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2417/1786284462417-b" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786374358~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074871/15mindvrm018d1a2036edb74de9a0e3855039a3432b10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=JrjAwaWqPYZ4PWzq7vs6knIW9oA1cx8VHCYHTNuyiLZp-did=hhMwitCtCz1RTXJWD6iUbf8KJlH4Y8jJNtO7EPmGtZKJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.10.27.1-ut=paid-ttl=1800-type=paid-raf=1786373158-~hmac=c556c0a17c2174b42fd4187ebd72a4c656c633e3861a8bae3f14e12caab463a5"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap.m3u8?a=ns&hdnea=exp=1786369312~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0RhPcnloJz4KCD1i0Cr9p8B34WSOdbCFj33rkOwOeepR-did=V0qW5ml36pMiyQz0zmv41bUsVe4LqP3tq93xpmUbTpsp-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.09.15.3-ut=paid-ttl=1800-type=paid-raf=1786368112-~hmac=d3bcf0655a4ef99f7026358595fe0e7d2cd56cea13ed350be375dde5b7b4acbd
+https://live14p.hotstar.com/hls/live/2003894/inallow-hundredwo-2026/eng/1540074871/15mindvrm018d1a2036edb74de9a0e3855039a3432b10august2026/master_ap.m3u8?a=ns&hdnea=exp=1786374358~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074871/15mindvrm018d1a2036edb74de9a0e3855039a3432b10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=JrjAwaWqPYZ4PWzq7vs6knIW9oA1cx8VHCYHTNuyiLZp-did=hhMwitCtCz1RTXJWD6iUbf8KJlH4Y8jJNtO7EPmGtZKJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.10.27.1-ut=paid-ttl=1800-type=paid-raf=1786373158-~hmac=c556c0a17c2174b42fd4187ebd72a4c656c633e3861a8bae3f14e12caab463a5
+
+#EXTINF:-1 tvg-id="2364717012" tvg-name="Purani Dilli 6 vs Outer Delhi Warriors HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/623/1786277630623-b" group-title="Hotstar", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786374343~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=JrjAwaWqPYZ4PWzq7vs6knIW9oA1cx8VHCYHTNuyiLZp-did=hhMwitCtCz1RTXJWD6iUbf8KJlH4Y8jJNtO7EPmGtZKJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.06.15.7-ut=paid-ttl=1800-type=paid-raf=1786373143-~hmac=096727764064d327d1d34de729fa013f6b70443c57221ff301332a84bb3e2b73"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live15p.hotstar.com/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap.m3u8?a=ns&hdnea=exp=1786374343~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=JrjAwaWqPYZ4PWzq7vs6knIW9oA1cx8VHCYHTNuyiLZp-did=hhMwitCtCz1RTXJWD6iUbf8KJlH4Y8jJNtO7EPmGtZKJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.06.15.7-ut=paid-ttl=1800-type=paid-raf=1786373143-~hmac=096727764064d327d1d34de729fa013f6b70443c57221ff301332a84bb3e2b73
+
+#EXTINF:-1 tvg-id="2242448569" tvg-name="Dibrugarh Warriors vs Guwahati Royals HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4538/1786278534538-b" group-title="Hotstar", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786374334~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075175/15mindvrm0238c43eed6288485d84508caf299936ce10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=JrjAwaWqPYZ4PWzq7vs6knIW9oA1cx8VHCYHTNuyiLZp-did=hhMwitCtCz1RTXJWD6iUbf8KJlH4Y8jJNtO7EPmGtZKJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.12.10.4-ut=paid-ttl=1800-type=paid-raf=1786373134-~hmac=7ca4a4d0b028d6a444a67e3ed6145324a6ec23eecf351204b0c6408990be1601"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live14p.hotstar.com/hls/live/2003906/inallow-assampl-2026/hin/1540075175/15mindvrm0238c43eed6288485d84508caf299936ce10august2026/master_ap.m3u8?a=ns&hdnea=exp=1786374334~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075175/15mindvrm0238c43eed6288485d84508caf299936ce10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=JrjAwaWqPYZ4PWzq7vs6knIW9oA1cx8VHCYHTNuyiLZp-did=hhMwitCtCz1RTXJWD6iUbf8KJlH4Y8jJNtO7EPmGtZKJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.12.10.4-ut=paid-ttl=1800-type=paid-raf=1786373134-~hmac=7ca4a4d0b028d6a444a67e3ed6145324a6ec23eecf351204b0c6408990be1601
 
 #EXTINF:-1 tvg-id="B0HCTYWK8J" tvg-name="Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.33a735b4-e330-411c-870a-ce6487621bc4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ewgxa3j3d/out/v1/678c3d45170e407cab21ad7a0796ae2d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ewgxa3j3d/out/v1/678c3d45170e407cab21ad7a0796ae2d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H8PQMKMQ" tvg-name="The Hundred Women's Competition 2026 - 29th Match - Trent Rockets Women vs Southern Brave Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2bc05dcc-06c7-44d3-b15b-74599a8a5bec/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",The Hundred Women's Competition 2026 - 29th Match - Trent Rockets Women vs Southern Brave Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h5k5laylkq/out/v1/004d46ce4fdf49eb83725eaf74240aeb/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HBCSC5T9" tvg-name="Ireland vs. Afghanistan" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e99dc400-6ad6-4249-b2d2-e7463c0dc768/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Ireland vs. Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rockets%20vs%20Brave.jpg" group-title="AxSports", Rockets vs Brave - The Hundred Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786458758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d0cfee679ea11047f59c4be146608cc
 
