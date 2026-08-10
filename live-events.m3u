@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708329156385_DC26_Mohun_Bagan_SG_vs_CISF_Protectors_landscape_thumb.jpg" group-title="SonyLiv", Mohun Bagan SG vs CISF Protectors - 10 Aug 2026 [ENG] - IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786405305~acl=/*~id=88314118023833022918692244042586~hmac=aee63d682d4a369b504d11d7747eebd361591e77e10bdc808aa7c335d9af6e34
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708502815385_DC26_SC_DELHI_vs_Indian_Air_Force_FT_landscape_thumb.jpg" group-title="SonyLiv", SC Delhi vs Indian Air Force FT - 10 Aug 2026 [ENG] - IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000293/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786410769~acl=/*~id=77594359575482498289756670411433~hmac=b849776521ef9bea92cae2efa964733e240dd026f30e6c9d8e0bea251ebff50f
 
 #EXTINF:-1 tvg-id="4247985" tvg-name="East Delhi Riders Vs West Delhi Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | East Delhi Riders Vs West Delhi Lions
 https://dai-fancode.pages.dev/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -9,23 +9,26 @@ https://dai-fancode.pages.dev/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_
 #EXTINF:-1 tvg-id="4248055" tvg-name="Ireland Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" tvg-language="English" group-title="Fancode",ENG | Ireland Vs Afghanistan
 https://dai-fancode.pages.dev/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="1833089773" tvg-name="Tezpur Titans vs Jorhat Stallions HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5876/1786277265876-b" group-title="Hotstar", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786364252~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075172/15mindvrm01598f5b33102845cfbd1fda8186c0558210august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ArsCRtx21W7szzEZ0Hvtg0KVUFYsIsi3weLyEKtyceL3-did=BSC1RyUxXn0gub9nRvBqXLCYlXYlsOujrywCmiOvI6v6-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.03.26.5-ut=paid-ttl=1800-type=paid-raf=1786363052-~hmac=53e2b6721bcfb383b115d29829065724f15a010f75087986bfce30c6b918cc46"}
+#EXTINF:-1 tvg-id="4247980" tvg-name="Purani Dilli 6 Vs Outer Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | Purani Dilli 6 Vs Outer Delhi Warriors
+https://dai-fancode.pages.dev/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="2588131528" tvg-name="Purani Dilli 6 vs Outer Delhi Warriors HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/623/1786277630623-b" group-title="Hotstar", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786369312~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0RhPcnloJz4KCD1i0Cr9p8B34WSOdbCFj33rkOwOeepR-did=V0qW5ml36pMiyQz0zmv41bUsVe4LqP3tq93xpmUbTpsp-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.09.15.3-ut=paid-ttl=1800-type=paid-raf=1786368112-~hmac=d3bcf0655a4ef99f7026358595fe0e7d2cd56cea13ed350be375dde5b7b4acbd"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2003906/inallow-assampl-2026/hin/1540075172/15mindvrm01598f5b33102845cfbd1fda8186c0558210august2026/master_ap.m3u8?a=ns&hdnea=exp=1786364252~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075172/15mindvrm01598f5b33102845cfbd1fda8186c0558210august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ArsCRtx21W7szzEZ0Hvtg0KVUFYsIsi3weLyEKtyceL3-did=BSC1RyUxXn0gub9nRvBqXLCYlXYlsOujrywCmiOvI6v6-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.03.26.5-ut=paid-ttl=1800-type=paid-raf=1786363052-~hmac=53e2b6721bcfb383b115d29829065724f15a010f75087986bfce30c6b918cc46
+https://live15p.hotstar.com/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap.m3u8?a=ns&hdnea=exp=1786369312~acl=/hls/live/2004219/inallow-dplt20-2026/hin/1540074690/15mindvrm02e07e5a53252b4a0abc5750b41781c65910august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0RhPcnloJz4KCD1i0Cr9p8B34WSOdbCFj33rkOwOeepR-did=V0qW5ml36pMiyQz0zmv41bUsVe4LqP3tq93xpmUbTpsp-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.09.15.3-ut=paid-ttl=1800-type=paid-raf=1786368112-~hmac=d3bcf0655a4ef99f7026358595fe0e7d2cd56cea13ed350be375dde5b7b4acbd
 
 #EXTINF:-1 tvg-id="B0HCTYWK8J" tvg-name="Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.33a735b4-e330-411c-870a-ce6487621bc4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ewgxa3j3d/out/v1/678c3d45170e407cab21ad7a0796ae2d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ewgxa3j3d/out/v1/678c3d45170e407cab21ad7a0796ae2d/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HBCSC5T9" tvg-name="Ireland vs. Afghanistan" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e99dc400-6ad6-4249-b2d2-e7463c0dc768/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Ireland vs. Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
