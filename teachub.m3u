@@ -57,8 +57,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTelugu_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="Entertainment",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a472713dd855718b1dc24986efbc752:4215cd7cf5915d1c4f704137ad211f45
-#EXTVLCOPT:http-cookie=__hdnea__=st=1786456508~exp=1786478108~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=88f684a65e58d71c9f3aa4979ed8e089dfc8b37fa5df78bd6e18cc26eeca20a5
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1786456508~exp=1786478108~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=88f684a65e58d71c9f3aa4979ed8e089dfc8b37fa5df78bd6e18cc26eeca20a5
+#EXTVLCOPT:http-cookie=__hdnea__=st=1786478293~exp=1786499893~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=0c42e2409c413b67d1cb6d3a351c114f72079ba9ab2c191fb713897a663e8b46
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1786478293~exp=1786499893~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=0c42e2409c413b67d1cb6d3a351c114f72079ba9ab2c191fb713897a663e8b46
 
 #EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
