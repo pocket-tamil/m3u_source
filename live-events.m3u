@@ -1,36 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708821155385_DC26_North_East_United_FC_vs_FC1_landscape_thumb.jpg" group-title="SonyLiv", North East United FC vs FC 1 - 11 Aug 2026 [ENG] - IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786486570~acl=/*~id=08590711331069528301274526272375~hmac=2428fba365412521d64cddd0cb26d167c54f801c9a1151aee22c4a4d903a4cdc
+https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786490212~acl=/*~id=57849191628352244908561481214193~hmac=9107f952037d4eb77e2e0aa66132e3d62c14318daca586afd1c2f4372a4d1b76
 
-#EXTINF:-1 tvg-id="4247982" tvg-name="Central Delhi Kings Vs New Delhi Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247982_53005_CDK_NDT_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | Central Delhi Kings Vs New Delhi Tigers
+#EXTINF:-1 tvg-id="4247982" tvg-name="New Delhi Tigers Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247982_53005_CDK_NDT_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | New Delhi Tigers Vs Central Delhi Kings
 https://dai-fancode.pages.dev/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4248216" tvg-name="United Arab Emirates Vs Canada" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248216_53013_UAE_CAN_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | United Arab Emirates Vs Canada
 https://dai-fancode.pages.dev/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248253" tvg-name="Tanzania Vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" tvg-language="English" group-title="Fancode",ENG | Tanzania Vs Hong Kong, China
-https://dai-fancode.pages.dev/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
 #EXTINF:-1 tvg-id="4248254" tvg-name="Italy Vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" tvg-language="English" group-title="Fancode",ENG | Italy Vs Uganda
 https://dai-fancode.pages.dev/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="3231507858" tvg-name="Charaideo Sunrisers vs Guwahati Royals HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4272/1786363254272-b" group-title="Hotstar", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786444071~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075178/15mindvrm012c0d31a85c4e45b49cb4a2cef118b43e11august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=xzx2LwjjVvFEyheTtOKO4e5NtxsXqakAHktS7xI1pKei-did=15yMrMt4a4yikWIw1DLztEhU6z6S5azhYKjtrzj3KNwa-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.02.02.3-ut=paid-ttl=1800-type=paid-raf=1786442871-~hmac=795959b07b03bf1e85fec28274cde584ebee0d291a33bc765d9abacab5d3c192"}
+#EXTINF:-1 tvg-id="4248229" tvg-name="Final" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg" tvg-language="English" group-title="Fancode",ENG | Final
+https://dai-fancode.pages.dev/mumbai/4248229_english_hls_610060491126084_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="1557541303" tvg-name="Charaideo Sunrisers vs Guwahati Royals HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4272/1786363254272-b" group-title="Hotstar", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786449113~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075178/15mindvrm012c0d31a85c4e45b49cb4a2cef118b43e11august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=E6gfr2APwiisSKOi4iDHBjH7tRZ6EtzaEgqTQgfQttMe-did=7csLRNmJoowk2OzADWm6ePYrCdIaMxAEtrVu2XXPqmUJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.10.12.8-ut=paid-ttl=1800-type=paid-raf=1786447913-~hmac=661e4738f9927c3c018a23b7040c88841a4f37444ee88ad446476e81f40a3103"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2003906/inallow-assampl-2026/hin/1540075178/15mindvrm012c0d31a85c4e45b49cb4a2cef118b43e11august2026/master_ap.m3u8?a=ns&hdnea=exp=1786444071~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075178/15mindvrm012c0d31a85c4e45b49cb4a2cef118b43e11august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=xzx2LwjjVvFEyheTtOKO4e5NtxsXqakAHktS7xI1pKei-did=15yMrMt4a4yikWIw1DLztEhU6z6S5azhYKjtrzj3KNwa-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.02.02.3-ut=paid-ttl=1800-type=paid-raf=1786442871-~hmac=795959b07b03bf1e85fec28274cde584ebee0d291a33bc765d9abacab5d3c192
+https://live14p.hotstar.com/hls/live/2003906/inallow-assampl-2026/hin/1540075178/15mindvrm012c0d31a85c4e45b49cb4a2cef118b43e11august2026/master_ap.m3u8?a=ns&hdnea=exp=1786449113~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075178/15mindvrm012c0d31a85c4e45b49cb4a2cef118b43e11august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=E6gfr2APwiisSKOi4iDHBjH7tRZ6EtzaEgqTQgfQttMe-did=7csLRNmJoowk2OzADWm6ePYrCdIaMxAEtrVu2XXPqmUJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.10.12.8-ut=paid-ttl=1800-type=paid-raf=1786447913-~hmac=661e4738f9927c3c018a23b7040c88841a4f37444ee88ad446476e81f40a3103
 
-#EXTINF:-1 tvg-id="9880d413-d112-463a-a9e2-ecce60bb2551" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mrj2ltte30fqa5u67tg6" tvg-lang="English" group-title="ICC TV",English | Tanzania v Hong Kong, China (2nd Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786467607~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fa6468280d6ff26fbdfd0626926bf36903e49a25740178daadbc91491024d0dc/manifest.mpd?vcfilter=9880d413-d112-463a-a9e2-ecce60bb2551&
+#EXTINF:-1 tvg-id="325584595" tvg-name="Central Delhi Kings vs New Delhi Tigers HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6688/1786362096688-b" group-title="Hotstar", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786449111~acl=/hls/live/2003898/inallow-dplt20-2026/hin/1540074693/15mindvrm01f8794966103d4314810bab35616c601411august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=E6gfr2APwiisSKOi4iDHBjH7tRZ6EtzaEgqTQgfQttMe-did=7csLRNmJoowk2OzADWm6ePYrCdIaMxAEtrVu2XXPqmUJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.01.27.8-ut=paid-ttl=1800-type=paid-raf=1786447911-~hmac=fbb1716bb9744d753a330b33d9c00ef18445b0cd88cc38b355f0af0e335a0b88"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live14p.hotstar.com/hls/live/2003898/inallow-dplt20-2026/hin/1540074693/15mindvrm01f8794966103d4314810bab35616c601411august2026/master_ap.m3u8?a=ns&hdnea=exp=1786449111~acl=/hls/live/2003898/inallow-dplt20-2026/hin/1540074693/15mindvrm01f8794966103d4314810bab35616c601411august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=E6gfr2APwiisSKOi4iDHBjH7tRZ6EtzaEgqTQgfQttMe-did=7csLRNmJoowk2OzADWm6ePYrCdIaMxAEtrVu2XXPqmUJ-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.01.27.8-ut=paid-ttl=1800-type=paid-raf=1786447911-~hmac=fbb1716bb9744d753a330b33d9c00ef18445b0cd88cc38b355f0af0e335a0b88
 
 #EXTINF:-1 tvg-id="fa9baf8e-0a32-4a67-b44d-8d1f9cfa6655" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tusq1iomnd3qlaspb68b" tvg-lang="English" group-title="ICC TV",English | Uganda v Italy (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -59,30 +54,40 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fortis%20vs%20Muras%20United.jpg" group-title="AxSports", Fortis vs Muras United - AFC Challenge League
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventus%20vs%20Palermo.jpg" group-title="AxSports", Juventus vs Palermo - Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb76/chunks.m3u8?is_vip=false&token=1786529851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8ee442f2303febaeb141636e5750d893
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb77-hd/chunks.m3u8?is_vip=false&token=1786533449-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d17cf86c4f8792aca67c3b069a2262d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventus%20vs%20Palermo.jpg" group-title="AxSports", Juventus vs Palermo - Friendlies Clubs [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb77/chunks.m3u8?is_vip=false&token=1786533451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e959031e9806d0d92df20d5b56b81514
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adelaide%20United%20vs%20C%C3%B4ng%20An%20Nh%C3%A2n%20D%C3%A2n.jpg" group-title="AxSports", Adelaide United vs Công An Nhân Dân - AFC Champions League Elite
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb6d/chunks.m3u8?is_vip=false&token=1786529853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6d2eb5f8ed076b8188a45124cf31bba1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb6d/chunks.m3u8?is_vip=false&token=1786533453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aa2920e8dab88fd4793c69287f8f6677
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lions%20vs%20Melbourne%20City.jpg" group-title="AxSports", Lions vs Melbourne City - Australia Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a7/chunks.m3u8?is_vip=false&token=1786529854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c88f7d9f41bf22760ce25f4c466975c5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a7/chunks.m3u8?is_vip=false&token=1786533455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-77cd05a51a694091a4240347f63a9f51
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SD%20Raiders%20vs%20Macarthur.jpg" group-title="AxSports", SD Raiders vs Macarthur - Australia Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a5/chunks.m3u8?is_vip=false&token=1786529856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ebbee29dcc8844613faf7cc9a862082a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a5/chunks.m3u8?is_vip=false&token=1786533457-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cc55711ccbed1d7e771c6f577d334807
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hwacheon%20KSPO%20W%20vs%20Incheon%20Red%20Angels%20W.jpg" group-title="AxSports", Hwacheon KSPO W vs Incheon Red Angels W - WK-League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a761630a24edae8ff7b6bff/chunks.m3u8?is_vip=false&token=1786529857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-faffcefdb37f62598fa66a26fdd37a9d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a761630a24edae8ff7b6bff/chunks.m3u8?is_vip=false&token=1786533458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f18b1a890f8666f46a1e8b9fea502065
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Gamba%20Osaka.jpg" group-title="AxSports", Gangwon FC vs Gamba Osaka - AFC Champions League Elite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb6e/chunks.m3u8?is_vip=false&token=1786533460-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-202ea1c4cac8ab6f2600df4ccd0cd28f
 
