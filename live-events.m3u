@@ -1,10 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="4248253" tvg-name="Tanzania Vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" tvg-language="English" group-title="Fancode",ENG | Tanzania Vs Hong Kong, China
+https://dai-fancode.pages.dev/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248254" tvg-name="Italy Vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" tvg-language="English" group-title="Fancode",ENG | Italy Vs Uganda
+https://dai-fancode.pages.dev/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="7990749662" tvg-name="Trent Rockets vs Southern Brave ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1580/1786284681580-b" group-title="Hotstar", ENGLISH FHD @rtxcric
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786396164~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074993/15mindvrm0159f3520fe5154bfa9fdcccdee401f9af10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=AkyQvNPtHE86NpnqzOFmm2Kfebrv9x58X-did=CCbaVgLGeu82mL4SwXkLMWZAwvu23BeieTHpLj0U8Ytq-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.05.16.6-ut=paid-ttl=1800-type=paid-raf=1786394964-~hmac=6fd938b54c7ed6bb94d5993308251f0f1b912e3f77689cad1c2eeb6fbcb33197"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://live13p.hotstar.com/hls/live/2027134/inallow-hundredmen-2026/eng/1540074993/15mindvrm0159f3520fe5154bfa9fdcccdee401f9af10august2026/master_ap.m3u8?a=ns&hdnea=exp=1786396164~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074993/15mindvrm0159f3520fe5154bfa9fdcccdee401f9af10august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=AkyQvNPtHE86NpnqzOFmm2Kfebrv9x58X-did=CCbaVgLGeu82mL4SwXkLMWZAwvu23BeieTHpLj0U8Ytq-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.05.16.6-ut=paid-ttl=1800-type=paid-raf=1786394964-~hmac=6fd938b54c7ed6bb94d5993308251f0f1b912e3f77689cad1c2eeb6fbcb33197
+
+#EXTINF:-1 tvg-id="c0cfe86b-bd93-4b2c-b8f0-d7fca1ffacb6" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fe5mxlbgikvlxdt209uf" tvg-lang="English" group-title="ICC TV",English | Uganda v Italy (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786455912~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6350e3adc0e132bade8d7a61ad491bb2ecad1ddecca5911ad23421e2e54c77f2/manifest.mpd?vcfilter=c0cfe86b-bd93-4b2c-b8f0-d7fca1ffacb6&
+
+#EXTINF:-1 tvg-id="08f185a6-407b-442a-a0c6-b68b01ae0123" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hbs8wq4i3gpxhpy7yx0m" tvg-lang="English" group-title="ICC TV",English | Tanzania v Hong Kong, China (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786455914~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e762740d2f948ed3cf6cd7039141832bb3c4ba3fd9ad2535a68faf35a8b2a439/manifest.mpd?vcfilter=08f185a6-407b-442a-a0c6-b68b01ae0123&
 
 #EXTINF:-1 tvg-id="B0HCTQT96W" tvg-name="Teremoana Teremoana vs. DeAndre Savage: Weigh-in" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c40637fe-1e51-4d40-b7ef-8c19284a5c77/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Teremoana Teremoana vs. DeAndre Savage: Weigh-in
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,19 +40,4 @@ https://live13p.hotstar.com/hls/live/2027134/inallow-hundredmen-2026/eng/1540074
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20Los%20Angeles%20Angels.jpg" group-title="AxSports", Texas Rangers vs Los Angeles Angels - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1786510945-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f43833e479bae912eac5c87bffe20e1e
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20Athletics.jpg" group-title="AxSports", Tampa Bay Rays vs Athletics - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1786510947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1779b57a297e6ca29e2eaf62992f46c4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Stallions%20vs%20Tainan%20City.jpg" group-title="AxSports", Central Stallions vs Tainan City - AFC Challenge League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb6f/chunks.m3u8?is_vip=false&token=1786510949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25bd673470bc1d2ebdcf427c74aa928d
 
