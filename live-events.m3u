@@ -1,60 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709204517385_DC26_Neroca_FC_vs_FC_Raengdai_landscape_thumb.jpg" group-title="SonyLiv", Neroca FC vs FC Raengdai FT - 12 Aug 2026 [ENG] - IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786578219~acl=/*~id=95414687137634490510250486452725~hmac=4351c786775c70b5f5084930af9145dd4f94ccd8b5cc2916bdb53f3f20b7835c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709330419385_DC26_Mohammedan_SC_vs_India_Army_FT_landscape_thumb.jpg" group-title="SonyLiv", Mohammedan SC vs Indian Army FT - 12 Aug 2026 [ENG] - IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000301/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786583694~acl=/*~id=72120654738563823452643007073299~hmac=2e675f9e196bdba9b9961bdf2f9d5c770e9828e04df078a26e8b01a31ee24306
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182944609520_Vitality_Mixed_Disability_4th_T20i_England_vs_India_landscape_thumb.jpg" group-title="SonyLiv", England vs India - 4th T20I - 12 Aug 2026 [ENG] - Vitality Mixed Disability IT20 series
+https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786583694~acl=/*~id=72120654738563823452643007073299~hmac=2e675f9e196bdba9b9961bdf2f9d5c770e9828e04df078a26e8b01a31ee24306
 
 #EXTINF:-1 tvg-id="4248053" tvg-name="Afghanistan Vs Ireland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" tvg-language="English" group-title="Fancode",ENG | Afghanistan Vs Ireland
 https://dai-fancode.pages.dev/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248256" tvg-name="Hong Kong, China Vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png" tvg-language="English" group-title="Fancode",ENG | Hong Kong, China Vs Uganda
-https://dai-fancode.pages.dev/mumbai/4248256_english_hls_350141a51478572_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4247987" tvg-name="East Delhi Riders Vs South Delhi Superstarz" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | East Delhi Riders Vs South Delhi Superstarz
+https://dai-fancode.pages.dev/mumbai/4247987_english_hls_dbcd5584b412688_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="9503370733" tvg-name="Welsh Fire vs London Spirit ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5158/1786445185158-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786534858~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074877/15mindvrm01737ea9c2d6124e6aa48dcbed17ece20712august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=YkwvbLb03luN8LL3AOf4OWqDbSjWFB6IZLs42DzSjKhF-did=LGqQxE6RPoLOAOZvjkagxYUv9elXxSOUklxJXLq5p5e0-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.07.21.1-ut=paid-ttl=1800-type=paid-raf=1786533658-~hmac=03052bd9ab8d85961e9147eb75b1c9b4697e1794e07601606a3bc534956b5f7d"}
+#EXTINF:-1 tvg-id="1436378074" tvg-name="Welsh Fire vs London Spirit ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5158/1786445185158-b" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786541979~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074877/15mindvrm01737ea9c2d6124e6aa48dcbed17ece20712august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gjAcAkqJOy1kAKTWxFh4LYu6v44o1MJdy8cnNNNIy7Rs-did=grw8qMWhbackWqrNxnCyuhGfBT6ggD3Et9BItkH2k8Fn-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.18.3-ut=paid-ttl=1800-type=paid-raf=1786540779-~hmac=169f2e0a9c800f3aa8bd28ca770d7945dfb82df90f2ac6b1437202e79115e240"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2003894/inallow-hundredwo-2026/eng/1540074877/15mindvrm01737ea9c2d6124e6aa48dcbed17ece20712august2026/master_ap.m3u8?a=ns&hdnea=exp=1786534858~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074877/15mindvrm01737ea9c2d6124e6aa48dcbed17ece20712august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=YkwvbLb03luN8LL3AOf4OWqDbSjWFB6IZLs42DzSjKhF-did=LGqQxE6RPoLOAOZvjkagxYUv9elXxSOUklxJXLq5p5e0-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.07.21.1-ut=paid-ttl=1800-type=paid-raf=1786533658-~hmac=03052bd9ab8d85961e9147eb75b1c9b4697e1794e07601606a3bc534956b5f7d
+https://live14p.hotstar.com/hls/live/2003894/inallow-hundredwo-2026/eng/1540074877/15mindvrm01737ea9c2d6124e6aa48dcbed17ece20712august2026/master_ap.m3u8?a=ns&hdnea=exp=1786541979~acl=/hls/live/2003894/inallow-hundredwo-2026/eng/1540074877/15mindvrm01737ea9c2d6124e6aa48dcbed17ece20712august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gjAcAkqJOy1kAKTWxFh4LYu6v44o1MJdy8cnNNNIy7Rs-did=grw8qMWhbackWqrNxnCyuhGfBT6ggD3Et9BItkH2k8Fn-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.18.3-ut=paid-ttl=1800-type=paid-raf=1786540779-~hmac=169f2e0a9c800f3aa8bd28ca770d7945dfb82df90f2ac6b1437202e79115e240
 
-#EXTINF:-1 tvg-id="4688744221" tvg-name="World Padel League 2026: Day 1 ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6919/1786448006919-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786534857~acl=/hls/live/2123198/inallow-padel-2026/eng/1540075644/15mindvrm013736852c1a3746af8b7fb5e5ce17754012august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=YkwvbLb03luN8LL3AOf4OWqDbSjWFB6IZLs42DzSjKhF-did=LGqQxE6RPoLOAOZvjkagxYUv9elXxSOUklxJXLq5p5e0-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.12.02.1-ut=paid-ttl=1800-type=paid-raf=1786533657-~hmac=97968a8966ad79cd637caeba9e59c1be53cf965d5918ecbb4131f4365b8f659b"}
+#EXTINF:-1 tvg-id="9930673050" tvg-name="World Padel League 2026: Day 1 ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6919/1786448006919-b" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786541984~acl=/hls/live/2123198/inallow-padel-2026/eng/1540075644/15mindvrm013736852c1a3746af8b7fb5e5ce17754012august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gjAcAkqJOy1kAKTWxFh4LYu6v44o1MJdy8cnNNNIy7Rs-did=grw8qMWhbackWqrNxnCyuhGfBT6ggD3Et9BItkH2k8Fn-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.11.12.1-ut=paid-ttl=1800-type=paid-raf=1786540784-~hmac=73588d3e4f1bbf438ffc510831335ecfc406b76bdcda7ec2fb85670fd63bbe7f"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live15p.hotstar.com/hls/live/2123198/inallow-padel-2026/eng/1540075644/15mindvrm013736852c1a3746af8b7fb5e5ce17754012august2026/master_ap.m3u8?a=ns&hdnea=exp=1786534857~acl=/hls/live/2123198/inallow-padel-2026/eng/1540075644/15mindvrm013736852c1a3746af8b7fb5e5ce17754012august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=YkwvbLb03luN8LL3AOf4OWqDbSjWFB6IZLs42DzSjKhF-did=LGqQxE6RPoLOAOZvjkagxYUv9elXxSOUklxJXLq5p5e0-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.12.02.1-ut=paid-ttl=1800-type=paid-raf=1786533657-~hmac=97968a8966ad79cd637caeba9e59c1be53cf965d5918ecbb4131f4365b8f659b
+https://live15p.hotstar.com/hls/live/2123198/inallow-padel-2026/eng/1540075644/15mindvrm013736852c1a3746af8b7fb5e5ce17754012august2026/master_ap.m3u8?a=ns&hdnea=exp=1786541984~acl=/hls/live/2123198/inallow-padel-2026/eng/1540075644/15mindvrm013736852c1a3746af8b7fb5e5ce17754012august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gjAcAkqJOy1kAKTWxFh4LYu6v44o1MJdy8cnNNNIy7Rs-did=grw8qMWhbackWqrNxnCyuhGfBT6ggD3Et9BItkH2k8Fn-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.11.12.1-ut=paid-ttl=1800-type=paid-raf=1786540784-~hmac=73588d3e4f1bbf438ffc510831335ecfc406b76bdcda7ec2fb85670fd63bbe7f
 
-#EXTINF:-1 tvg-id="5487172447" tvg-name="Dibrugarh Warriors vs Nagaon Rangers HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1545/1786445451545-b" group-title="Hotstar", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786534838~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075184/15mindvrm010d12e0300bce434d9b831dc17cc194b812august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=YkwvbLb03luN8LL3AOf4OWqDbSjWFB6IZLs42DzSjKhF-did=LGqQxE6RPoLOAOZvjkagxYUv9elXxSOUklxJXLq5p5e0-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.06.03.5-ut=paid-ttl=1800-type=paid-raf=1786533638-~hmac=5591ba03ba3cfd6856aa9e651d5f7af930163862a85bdc8812da35349b6363dc"}
+#EXTINF:-1 tvg-id="7826315962" tvg-name="East Delhi Riders vs South Delhi Superstarz HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3262/1786447103262-b" group-title="Hotstar", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786541982~acl=/hls/live/2003898/inallow-dplt20-2026/hin/1540074699/15mindvrm01399d5c505e59418e90642ef7151e918c12august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gjAcAkqJOy1kAKTWxFh4LYu6v44o1MJdy8cnNNNIy7Rs-did=grw8qMWhbackWqrNxnCyuhGfBT6ggD3Et9BItkH2k8Fn-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.05.13.8-ut=paid-ttl=1800-type=paid-raf=1786540782-~hmac=4fef0f51926dd281257a2e2c105c7a21ad76e3fcd71de2802d445420605922ee"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live14p.hotstar.com/hls/live/2003906/inallow-assampl-2026/hin/1540075184/15mindvrm010d12e0300bce434d9b831dc17cc194b812august2026/master_ap.m3u8?a=ns&hdnea=exp=1786534838~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075184/15mindvrm010d12e0300bce434d9b831dc17cc194b812august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=YkwvbLb03luN8LL3AOf4OWqDbSjWFB6IZLs42DzSjKhF-did=LGqQxE6RPoLOAOZvjkagxYUv9elXxSOUklxJXLq5p5e0-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.06.03.5-ut=paid-ttl=1800-type=paid-raf=1786533638-~hmac=5591ba03ba3cfd6856aa9e651d5f7af930163862a85bdc8812da35349b6363dc
+https://live14p.hotstar.com/hls/live/2003898/inallow-dplt20-2026/hin/1540074699/15mindvrm01399d5c505e59418e90642ef7151e918c12august2026/master_ap.m3u8?a=ns&hdnea=exp=1786541982~acl=/hls/live/2003898/inallow-dplt20-2026/hin/1540074699/15mindvrm01399d5c505e59418e90642ef7151e918c12august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gjAcAkqJOy1kAKTWxFh4LYu6v44o1MJdy8cnNNNIy7Rs-did=grw8qMWhbackWqrNxnCyuhGfBT6ggD3Et9BItkH2k8Fn-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.05.13.8-ut=paid-ttl=1800-type=paid-raf=1786540782-~hmac=4fef0f51926dd281257a2e2c105c7a21ad76e3fcd71de2802d445420605922ee
 
-#EXTINF:-1 tvg-id="c7e7181d-d462-4347-8c8b-206205c0edfa" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/utd8njflt2udqt0pit94" tvg-lang="English" group-title="ICC TV",English | Hong Kong, China v Uganda (2nd Innings)
+#EXTINF:-1 tvg-id="4091524987" tvg-name="Tezpur Titans vs Barak Legends HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5160/1786446115160-b" group-title="Hotstar", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786541974~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075187/15mindvrm023fa8919471f447b4a57c6fa99c0a6fb712august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gjAcAkqJOy1kAKTWxFh4LYu6v44o1MJdy8cnNNNIy7Rs-did=grw8qMWhbackWqrNxnCyuhGfBT6ggD3Et9BItkH2k8Fn-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.04.20.1-ut=paid-ttl=1800-type=paid-raf=1786540774-~hmac=37537dd2c9ca933d7c79e8d9816c9b990c729bf69d9317ace59f7d28a8ed2577"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live14p.hotstar.com/hls/live/2003906/inallow-assampl-2026/hin/1540075187/15mindvrm023fa8919471f447b4a57c6fa99c0a6fb712august2026/master_ap.m3u8?a=ns&hdnea=exp=1786541974~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075187/15mindvrm023fa8919471f447b4a57c6fa99c0a6fb712august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=gjAcAkqJOy1kAKTWxFh4LYu6v44o1MJdy8cnNNNIy7Rs-did=grw8qMWhbackWqrNxnCyuhGfBT6ggD3Et9BItkH2k8Fn-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.04.20.1-ut=paid-ttl=1800-type=paid-raf=1786540774-~hmac=37537dd2c9ca933d7c79e8d9816c9b990c729bf69d9317ace59f7d28a8ed2577
+
+#EXTINF:-1 tvg-id="B0HC7B15PM" tvg-name="Afghanistan tour of Ireland 2026 - 4th ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.029e327e-765a-4c14-83bf-bb2284bb35ce/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Afghanistan tour of Ireland 2026 - 4th ODI - Ireland vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786555814~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7073af2cf3411c6b29942108cddeca60b14580e484f9e6d138b8f73b52af29a4/manifest.mpd?vcfilter=c7e7181d-d462-4347-8c8b-206205c0edfa&
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/APIA%20Leichhardt%20Tigers%20vs%20Sydney%20United.jpg" group-title="AxSports", APIA Leichhardt Tigers vs Sydney United - Australia Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a9/chunks.m3u8?is_vip=false&token=1786620745-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2b1ec3286181c31ff1f54ebcb6e0dde8
+#EXTINF:-1 tvg-id="B0H8DHB452" tvg-name="The Hundred Womens Competition 2026 - 31st Match - Welsh Fire Women vs London Spirit Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.acb6a040-b547-4756-a16d-de735f059933/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",The Hundred Womens Competition 2026 - 31st Match - Welsh Fire Women vs London Spirit Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a6b9c70be7c5360d0d3280e9fe1fa9c:3bf2808053ddf9d664ff3d13498588ac
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uboilohtga/out/v1/c4ad81c73eed49b8a85ba0a36aa76583/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Sunshine%20Eagles%20vs%20Heidelberg%20United.jpg" group-title="AxSports", North Sunshine Eagles vs Heidelberg United - Australia Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a6/chunks.m3u8?is_vip=false&token=1786620747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d9b8a78c0c37470300ef7847b4440b86
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weston%20Bears%20vs%20Adamstown%20Rosebuds.jpg" group-title="AxSports", Weston Bears vs Adamstown Rosebuds - Northern NSW NPL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a43e1494b4d858b85ca8e09/chunks.m3u8?is_vip=false&token=1786620748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-33667b4084160a5cd3db48b7e5c676f7
+#EXTINF:-1 tvg-id="B0HBPVSBLM" tvg-name="Welsh Fire vs. London Spirit" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.601edcfb-c010-45f0-b488-a49110cd2f82/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Welsh Fire vs. London Spirit
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Welsh%20Fire%20vs.%20London%20Spirit.jpg" group-title="AxSports", Welsh Fire vs. London Spirit - The Hundred Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1786620750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c0a99201dd54dcfc136caac25cab4948
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1786626144-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c5c552cd9f6e5b682a892e81da408b59
 
