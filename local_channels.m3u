@@ -387,9 +387,6 @@ https://ipcloud.live/thirumalaitv/madurai/index.m3u8
 #EXTINF:-1 tvg-name="jaya subu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786290541_WhatsApp Image 2026-08-09 at 8.35.04 PM.jpeg" group-title="Local TV",jaya subu tv
 http://view.rcserver.in/tmp_hls6/jeyasubbutv/index.m3u8
 
-#EXTINF:-1 tvg-name="anjtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783396931_ANJ LOGO breakfree copy.png" group-title="Local TV",anjtv
-https://rtmp.notvstream.in/anjtv/anjtv/index.m3u8
-
 #EXTINF:-1 tvg-name="Aalaya Magimai Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731768528_AALYA MAGAMAI TV LOGO BAKTHI TV.png" group-title="Local TV",Aalaya Magimai Tv
 https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
 
@@ -407,6 +404,9 @@ https://stream.d6-pro.com/Dbhakhi/live/video.m3u8
 
 #EXTINF:-1 tvg-name="Yatra Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762598647_IMG-20251108-WA0090.jpg" group-title="Local TV",Yatra Tv
 https://stream.onecloudlive.in/yatra/yatratv/index.m3u8
+
+#EXTINF:-1 tvg-name="VEZHAMUGAM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284662_New Ai Logp copy.png" group-title="Local TV",VEZHAMUGAM
+http://live.mintv.in/vezhamugam/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="kathir tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR TV.png" group-title="Local TV",kathir tv
 https://app.ashokadigital.net/app/cbc54d21/index.m3u8
@@ -654,8 +654,8 @@ rtmp://yours.7starcloud.com:1935/live/nmtv
 #EXTINF:-1 tvg-name="DHINESH TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772769336_WhatsApp Image 2026-03-05 at 8.36.34 AM.jpeg" group-title="Local TV",DHINESH TV
 rtmp://ipcloud.live:1935/dsrchannel/dsrhd
 
-#EXTINF:-1 tvg-name="VEZHAMUGAM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284662_New Ai Logp copy.png" group-title="Local TV",VEZHAMUGAM
-http://live.mintv.in/vezhamugam/live/playlist.m3u8
+#EXTINF:-1 tvg-name="anjtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783396931_ANJ LOGO breakfree copy.png" group-title="Local TV",anjtv
+https://rtmp.notvstream.in/anjtv/anjtv/index.m3u8
 
 #EXTINF:-1 tvg-name="Coimbatore" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732009724_FB_IMG_1708271343320-removebg-preview.png" group-title="Local TV",Coimbatore
 rtmp://ipcloud.live/asokatv/asokahd
