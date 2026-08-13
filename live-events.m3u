@@ -1,39 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4235051605" tvg-name="1st Test: Australia vs Bangladesh, Day 1 ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8672/1786531528672-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786599876~acl=/hls/live/2123066/inallow-augvsban-2026/eng/1540075690/15mindvrm0161dccc57d81c4a2197c6613770bb5c0413august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=mJ8sZS2KgJr5nmkAvSJ1mNpi8Hy8vLoJRuVUK2n7fS3n-did=8Z3uEVSDIENN02ioU8URUO65BPcoWQdpRrwtEizsfnF7-cc=in-bl=jhs-de=2-pl=androidtv-ap=24.01.17.3-ut=paid-ttl=1800-type=paid-raf=1786598676-~hmac=ddc03427b01027b0f60a1156c8753fcdc6a52695f23abba2f8d52b2db16e3d86"}
+#EXTINF:-1 tvg-id="1972077009" tvg-name="1st Test: Australia vs Bangladesh, Day 1 ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8672/1786531528672-b" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786605759~acl=/hls/live/2123066/inallow-augvsban-2026/eng/1540075690/15mindvrm0161dccc57d81c4a2197c6613770bb5c0413august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=KSKpMGZySwUAf9gSzQwnXQ4l39iR1gQuQ6DWMziCP8nA-did=Fh3HEQPuzXebny362TwvoREn3LRiTUunNPqLlTBveRYF-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.03.24.1-ut=paid-ttl=1800-type=paid-raf=1786604559-~hmac=8adbbf129a7cc0efe7f4dc40c2c5caece30f4a253fc2a24a130fbadf2f67ab68"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live13p.hotstar.com/hls/live/2123066/inallow-augvsban-2026/eng/1540075690/15mindvrm0161dccc57d81c4a2197c6613770bb5c0413august2026/master_ap.m3u8?a=ns&hdnea=exp=1786599876~acl=/hls/live/2123066/inallow-augvsban-2026/eng/1540075690/15mindvrm0161dccc57d81c4a2197c6613770bb5c0413august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=mJ8sZS2KgJr5nmkAvSJ1mNpi8Hy8vLoJRuVUK2n7fS3n-did=8Z3uEVSDIENN02ioU8URUO65BPcoWQdpRrwtEizsfnF7-cc=in-bl=jhs-de=2-pl=androidtv-ap=24.01.17.3-ut=paid-ttl=1800-type=paid-raf=1786598676-~hmac=ddc03427b01027b0f60a1156c8753fcdc6a52695f23abba2f8d52b2db16e3d86
+https://live13p.hotstar.com/hls/live/2123066/inallow-augvsban-2026/eng/1540075690/15mindvrm0161dccc57d81c4a2197c6613770bb5c0413august2026/master_ap.m3u8?a=ns&hdnea=exp=1786605759~acl=/hls/live/2123066/inallow-augvsban-2026/eng/1540075690/15mindvrm0161dccc57d81c4a2197c6613770bb5c0413august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=KSKpMGZySwUAf9gSzQwnXQ4l39iR1gQuQ6DWMziCP8nA-did=Fh3HEQPuzXebny362TwvoREn3LRiTUunNPqLlTBveRYF-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.03.24.1-ut=paid-ttl=1800-type=paid-raf=1786604559-~hmac=8adbbf129a7cc0efe7f4dc40c2c5caece30f4a253fc2a24a130fbadf2f67ab68
 
 #EXTINF:-1 tvg-id="B0GKPXS5CW" tvg-name="Bangladesh tour of Australia 2026 - 1st Test - Australia vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Bangladesh tour of Australia 2026 - 1st Test - Australia vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c476ca9f8aefdae6cb0d420f4004a4d:cf88a53fadee1f756c5aba2e45928546
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myv7jssb9c/out/v1/65bfe5217f1a4af3b9956d756d22a8aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H55XSJC1" tvg-name="CD FAS vs. Verdes FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ca422902-dc33-4fce-9e70-3fd44aeea326/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",CD FAS vs. Verdes FC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/myv7jssb9c/out/v1/65bfe5217f1a4af3b9956d756d22a8aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HC8FCF4V" tvg-name="Australia vs. Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e010ffb6-11cf-4ff0-9fce-d694ed8bd9f1/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Australia vs. Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20vs%20Bangladesh.jpg" group-title="AxSports", Australia vs Bangladesh - 1 st test, day 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786684643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-322440449efa8988d6ba51ab3f7c24a6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786690045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7df98157e697822e2c718a5415e41817
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20Los%20Angeles%20Angels.jpg" group-title="AxSports", Texas Rangers vs Los Angeles Angels - MLB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wellington%20vs%20North%20Harbour.jpg" group-title="AxSports", Wellington vs North Harbour - NPC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/452/720p/chunks.m3u8?is_vip=false&token=1786684645-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d3c3202482d57187b8ca02f5e139f4a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1786690047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-621d3dfa769856e8092c46f4941ef396
 
