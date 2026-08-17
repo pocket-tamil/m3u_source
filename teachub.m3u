@@ -39,8 +39,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="English",Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=157cd1bd71a256fe8ab763ba280320e5:6befde8b90b6926423cc83775b8dcb59
-#EXTVLCOPT:http-cookie=__hdnea__=st=1786940284~exp=1786943884~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=3e8d596a300c070ea62b550c16e46fc420d0ffd3a187c4b7644e49cf5642a604
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786940284~exp=1786943884~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=3e8d596a300c070ea62b550c16e46fc420d0ffd3a187c4b7644e49cf5642a604
+#EXTVLCOPT:http-cookie=__hdnea__=st=1786942811~exp=1786964411~acl=/*~hmac=4f2fc446c4d136d2329852859ddc18eeca6cfb44aaaf3d22b719c35651c14967
+https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1786942811~exp=1786964411~acl=/*~hmac=4f2fc446c4d136d2329852859ddc18eeca6cfb44aaaf3d22b719c35651c14967
 
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
