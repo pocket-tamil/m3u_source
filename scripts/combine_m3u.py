@@ -4,7 +4,7 @@ import requests
 OUTPUT = "live-events.m3u"
 
 PLAYLISTS = {
-    "SonyLiv": "https://github.com/drmlive/sliv-live-events/raw/refs/heads/main/sonyliv.m3u",
+    "SonyLiv": "https://github.com/doctor-8trange/zyphora/raw/refs/heads/main/data/sony.m3u",
     "Fancode": "https://github.com/doctor-8trange/zyphx8/raw/refs/heads/main/data/fancode.m3u",
     "Hotstar": "https://jhsevetns-fhd.rtxcric.workers.dev/playlist.m3u",
     "ICC TV": "https://github.com/doctor-8trange/nexphi0/raw/refs/heads/main/data/icc.m3u",
