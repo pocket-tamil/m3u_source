@@ -15,11 +15,20 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1808/TEL/master.
 #EXTINF:-1 tvg-id="1090539530" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963814863151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="SonyLiv",KAN | Day 4 - 1st Test - 18 Aug 2026
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000383/cricodi1808/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f473bcebfd1c9b191fbf404e6fbce76a-1787034619129
 
+#EXTINF:-1 tvg-id="4247994" tvg-name="Purani Dilli 6 Vs North Delhi Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | Purani Dilli 6 Vs North Delhi Strikers
+https://dai-fancode.pages.dev/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="4248262" tvg-name="Uganda Vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" tvg-language="English" group-title="Fancode",ENG | Uganda Vs Bahrain
 https://dai-fancode.pages.dev/mumbai/4248262_english_hls_f5aeb2c4ee71854_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4248264" tvg-name="Tanzania Vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" tvg-language="English" group-title="Fancode",ENG | Tanzania Vs Italy
 https://dai-fancode.pages.dev/mumbai/4248264_english_hls_e521be7f1c91974_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248375" tvg-name="Greece Vs Germany" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248375_53031_GER_GRE_fc-web.jpg" tvg-language="English" group-title="Fancode",ENG | Greece Vs Germany
+https://dai-fancode.pages.dev/mumbai/4248375_english_hls_67478e107d91886_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248379" tvg-name="Finland Vs Luxembourg" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248379_53031_FIN_LUX_fc-web.jpg" tvg-language="English" group-title="Fancode",ENG | Finland Vs Luxembourg
+https://dai-fancode.pages.dev/mumbai/4248379_english_hls_7c7dcf2d1f43393_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="416121095" tvg-name="Bhojpuri & Haryanvi Watchalong: Sri Lanka vs India, 1st Test - Day 3 BHOJPURI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3289/1786948123289-b" group-title="Hotstar", BHOJPURI FHD @rtxcric
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786967000~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076138/15mindvrm012121bbbaf21644c08757e1dfde99017c17august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=DCe8f8A2WNNoVbbrlYOIXXhT06nlzPJLO9g8I0Op9HMQ-did=QEHEhE1Ghu70B6iI94O9Tg7oVMqdMCnwECri6EhSm6xj-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.03.06.4-ut=paid-ttl=1800-type=paid-raf=1786965800-~hmac=4d0b08f4ade2aaa2b05dd5e745778c466dd7f6030876df18456863898de9e5b3"}
@@ -68,10 +77,10 @@ https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076190/15m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b549c9708f7789b0d4ab6c713d4de5e:94e123e5f00b8d1caa96a8d1d553c811
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ftxtb27yxz/out/v1/c4e38f27973649b0815c206bceb6ede2/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ftxtb27yxz/out/v1/c4e38f27973649b0815c206bceb6ede2/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="AxSports", Sri Lanka vs India - 1st Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787124746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9d945a72c52dd74f5b7950b88c0952fa
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787128347-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-360d65070670f7c57a1952b533462de5
 
