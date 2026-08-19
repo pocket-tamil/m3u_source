@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-          curl -L "https://jioplus.mxiptvzone01.workers.dev/" -o strx.m3u
+          curl -L "https://jio.shoeblivesite.dpdns.org/" -o strx.m3u
 
       - name: Commit and push if changed
         run: |
