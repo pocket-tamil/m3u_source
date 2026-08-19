@@ -1,15 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4247577" tvg-name="Atletico De Madrid Vs Málaga" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247577_53004_ATM_MAG_FC-Web_1787121237407.png" group-title="Fancode",[DRM] ENG | Atletico De Madrid Vs Málaga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"8dk1GdFBlJ6_Vu_moGmH0Q","kid":"9-WefKjsToqZGNSpJ_FxXA","kty":"oct"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://in-mc-flive.fancode.com/mumbai/4247577_english_dash_57476_1drmta-di_h264/index.mpd
-
 #EXTINF:-1 tvg-id="4248131" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" tvg-language="English" group-title="Fancode",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/4248131_english_hls_ae7799b57683754_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
@@ -23,17 +13,10 @@ https://dai-fancode.pages.dev/mumbai/4248132_english_hls_fbc85bf3b732693_1ta-di_
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live14p.hotstar.com/hls/live/2123138/inallow-fihmwc-2026/eng/1540075816/15mindvrm03c50f228321b44e9db86e3eb1fd17552b19august2026/master_ap.m3u8?a=ns&hdnea=exp=1787174510~acl=/hls/live/2123138/inallow-fihmwc-2026/eng/1540075816/15mindvrm03c50f228321b44e9db86e3eb1fd17552b19august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=apQnBGj7gezkfOhTX5wuBikNvUIQReW8HaUODaHfaAbw-did=oYvX3uTf1Ay1V4TaPW5xmbMMsXvyusEMkS7sWULzSmQ9-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.08.28.1-ut=paid-ttl=1800-type=paid-raf=1787173310-~hmac=8110a8a520a4d3aa959f539f97167980fb1300ad8db8543887d640f66b3f84b7
 
-#EXTINF:-1 tvg-id="B0HFCDMS1H" tvg-name="MLF LIVE - Team Series Patriot Cup Knockout Round 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57420452-3996-419a-8bd8-48fc17e8cc26/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",MLF LIVE - Team Series Patriot Cup Knockout Round 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99b9ee4e673c2a5372fc76db8e59f989:98f0d4ac93a419b81489da17aec8a58f
-https://ABEJXB5AAAAAAAAMFMRSDPBOA6TIW.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmcRBBhpqhf3BA2pjbG91ZGZyb250Angpc3NpZDpkODEzMDJmZi0yNjA1LTQ5ZWEtOTAxMS03YTM2MmFiY2E2MmUZATihBaECeDMvZG51ajZiNXpkaC9vdXQvdjEvNmI3MmVjOTZmOWNlNGU4OWE2NzVlMmQzYjY2Njc5OGIZATyBYlVTWCAM2hMkqBppl27Pm7XAAEsozLY8TRjc7eNvSSJWK-FUkQ/IAD/35af5ab120c04930aedbebf579f0b276/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_208d9052-c852-4a59-954a-a06f4279f6fe_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/dnuj6b5zdh/out/v1/6b72ec96f9ce4e89a675e2d3b666798b/d7728fc1-5108-4158-a511-3576ee55aa40-cenc.mpd?aws.sessionId=b47a84bc-8a85-40ec-a26a-92e3777616fd
-
 #EXTINF:-1 tvg-id="B0HF8J674T" tvg-name="ATP/WTA: Round of 16, Doubles 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9081d63b-3402-4977-98b3-e462f1796bfa/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",ATP/WTA: Round of 16, Doubles 2nd Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
