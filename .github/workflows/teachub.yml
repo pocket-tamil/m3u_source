@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-          curl -L "https://3aug.rojoni9589.workers.dev/?token=vip_789" -o teachub.m3u
+          curl -L "https://mute-sunset-8225.streamstar18.workers.dev/" -o teachub.m3u
 
       - name: Commit and push if changed
         run: |
