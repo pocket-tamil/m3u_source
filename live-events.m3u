@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1090539891" tvg-name="Pakistan Tour of England 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714233084718_eng_vs_pak_live_1Test_day3_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | Day 3 - 1st Test - 21 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0f3880f0c1e5fe8b9da030e341dc886b-1787310601275
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d19eac0b2db64a0ecd236818085c8617-1787316601944
 
 #EXTINF:-1 tvg-id="1090539908" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg" group-title="SonyLiv",Nexo Championship - Day 2 - 21 Aug 2026
-https://dai.google.com/ssai/event/OmHoNcoVR064pZ1gWNFs_Q/master.m3u8?hdnea=exp=1787347819~acl=/*~id=34b56bf18c930ec829ab54053414be70-1787304603542~hmac=4c4926a9846f027b4dd6ed8e50e3631ce911993194e3e88bc88e4c775c4e0091|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0f3880f0c1e5fe8b9da030e341dc886b-1787310601275
+https://dai.google.com/ssai/event/OmHoNcoVR064pZ1gWNFs_Q/master.m3u8?hdnea=exp=1787355028~acl=/*~id=804f5c81bfe7e1fe854211246357ec61-1787311801387~hmac=1a8ce41ee160f217d13cfe9e8930a331c6b37d4a793be473de54a47df709c16e|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d19eac0b2db64a0ecd236818085c8617-1787316601944
 
 #EXTINF:-1 tvg-id="4248332" tvg-name="Meerut Mavericks Vs Noida Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" tvg-language="Hindi" group-title="Fancode",HIN | Meerut Mavericks Vs Noida Kings
 https://dai-fancode.pages.dev/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -12,68 +12,82 @@ https://dai-fancode.pages.dev/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h2
 #EXTINF:-1 tvg-id="4248332" tvg-name="Meerut Mavericks Vs Noida Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png" tvg-language="Bhojpuri" group-title="Fancode",BHO | Meerut Mavericks Vs Noida Kings
 https://dai-fancode.pages.dev/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="3780320402" tvg-name="Trivandrum Royals vs Alleppey Ripples ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6388/1787226606388-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787314754~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=26.01.19.1-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313554-rd=14400-ad=14400-ce=1787312954-~hmac=296ec21ccae9d805acf08cde8b12a56734dd461bb1f9c036aeff292d341bc8e4"}
+#EXTINF:-1 tvg-id="4248389" tvg-name="Israel Vs Isle Of Man" tvg-logo="https://images.fancode.com/aig/match/v1787292196231/4248389_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode",ENG | Israel Vs Isle Of Man
+https://dai-fancode.pages.dev/mumbai/4248389_english_hls_ca0bae206283816_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248390" tvg-name="Portugal Vs Spain" tvg-logo="https://images.fancode.com/aig/match/v1787292215433/4248390_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode",ENG | Portugal Vs Spain
+https://dai-fancode.pages.dev/mumbai/4248390_english_hls_c1ac94a2cf64100_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="7164914801" tvg-name="BWF World Championships: QFs, Court 1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7886/1787250227886-b" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787318715~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.04.20.2-ut=paid-ttl=1800-type=paid-raf=1787317515-~hmac=1435febaae05b957c04fd2ef6df966b6a77770a9e704ac49261b2c08776720bf"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2123084/inallow-kcl-2026/eng/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap.m3u8?a=ns&hdnea=exp=1787314754~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=26.01.19.1-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313554-rd=14400-ad=14400-ce=1787312954-~hmac=296ec21ccae9d805acf08cde8b12a56734dd461bb1f9c036aeff292d341bc8e4
+https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap.m3u8?a=ns&hdnea=exp=1787318715~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.04.20.2-ut=paid-ttl=1800-type=paid-raf=1787317515-~hmac=1435febaae05b957c04fd2ef6df966b6a77770a9e704ac49261b2c08776720bf
 
-#EXTINF:-1 tvg-id="3968733915" tvg-name="Trivandrum Royals vs Alleppey Ripples MALAYALAM By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6388/1787226606388-b" group-title="Hotstar", MALAYALAM FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787314754~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.04.27.2-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313554-rd=14400-ad=14400-ce=1787312954-~hmac=1c0744a8a5d5e8e4eeddb6ea9c9f387fd7f316c60a61605e687ab089e8ec06bb"}
+#EXTINF:-1 tvg-id="7176267061" tvg-name="Trivandrum Royals vs Alleppey Ripples" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/1058/1787226531058-h" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787318728~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.01.22.7-ut=paid-ttl=1800-type=paid-raf=1787317528-~hmac=5b584f77352c2a305e9ad7d3b5921f783ef862f7cc8890e4700395d39b7d982a"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2123147/inallow-kcl-2026/mal/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap.m3u8?a=ns&hdnea=exp=1787314754~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.04.27.2-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313554-rd=14400-ad=14400-ce=1787312954-~hmac=1c0744a8a5d5e8e4eeddb6ea9c9f387fd7f316c60a61605e687ab089e8ec06bb
+https://live13p.hotstar.com/hls/live/2123084/inallow-kcl-2026/eng/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap.m3u8?a=ns&hdnea=exp=1787318728~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.01.22.7-ut=paid-ttl=1800-type=paid-raf=1787317528-~hmac=5b584f77352c2a305e9ad7d3b5921f783ef862f7cc8890e4700395d39b7d982a
 
-#EXTINF:-1 tvg-id="4640341114" tvg-name="England vs Chile ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9289/1787289819289-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787314763~acl=/hls/live/2123075/inallow-fihwwc-2026/eng/1540076996/15mindvrm0218e1728c56204278bab8e50bf0d6d83221august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=26.08.02.9-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313563-rd=14400-ad=14400-ce=1787312963-~hmac=b5807e952e35b68999860927f926cdf5c4ecd2a85054beaaadb42bdec12119ed"}
+#EXTINF:-1 tvg-id="2557888395" tvg-name="Trivandrum Royals vs Alleppey Ripples" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/1058/1787226531058-h" group-title="Hotstar", MALAYALAM FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787318728~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.10.07.2-ut=paid-ttl=1800-type=paid-raf=1787317528-~hmac=1f32fe269fc71a3b5bd8bc4ac2afc1514ced7f09d3620b30881c6827bbdd56c4"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2123075/inallow-fihwwc-2026/eng/1540076996/15mindvrm0218e1728c56204278bab8e50bf0d6d83221august2026/master_ap.m3u8?a=ns&hdnea=exp=1787314763~acl=/hls/live/2123075/inallow-fihwwc-2026/eng/1540076996/15mindvrm0218e1728c56204278bab8e50bf0d6d83221august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=26.08.02.9-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313563-rd=14400-ad=14400-ce=1787312963-~hmac=b5807e952e35b68999860927f926cdf5c4ecd2a85054beaaadb42bdec12119ed
+https://live14p.hotstar.com/hls/live/2123147/inallow-kcl-2026/mal/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap.m3u8?a=ns&hdnea=exp=1787318728~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.10.07.2-ut=paid-ttl=1800-type=paid-raf=1787317528-~hmac=1f32fe269fc71a3b5bd8bc4ac2afc1514ced7f09d3620b30881c6827bbdd56c4
 
-#EXTINF:-1 tvg-id="4528517593" tvg-name="SF 1: Dibrugarh Warriors vs Barpeta Braves HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/216/1787292950216-b" group-title="Hotstar", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787314762~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075238/15mindvrm01b772118fcf5149e89e309d12551b1dca21august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.01.05.3-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313562-rd=14400-ad=14400-ce=1787312962-~hmac=85d8a4084477a81a0bbe41b6006c2615abc20546393125d3b707139c7f4d2ff8"}
+#EXTINF:-1 tvg-id="2479229052" tvg-name="Meerut Mavericks vs Noida Kings" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5379/1787227515379-h" group-title="Hotstar", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787318753~acl=/hls/live/2123198/inallow-upt20-2026/hin/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.10.26.6-ut=paid-ttl=1800-type=paid-raf=1787317553-~hmac=92273a97a2dd47b158615cc2717dcca24cae6888a74613871cfebe04ae074bca"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2003906/inallow-assampl-2026/hin/1540075238/15mindvrm01b772118fcf5149e89e309d12551b1dca21august2026/master_ap.m3u8?a=ns&hdnea=exp=1787314762~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075238/15mindvrm01b772118fcf5149e89e309d12551b1dca21august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.01.05.3-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313562-rd=14400-ad=14400-ce=1787312962-~hmac=85d8a4084477a81a0bbe41b6006c2615abc20546393125d3b707139c7f4d2ff8
+https://live15p.hotstar.com/hls/live/2123198/inallow-upt20-2026/hin/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap.m3u8?a=ns&hdnea=exp=1787318753~acl=/hls/live/2123198/inallow-upt20-2026/hin/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.10.26.6-ut=paid-ttl=1800-type=paid-raf=1787317553-~hmac=92273a97a2dd47b158615cc2717dcca24cae6888a74613871cfebe04ae074bca
 
-#EXTINF:-1 tvg-id="5996530612" tvg-name="Meerut Mavericks vs Noida Kings HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4483/1787227564483-b" group-title="Hotstar", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787314777~acl=/hls/live/2123198/inallow-upt20-2026/hin/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.08.24.4-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313577-rd=14400-ad=14400-ce=1787312977-~hmac=599cbf40b14d27c606dfd616f4cf51477ba9289b617266ee8687415965447c50"}
+#EXTINF:-1 tvg-id="9634165639" tvg-name="Meerut Mavericks vs Noida Kings" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5379/1787227515379-h" group-title="Hotstar", BHOJPURI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787318752~acl=/hls/live/2123066/inallow-upt20-2026/bho/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.02.1-ut=paid-ttl=1800-type=paid-raf=1787317552-~hmac=5b865b033b6b6385a5e89783c90bda13b66e771d18358bf86ce94a6f30d2ca95"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2123198/inallow-upt20-2026/hin/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap.m3u8?a=ns&hdnea=exp=1787314777~acl=/hls/live/2123198/inallow-upt20-2026/hin/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.08.24.4-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313577-rd=14400-ad=14400-ce=1787312977-~hmac=599cbf40b14d27c606dfd616f4cf51477ba9289b617266ee8687415965447c50
+https://live13p.hotstar.com/hls/live/2123066/inallow-upt20-2026/bho/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap.m3u8?a=ns&hdnea=exp=1787318752~acl=/hls/live/2123066/inallow-upt20-2026/bho/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.02.1-ut=paid-ttl=1800-type=paid-raf=1787317552-~hmac=5b865b033b6b6385a5e89783c90bda13b66e771d18358bf86ce94a6f30d2ca95
 
-#EXTINF:-1 tvg-id="3382183313" tvg-name="Meerut Mavericks vs Noida Kings BHOJPURI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4483/1787227564483-b" group-title="Hotstar", BHOJPURI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787314773~acl=/hls/live/2123066/inallow-upt20-2026/bho/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=26.10.26.6-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313573-rd=14400-ad=14400-ce=1787312973-~hmac=741e30127e9c124492e8258d01cb6fdd7ea3a57e0badcde00af88ae7dfe8ffb1"}
+#EXTINF:-1 tvg-id="8847610376" tvg-name="Ireland vs Malaysia" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7057/1787288827057-h" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787318784~acl=/hls/live/2123207/inallow-fihmwc-2026/eng/1540076980/15mindvrm021057a8086fc04edbbd523e181ab6754821august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.08.19.1-ut=paid-ttl=1800-type=paid-raf=1787317584-~hmac=f9fe3b1f62af6727cdd68d5a97e2a229812f36b08c17b66a995769a501a4f783"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2123066/inallow-upt20-2026/bho/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap.m3u8?a=ns&hdnea=exp=1787314773~acl=/hls/live/2123066/inallow-upt20-2026/bho/1540076018/15mindvrm015f9d351e488e448585d366165f106a8421august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=26.10.26.6-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313573-rd=14400-ad=14400-ce=1787312973-~hmac=741e30127e9c124492e8258d01cb6fdd7ea3a57e0badcde00af88ae7dfe8ffb1
+https://live15p.hotstar.com/hls/live/2123207/inallow-fihmwc-2026/eng/1540076980/15mindvrm021057a8086fc04edbbd523e181ab6754821august2026/master_ap.m3u8?a=ns&hdnea=exp=1787318784~acl=/hls/live/2123207/inallow-fihmwc-2026/eng/1540076980/15mindvrm021057a8086fc04edbbd523e181ab6754821august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.08.19.1-ut=paid-ttl=1800-type=paid-raf=1787317584-~hmac=f9fe3b1f62af6727cdd68d5a97e2a229812f36b08c17b66a995769a501a4f783
 
-#EXTINF:-1 tvg-id="772869669" tvg-name="BWF World Championships: QF's, Court 1 ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7886/1787250227886-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787314810~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.05.23.5-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313610-rd=14400-ad=14400-ce=1787313010-~hmac=542aa0621942775e65ca9838488397cd1172f1dcdcc98e52bb12c3ba4349feba"}
+#EXTINF:-1 tvg-id="1333943597" tvg-name="BWF World Championships: QFs, Court 2" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6672/1787250026672-b" group-title="Hotstar", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787318814~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.04.16.8-ut=paid-ttl=1800-type=paid-raf=1787317614-~hmac=121ce9301475fc83f57458a3df7c795b51e4a6a6379f216dff3ad0ecbe7b06f9"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap.m3u8?a=ns&hdnea=exp=1787314810~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.05.23.5-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313610-rd=14400-ad=14400-ce=1787313010-~hmac=542aa0621942775e65ca9838488397cd1172f1dcdcc98e52bb12c3ba4349feba
+https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap.m3u8?a=ns&hdnea=exp=1787318814~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=oJ7scaGSi6ikSc4yPCy1dNE9tSud4sEAwbJWxWfP60Jo-did=OZxvjgt2qOAH6UPYph9ZmObkLUmQjRClfaJTLuXhTDzH-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.04.16.8-ut=paid-ttl=1800-type=paid-raf=1787317614-~hmac=121ce9301475fc83f57458a3df7c795b51e4a6a6379f216dff3ad0ecbe7b06f9
 
-#EXTINF:-1 tvg-id="1146166374" tvg-name="BWF World Championships: QF's, Court 2 ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6672/1787250026672-b" group-title="Hotstar", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787314811~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.02.04.1-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313611-rd=14400-ad=14400-ce=1787313011-~hmac=13cb287c6502e3dc4a7068e18fc2acc97c55748c8e813333eb0bfbfcb7094160"}
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap.m3u8?a=ns&hdnea=exp=1787314811~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=89UFZ5jSam0uc7jqNC69OPQxdgyJQqgpT2w3W9hts1mu-did=TrPz69FNO1BMY3Z0MmYCeXSkwq5NcxR6FsY0e8hfd4Iq-cc=in-bl=jhs-de=1-pl=androidtv-ap=25.02.04.1-ut=free-fpassv2-chids=Ms6zApWH-ttl=1800-type=paid-raf=1787313611-rd=14400-ad=14400-ce=1787313011-~hmac=13cb287c6502e3dc4a7068e18fc2acc97c55748c8e813333eb0bfbfcb7094160
-
-#EXTINF:-1 tvg-id="B0HFKJ89QG" tvg-name="Top End T20 Series 2026 - 3rd Match - NT Strike vs Nepal" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d8b076c-f56b-4624-9379-5bc14d95d527/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Top End T20 Series 2026 - 3rd Match - NT Strike vs Nepal
+#EXTINF:-1 tvg-id="e0b3a7ce-2b32-4c84-ae96-3e985489e761" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qlnv5679uv9kxav7ybvx" tvg-lang="English" group-title="ICC TV",English | Isle of Man v Israel (5th PO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0fa3740ebbf503d399183a090084e880:457f9b2abb7693a4b1d4be212af70381
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/hkp88mq6cc/out/v1/af94712fd11f454b9f4dd98925d42856/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1787345109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d0bdee3e3d0addc878809f15c3fc78885271453375f16cd1294d9238bd1160c3/manifest.mpd?vcfilter=e0b3a7ce-2b32-4c84-ae96-3e985489e761&
+
+#EXTINF:-1 tvg-id="3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/scoimlxcky51bnzxysu2" tvg-lang="English" group-title="ICC TV",English | Spain v Portugal (Final)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1787345113~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=73b462fb16157d9c68b3e571cbc42dfe6112280f48be30979cfe7dc44d5e636e/manifest.mpd?vcfilter=3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3&
 
 #EXTINF:-1 tvg-id="B0HF1RTTDR" tvg-name="Pakistan tour of England 2026 - 1st Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/8/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Pakistan tour of England 2026 - 1st Test - England vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
@@ -82,84 +96,46 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/hkp88mq6
 #KODIPROP:inputstream.adaptive.license_key=29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mv2a4a16dt/out/v1/15437c63a814419182f1dfde499357f2/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0GW8L72F1" tvg-name="Zandvoort, Free Practice" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ef6751e-e232-4f2d-980b-bbdc229af18d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Zandvoort, Free Practice
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
+https://a196live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqnATSBhpqiD5SA2Zha2FtYWkCeClzc2lkOmM5M2I2ZjRkLTVhOGYtNGNlZi1hZTU5LWZiODExY2I3MDkzYRkBOKEFoQJ4My9sd3dzcXlqbnJ6L291dC92MS80MGY1M2M3Y2JjOTU0OThkYjNhZmQwODFjMzc3ZDc3NhkBPIFiVVNYIOYijDNhbvBdH5NL4XUGcMS7Hz6QeH7j7Q3ZT3XKgub7/PDX/1776219fd5214a9b8b7911390b010794/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_83a10cd1-8e37-4ec7-845f-bfa744c7c933_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lwwsqyjnrz/out/v1/40f53c7cbc95498db3afd081c377d776/5a5877e7-da6a-4900-bc8c-c663c7a646c1-cenc.mpd?aws.sessionId=fb4428e5-5987-4e72-973b-57c37122467c
+
 #EXTINF:-1 tvg-id="B0HFBSVT69" tvg-name="2026 Predator EuroTour Longoni Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",2026 Predator EuroTour Longoni Open
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFCCS1NX" tvg-name="PPA Tour Asia: Shenzhen Open-Round 16 & Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55560b96-c441-4628-88c7-12b1529ae904/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",PPA Tour Asia: Shenzhen Open-Round 16 & Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HFH8C263" tvg-name="Top End Series: NT Strike vs. Nepal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.34a57d70-e1c6-4932-91f8-8a488bc47916/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Top End Series: NT Strike vs. Nepal
+#EXTINF:-1 tvg-id="B0H6G5K3CF" tvg-name="Cricket Review-Top End T20 Series - NT Strike vs. Nepal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f2888aa5-047c-4e2d-8291-2b182d7eab12/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Cricket Review-Top End T20 Series - NT Strike vs. Nepal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%201.jpg" group-title="AxSports", Day 1 - Australian Darts Masters
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1787399248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d0fcdf534765ae163db8a67b5c88dd6
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Lions%20vs%20Collingwood%20Magpies.jpg" group-title="AxSports", Brisbane Lions vs Collingwood Magpies - AFL Premiership
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787399250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9ccc5edc59d8e2c33c758468e22f2e8e
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hwacheon%20KSPO%20W%20vs%20Seoul%20W.jpg" group-title="AxSports", Hwacheon KSPO W vs Seoul W - WK-League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa0-backup/chunks.m3u8?is_vip=false&token=1787399251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c811532e059378e3149df59d837e0f17
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hwacheon%20KSPO%20W%20vs%20Seoul%20W.jpg" group-title="AxSports", Hwacheon KSPO W vs Seoul W - WK-League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa0/chunks.m3u8?is_vip=false&token=1787399253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d42dcbf125962a5fafead509b5a79eed
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Incheon%20Red%20Angels%20W%20vs%20Boeun%20Sangmu%20W.jpg" group-title="AxSports", Incheon Red Angels W vs Boeun Sangmu W - WK-League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1f9f-backup/chunks.m3u8?is_vip=false&token=1787399254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d7270b28a73b30ff70eeaf68ba4033ff
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Incheon%20Red%20Angels%20W%20vs%20Boeun%20Sangmu%20W.jpg" group-title="AxSports", Incheon Red Angels W vs Boeun Sangmu W - WK-League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1f9f/chunks.m3u8?is_vip=false&token=1787399255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce67f0726d576d915ad84b6e1bfdda2a
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gumi%20Sportstoto%20W%20vs%20Changnyeong%20W.jpg" group-title="AxSports", Gumi Sportstoto W vs Changnyeong W - WK-League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1f9e-backup/chunks.m3u8?is_vip=false&token=1787399257-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92ab524b1c12211583d5f13b19d11b8e
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gumi%20Sportstoto%20W%20vs%20Changnyeong%20W.jpg" group-title="AxSports", Gumi Sportstoto W vs Changnyeong W - WK-League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1f9e/chunks.m3u8?is_vip=false&token=1787399258-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-760ea1fbb6b74789a4174cd6cf4661c2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1787402848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0104ca1100e096b863a5613755970a35
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="AxSports", England vs Pakistan - 1st Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787399259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3003a326136f23cd0529ebb68328d9e2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20vs%20JEF%20United%20Chiba.jpg" group-title="AxSports", FC Tokyo vs JEF United Chiba - J1 League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa2-backup/chunks.m3u8?is_vip=false&token=1787399261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb0a6f1da2635945990a225bf5e98848
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20vs%20JEF%20United%20Chiba.jpg" group-title="AxSports", FC Tokyo vs JEF United Chiba - J1 League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa2/chunks.m3u8?is_vip=false&token=1787399261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-02ad6dcbfcc477b929465ca92f6afd2c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787402849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af3374fdb46330651fdd184885143d49
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Round%204%20Netherlands%2C%202026.jpg" group-title="AxSports", Round 4 Netherlands, 2026 - F1 Academy Practice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1787399263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bef0172f94a3f20cb8b1240e2666cef4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1787402851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c63603e8d51fad0c1ec2a059d62f304e
 
