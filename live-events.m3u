@@ -24,10 +24,10 @@ https://dai-fancode.pages.dev/mumbai/4248352_hindi_hls_35cc2e3af442591_1ta-di_h2
 #EXTINF:-1 tvg-id="4248352" tvg-name="Lucknow Falcons Vs Kashi Rudras" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png" tvg-language="Bhojpuri" group-title="Fancode",BHO | Lucknow Falcons Vs Kashi Rudras
 https://dai-fancode.pages.dev/mumbai/4248352_bhojpuri_hls_b6ac438cc125592_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248512" tvg-name="Someshwar Warriors Vs Baragaddi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg" tvg-language="English" group-title="Fancode",ENG | Someshwar Warriors Vs Baragaddi Kings
-https://dai-fancode.pages.dev/mumbai/4248512_english_hls_9cfd358f1552150_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248513" tvg-name="Rawain Royals Vs Taknor Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg" tvg-language="English" group-title="Fancode",ENG | Rawain Royals Vs Taknor Tigers
+https://dai-fancode.pages.dev/mumbai/4248513_english_hls_f839819c0a99447_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4247553" tvg-name="Central Delhi Queens Vs South Delhi Superstarz Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787555685229.png" tvg-language="English" group-title="Fancode",ENG | Central Delhi Queens Vs South Delhi Superstarz Women
+#EXTINF:-1 tvg-id="4247553" tvg-name="South Delhi Superstarz Women Vs Central Delhi Queens" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787555685229.png" tvg-language="English" group-title="Fancode",ENG | South Delhi Superstarz Women Vs Central Delhi Queens
 https://dai-fancode.pages.dev/mumbai/4247553_english_hls_6b872f507b99405_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4248444" tvg-name="Hobart Hurricanes Academy Vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg" tvg-language="English" group-title="Fancode",ENG | Hobart Hurricanes Academy Vs Nepal
@@ -259,7 +259,7 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFBF5Z3D" tvg-name="Top End T20 Series 2026 - 12th Match - Nepal vs Hobart Hurricanes" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fd379414-b100-4e8e-b28f-75048687dd58/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Top End T20 Series 2026 - 12th Match - Nepal vs Hobart Hurricanes
 #KODIPROP:inputstream=inputstream.adaptive
@@ -275,13 +275,15 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5siv
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="AxSports", Sri Lanka vs India - 2nd Test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787656641-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f600be911a47e47bb0bcd195ff17ff5f
+#EXTINF:-1 tvg-id="B0H9492KZS" tvg-name="Cuba vs. Chinese Taipei" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1126ca8f-711b-4ad2-b6ef-062b26983f25/10/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Cuba vs. Chinese Taipei
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2026.jpg" group-title="AxSports", Players Championship 26 - Players Championship
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%203.jpg" group-title="AxSports", Vuelta a España, Stage 3 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787656644-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0065eb1ebaeb36b63411cc73c267b107
+https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1787662048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62b14cd8ff83b3eb67aecbf7153de28b
 
