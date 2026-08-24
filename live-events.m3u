@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1090540147" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | 2nd Test - Day 2 - 24 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2408/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=228c143213bb248049a1844c75ea1a22-1787544603033
-
-#EXTINF:-1 tvg-id="1090540147" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv",HIN | 2nd Test - Day 2 - 24 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2408/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=228c143213bb248049a1844c75ea1a22-1787544603033
-
-#EXTINF:-1 tvg-id="1090540147" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" tvg-language="Tamil" group-title="SonyLiv",TAM | 2nd Test - Day 2 - 24 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2408/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=228c143213bb248049a1844c75ea1a22-1787544603033
-
-#EXTINF:-1 tvg-id="1090540147" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" tvg-language="Telugu" group-title="SonyLiv",TEL | 2nd Test - Day 2 - 24 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2408/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=228c143213bb248049a1844c75ea1a22-1787544603033
-
-#EXTINF:-1 tvg-id="1090540147" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" tvg-language="Kannada" group-title="SonyLiv",KAN | 2nd Test - Day 2 - 24 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2408/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=228c143213bb248049a1844c75ea1a22-1787544603033
-
-#EXTINF:-1 tvg-id="1090540152" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326357844960_SL_vs_IND_2nd_Test_Day2_clean_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | 2nd Test - Day 2 - 24 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/DAI18-INDSL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=228c143213bb248049a1844c75ea1a22-1787544603033
-
 #EXTINF:-1 tvg-id="4248003" tvg-name="South Delhi Superstarz Vs New Delhi Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | South Delhi Superstarz Vs New Delhi Tigers
 https://dai-fancode.pages.dev/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
@@ -254,29 +236,25 @@ http://stopped.server/stream70.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1787345113~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=73b462fb16157d9c68b3e571cbc42dfe6112280f48be30979cfe7dc44d5e636e/manifest.mpd?vcfilter=3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3&
 
-#EXTINF:-1 tvg-id="B0HFBF5Z3D" tvg-name="Top End T20 Series 2026 - 12th Match - Nepal vs Hobart Hurricanes" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fd379414-b100-4e8e-b28f-75048687dd58/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Top End T20 Series 2026 - 12th Match - Nepal vs Hobart Hurricanes
+#EXTINF:-1 tvg-id="B0HDYZYGSB" tvg-name="European World Championships: Day 1, Heats" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d855b4c-41a3-4a37-9020-67cbe201533b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",European World Championships: Day 1, Heats
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf1e65f466c96e820f1864d3c83f24b7:487857d720603a20a3b0e1bdbdb7cad6
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sivtxjxex/out/v1/ccd2772b4ac34b35bdee514bbb5d5b6a/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H9492KZS" tvg-name="Cuba vs. Chinese Taipei" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1126ca8f-711b-4ad2-b6ef-062b26983f25/10/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Cuba vs. Chinese Taipei
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HB435F59" tvg-name="Cricket Review-Top End T20 Series - Nepal vs. Hurricanes" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06bb9c6e-1782-4edd-9402-53b710e39b3e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Cricket Review-Top End T20 Series - Nepal vs. Hurricanes
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%203.jpg" group-title="AxSports", Vuelta a España, Stage 3 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1787665649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0f4936a166a261eebf834aa4a4244757
+https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1787668348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-780238b6808c45e52f82bcb69384388e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Isloch%20Minsk%20R.%20vs%20Dinamo%20Minsk.jpg" group-title="AxSports", FC Isloch Minsk R. vs Dinamo Minsk - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb65000f680c3c822c47-backup/chunks.m3u8?is_vip=false&token=1787668352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-27fa98322ae573c9ea60b281986ce04d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="AxSports", US Open - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787668358-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-41661eb60f6de967e0cc499b2c715475
 
