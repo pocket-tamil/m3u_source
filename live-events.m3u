@@ -1,10 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4248151" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" tvg-language="English" group-title="Fancode",ENG | World Feed
-https://dai-fancode.pages.dev/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | Day 3 - 2nd Test - 25 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2865a5a9712b18f629232539eaa3e125-1787629803676
 
-#EXTINF:-1 tvg-id="4248434" tvg-name="Australian Capital Territory Vs Northern Territory Strike" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248434_53036_NTS_ACT_fc-web_1787393618710.jpg" tvg-language="English" group-title="Fancode",ENG | Australian Capital Territory Vs Northern Territory Strike
-https://dai-fancode.pages.dev/mumbai/4248434_english_hls_fd5b53d92780055_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv",HIN | Day 3 - 2nd Test - 25 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2508/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2865a5a9712b18f629232539eaa3e125-1787629803676
+
+#EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="SonyLiv",TAM | Day 3 - 2nd Test - 25 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2508/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2865a5a9712b18f629232539eaa3e125-1787629803676
+
+#EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="SonyLiv",TEL | Day 3 - 2nd Test - 25 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2508/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2865a5a9712b18f629232539eaa3e125-1787629803676
+
+#EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="SonyLiv",KAN | Day 3 - 2nd Test - 25 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2508/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2865a5a9712b18f629232539eaa3e125-1787629803676
+
+#EXTINF:-1 tvg-id="1090540287" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022846/1787588203291677_JPL_Mumbai_Kings_vs_Chennai_Strikers_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | Mumbai Kings vs Chennai Strikers - 25 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Cricket_2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2865a5a9712b18f629232539eaa3e125-1787629803676
 
 #EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - For now,
 http://stopped.server/stream01.m3u8
@@ -232,7 +244,14 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15010fa30093beac2e578df8378772e9:0dac32f908c5058b372ab09fae57b343
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ezxzrnbccf/out/v1/8d7e9f7b9d2040daa87ffa8a5789cfad/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H8YKS9K5" tvg-name="Great Britain vs. Venezuela" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8995941f-3199-4632-a430-11c3f24a3c64/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Great Britain vs. Venezuela
 #KODIPROP:inputstream=inputstream.adaptive
@@ -246,50 +265,35 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20Chicago%20White%20Sox.jpg" group-title="AxSports", Texas Rangers vs Chicago White Sox - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1787711546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d68c517ae16a10dbac448639edac2100
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlas%20W%20vs%20Tijuana%20W.jpg" group-title="AxSports", Atlas W vs Tijuana W - Liga MX Femenil [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca31-backup/chunks.m3u8?is_vip=false&token=1787711548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a05582da92e4e342acd564e868485d87
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlas%20W%20vs%20Tijuana%20W.jpg" group-title="AxSports", Atlas W vs Tijuana W - Liga MX Femenil [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca31/chunks.m3u8?is_vip=false&token=1787711550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-38129156f32e830f99a91ed2a81f6ef6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Los%20Angeles%20Angels.jpg" group-title="AxSports", Cleveland Guardians vs Los Angeles Angels - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1787711551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c88cd9a8a5c93883cf5e390ceed38cc1
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1787716041-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ae9725d6e78a362666e35af4902546f4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20Cubs%20vs%20Arizona%20Diamondbacks.jpg" group-title="AxSports", Chicago Cubs vs Arizona Diamondbacks - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1787711552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0402ee5a17a3e2bbc6efcfc3daa4f287
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1787716043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-19537cd5282ee1c76805a733dbe7dcf4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20Athletics.jpg" group-title="AxSports", Minnesota Twins vs Athletics - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1787711554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5292fc92e0d09d0003d37c5d840cf39
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1787716044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6fbac3331c8eed4e46339e621483251
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Pirates%20vs%20San%20Diego%20Padres.jpg" group-title="AxSports", Pittsburgh Pirates vs San Diego Padres - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1787711555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c133fbe2daad63034150e132884c36b8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1787716045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a02722b04947a6bf10a9295afd16788
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20Seattle%20Mariners.jpg" group-title="AxSports", Philadelphia Phillies vs Seattle Mariners - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1787711557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e9f7ea0b7cc8f3f99644f31d8415f262
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1787716046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9ac9cb585457008b661a5bfed6d79067
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlanta%20Dream%20vs%20Los%20Angeles%20Sparks.jpg" group-title="AxSports", Atlanta Dream vs Los Angeles Sparks - WNBA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510822/720p/chunks.m3u8?is_vip=false&token=1787711561-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-936d45611f49f3f8e73e0bf4a8b36384
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510822/720p/chunks.m3u8?is_vip=false&token=1787716051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6aff82fc193c46b39b7d70d0dc028132
 
