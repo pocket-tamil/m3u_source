@@ -3,234 +3,17 @@
 #EXTINF:-1 tvg-id="1090540287" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022862/1787639833874927_JPL26_PUNE_PESHWAS_vs_CHENNAI_STRIKERS_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | Pune Peshwas vs Chennai Strikers - 25 Aug 2026
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Cricket_2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1d7c423403398ac5136006bc7291bf39-1787662204749
 
-#EXTINF:-1 tvg-id="4248355" tvg-name="Meerut Mavericks Vs Kanpur Superstars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png" tvg-language="Hindi" group-title="Fancode",HIN | Meerut Mavericks Vs Kanpur Superstars
-https://dai-fancode.pages.dev/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248004" tvg-name="Purani Dilli 6 Vs East Delhi Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png" tvg-language="English" group-title="Fancode",ENG | Purani Dilli 6 Vs East Delhi Riders
+https://dai-fancode.pages.dev/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248355" tvg-name="Meerut Mavericks Vs Kanpur Superstars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png" tvg-language="Bhojpuri" group-title="Fancode",BHO | Meerut Mavericks Vs Kanpur Superstars
-https://dai-fancode.pages.dev/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248354" tvg-name="Lucknow Falcons Vs Kashi Rudras" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png" tvg-language="Hindi" group-title="Fancode",HIN | Lucknow Falcons Vs Kashi Rudras
+https://dai-fancode.pages.dev/mumbai/4248354_hindi_hls_add508635c1531_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248354" tvg-name="Lucknow Falcons Vs Kashi Rudras" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png" tvg-language="Bhojpuri" group-title="Fancode",BHO | Lucknow Falcons Vs Kashi Rudras
+https://dai-fancode.pages.dev/mumbai/4248354_bhojpuri_hls_fa7af942e667778_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4248515" tvg-name="Rawain Royals Vs Baragaddi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg" tvg-language="English" group-title="Fancode",ENG | Rawain Royals Vs Baragaddi Kings
 https://dai-fancode.pages.dev/mumbai/4248515_english_hls_3c390b0e0028871_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4248433" tvg-name="Adelaide Strikers Academy Vs Bangladesh Hp Xi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg" group-title="Fancode",[DRM] ENG | Adelaide Strikers Academy Vs Bangladesh Hp Xi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"D6DabnYhFhh3vE_xmUOeZw","kid":"P6XbfH00QlCk3sK3EACk2w","kty":"oct"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://in-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - For now,
-http://stopped.server/stream01.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - the Live
-http://stopped.server/stream02.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - Events Playlist
-http://stopped.server/stream03.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - have been
-http://stopped.server/stream04.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - stopped. I
-http://stopped.server/stream05.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - have stopped
-http://stopped.server/stream06.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - the playlist
-http://stopped.server/stream07.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - because some
-http://stopped.server/stream08.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - websites and
-http://stopped.server/stream09.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - apps are
-http://stopped.server/stream10.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - using my
-http://stopped.server/stream11.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - playlists, which
-http://stopped.server/stream12.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - is without
-http://stopped.server/stream13.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - credit also
-http://stopped.server/stream14.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - putting too
-http://stopped.server/stream15.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - much load
-http://stopped.server/stream16.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - on my
-http://stopped.server/stream17.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - server. That
-http://stopped.server/stream18.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - is why
-http://stopped.server/stream19.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - I am
-http://stopped.server/stream20.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - stopping. Soon
-http://stopped.server/stream21.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - I will
-http://stopped.server/stream22.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - launch a
-http://stopped.server/stream23.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - new Live
-http://stopped.server/stream24.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - Events Playlist
-http://stopped.server/stream25.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - with a
-http://stopped.server/stream26.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - new method.
-http://stopped.server/stream27.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - Stay tuned.
-http://stopped.server/stream28.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric
-http://stopped.server/stream29.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH30
-http://stopped.server/stream30.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH31
-http://stopped.server/stream31.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH32
-http://stopped.server/stream32.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH33
-http://stopped.server/stream33.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH34
-http://stopped.server/stream34.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH35
-http://stopped.server/stream35.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH36
-http://stopped.server/stream36.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH37
-http://stopped.server/stream37.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH38
-http://stopped.server/stream38.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH39
-http://stopped.server/stream39.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH40
-http://stopped.server/stream40.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH41
-http://stopped.server/stream41.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH42
-http://stopped.server/stream42.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH43
-http://stopped.server/stream43.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH44
-http://stopped.server/stream44.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH45
-http://stopped.server/stream45.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH46
-http://stopped.server/stream46.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH47
-http://stopped.server/stream47.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH48
-http://stopped.server/stream48.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH49
-http://stopped.server/stream49.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH50
-http://stopped.server/stream50.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH51
-http://stopped.server/stream51.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH52
-http://stopped.server/stream52.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH53
-http://stopped.server/stream53.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH54
-http://stopped.server/stream54.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH55
-http://stopped.server/stream55.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH56
-http://stopped.server/stream56.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH57
-http://stopped.server/stream57.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH58
-http://stopped.server/stream58.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH59
-http://stopped.server/stream59.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH60
-http://stopped.server/stream60.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH61
-http://stopped.server/stream61.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH62
-http://stopped.server/stream62.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH63
-http://stopped.server/stream63.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH64
-http://stopped.server/stream64.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH65
-http://stopped.server/stream65.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH66
-http://stopped.server/stream66.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH67
-http://stopped.server/stream67.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH68
-http://stopped.server/stream68.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH69
-http://stopped.server/stream69.m3u8
-
-#EXTINF:-1 group-title="Hotstar" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH70
-http://stopped.server/stream70.m3u8
 
 #EXTINF:-1 tvg-id="3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/scoimlxcky51bnzxysu2" tvg-lang="English" group-title="ICC TV",English | Spain v Portugal (Final)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -243,46 +26,25 @@ http://stopped.server/stream70.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1787345113~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=73b462fb16157d9c68b3e571cbc42dfe6112280f48be30979cfe7dc44d5e636e/manifest.mpd?vcfilter=3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3&
 
-#EXTINF:-1 tvg-id="B0HFSN1L9T" tvg-name="Top End T20 Series 2026 - 15th Match - Adelaide Strikers Academy vs Bangladesh HP" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da19826b-2823-42b1-af6d-a78cac5bd2d6/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Top End T20 Series 2026 - 15th Match - Adelaide Strikers Academy vs Bangladesh HP
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3135d0a72c3ea3170425888a64bc272:e0d6515b5400358ef79a4637ac2f8671
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i62ybobyvi/out/v1/3484fdc786484db59cb3b9c0f76e9688/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H5SK5PPX" tvg-name="Top End Series: Adelaide Strikers Academy vs Bangladesh HP" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bdc5d41d-195f-4c1d-91a3-590a7061cef9/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Top End Series: Adelaide Strikers Academy vs Bangladesh HP
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H9492KZS" tvg-name="Cuba vs. Chinese Taipei" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1126ca8f-711b-4ad2-b6ef-062b26983f25/12/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Cuba vs. Chinese Taipei
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H3C2VB9J" tvg-name="European World Championships: Day 2, Heats" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be32b641-fbcf-4ab8-b2cd-f15916bdd5af/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",European World Championships: Day 2, Heats
+#EXTINF:-1 tvg-id="B0G93GNFLL" tvg-name="European World Championships, Quarterfinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.88d0494c-fbce-4a38-8f8f-47dc9c8c4a18/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",European World Championships, Quarterfinal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2026.jpg" group-title="AxSports", Players Championship 26 - Players Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787748444-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f260da870184d19180e8ec5eb14e8b04
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan%20Open%20Terzo%20turno.jpg" group-title="AxSports", Wuhan Open: Terzo turno - World Snooker Tour
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787748450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d1447feca30ee9815c31f30f85f18ad
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787755646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b739d64a049aab5c47b4648cbe849202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%204.jpg" group-title="AxSports", Vuelta a España, Stage 4 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787748451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b549f44041e438595b79263f75fbc51d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787755648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-394cb81fd5c5da14f90632320088ef81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="AxSports", US Open - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787755650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f0021d4e9799b7d6aafc42ba763c72cd
 
