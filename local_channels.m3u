@@ -745,7 +745,7 @@ https://rtmp.streamwell.in/hls/7gtv.m3u8
 https://rtmp.streamwell.in/hls/rvdigitaltv.m3u8
 
 #EXTINF:-1 tvg-name="Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787670977_3_2_01_copy__01-removebg-preview.png" group-title="Local TV",Tv
-https://stream.ashokadigital.net/demotv/demo/index.m3u8
+https://stream.ashokadigital.net///index.m3u8
 
 #EXTINF:-1 tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national tv logo png.png" group-title="Local TV",Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
