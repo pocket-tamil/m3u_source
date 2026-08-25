@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-            curl -A "OTT Navigator" -L "https://starmix4k.zonmp.net/" -o strx.m3u
+            curl -A "OTT Navigator" -L "https://allinonereborn2.online/m3u/jtv23.m3u" -o strx.m3u
             
       - name: Commit and push if changed
         run: |
