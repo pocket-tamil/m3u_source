@@ -1,43 +1,61 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1090540376" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787648037924385_JPL_26_Bangalore-Blasters-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | Bangalore Blasters vs Golden Eagles Delhi - 26 Aug 2026
-https://sonymtmnew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787785821~acl=/*~id=37b61f5acd667f06ab08d7795d87897a-1787742600780~hmac=8e4cd296503dce1672afe23c58ce640c2fa1aadb1d69d12e8e4c4688a9c8c94b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5b63f8c8b57668166384c26771a4d35c-1787748619481
+https://sonymtmnew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787794223~acl=/*~id=579f834baa75eb7bfe6b52775cb0313f-1787751002817~hmac=a095861b274aa96031f706f0838fb7b3f41de8db5e77581ed6d8f66b4cfec2bc|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=99492c26973a0eeac026cff96f99548e-1787752203744
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="hindi" group-title="Fancode",HIN | 240p
-https://in-mc-flive.fancode.com/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/240p.m3u8?hdntl=Expires=1787822354~_GO=Generated~acl=/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/*~Signature=ARB3KG1tqR4Qc_PFps88n1CUyYt22a2nujyMp9XwbFXhdJP0ExzYwCrqhTUmx6EAQhigR-nv_RjY-unO-CV0MBxYPeEJ|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248005" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png" tvg-language="english" group-title="Fancode",ENG | 240p
+https://in-mc-flive.fancode.com/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/240p.m3u8?hdntl=Expires=1787836769~_GO=Generated~acl=/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/*~Signature=ARB3KG3i0VkgD0MtH8twFXc22dT7Q94NZEct5IH4s-X1CREGPPWp7CPC8w_Zxc5oRjAwzzijTcIc4LevxVmcKSf_7XAF|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="hindi" group-title="Fancode",HIN | 360p
-https://in-mc-flive.fancode.com/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/360p.m3u8?hdntl=Expires=1787822354~_GO=Generated~acl=/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/*~Signature=ARB3KG1tqR4Qc_PFps88n1CUyYt22a2nujyMp9XwbFXhdJP0ExzYwCrqhTUmx6EAQhigR-nv_RjY-unO-CV0MBxYPeEJ|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248005" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png" tvg-language="english" group-title="Fancode",ENG | 360p
+https://in-mc-flive.fancode.com/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/360p.m3u8?hdntl=Expires=1787836769~_GO=Generated~acl=/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/*~Signature=ARB3KG3i0VkgD0MtH8twFXc22dT7Q94NZEct5IH4s-X1CREGPPWp7CPC8w_Zxc5oRjAwzzijTcIc4LevxVmcKSf_7XAF|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="hindi" group-title="Fancode",HIN | 480p
-https://in-mc-flive.fancode.com/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/480p.m3u8?hdntl=Expires=1787822354~_GO=Generated~acl=/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/*~Signature=ARB3KG1tqR4Qc_PFps88n1CUyYt22a2nujyMp9XwbFXhdJP0ExzYwCrqhTUmx6EAQhigR-nv_RjY-unO-CV0MBxYPeEJ|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248005" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png" tvg-language="english" group-title="Fancode",ENG | 480p
+https://in-mc-flive.fancode.com/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/480p.m3u8?hdntl=Expires=1787836769~_GO=Generated~acl=/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/*~Signature=ARB3KG3i0VkgD0MtH8twFXc22dT7Q94NZEct5IH4s-X1CREGPPWp7CPC8w_Zxc5oRjAwzzijTcIc4LevxVmcKSf_7XAF|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="hindi" group-title="Fancode",HIN | 540p
-https://in-mc-flive.fancode.com/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/540p.m3u8?hdntl=Expires=1787822354~_GO=Generated~acl=/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/*~Signature=ARB3KG1tqR4Qc_PFps88n1CUyYt22a2nujyMp9XwbFXhdJP0ExzYwCrqhTUmx6EAQhigR-nv_RjY-unO-CV0MBxYPeEJ|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248005" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png" tvg-language="english" group-title="Fancode",ENG | 540p
+https://in-mc-flive.fancode.com/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/540p.m3u8?hdntl=Expires=1787836769~_GO=Generated~acl=/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/*~Signature=ARB3KG3i0VkgD0MtH8twFXc22dT7Q94NZEct5IH4s-X1CREGPPWp7CPC8w_Zxc5oRjAwzzijTcIc4LevxVmcKSf_7XAF|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="hindi" group-title="Fancode",HIN | 720p
-https://in-mc-flive.fancode.com/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/720p.m3u8?hdntl=Expires=1787822354~_GO=Generated~acl=/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/*~Signature=ARB3KG1tqR4Qc_PFps88n1CUyYt22a2nujyMp9XwbFXhdJP0ExzYwCrqhTUmx6EAQhigR-nv_RjY-unO-CV0MBxYPeEJ|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248005" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png" tvg-language="english" group-title="Fancode",ENG | 720p
+https://in-mc-flive.fancode.com/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/720p.m3u8?hdntl=Expires=1787836769~_GO=Generated~acl=/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/*~Signature=ARB3KG3i0VkgD0MtH8twFXc22dT7Q94NZEct5IH4s-X1CREGPPWp7CPC8w_Zxc5oRjAwzzijTcIc4LevxVmcKSf_7XAF|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="hindi" group-title="Fancode",HIN | 1080p
-https://in-mc-flive.fancode.com/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787822354~_GO=Generated~acl=/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/*~Signature=ARB3KG1tqR4Qc_PFps88n1CUyYt22a2nujyMp9XwbFXhdJP0ExzYwCrqhTUmx6EAQhigR-nv_RjY-unO-CV0MBxYPeEJ|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248005" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png" tvg-language="english" group-title="Fancode",ENG | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787836769~_GO=Generated~acl=/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/*~Signature=ARB3KG3i0VkgD0MtH8twFXc22dT7Q94NZEct5IH4s-X1CREGPPWp7CPC8w_Zxc5oRjAwzzijTcIc4LevxVmcKSf_7XAF|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 240p
-https://in-mc-flive.fancode.com/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/240p.m3u8?hdntl=Expires=1787822357~_GO=Generated~acl=/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/*~Signature=ARB3KG1EiuyvxtHKDKA7ofzoayl9OkB8JxZrkvuQ-mHWAhHZ8ujcNTiFETud4Xp3xallQ1rRQIyU93xPpgVXHHkJT7gB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="hindi" group-title="Fancode",HIN | 240p
+https://in-mc-flive.fancode.com/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/240p.m3u8?hdntl=Expires=1787838671~_GO=Generated~acl=/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/*~Signature=ARB3KG2cHbtkjMviWVYYtzHAdpe5miwTYFOQOrP4UbalPiC6ztbjS8I6ZPo4P72rs9BdCb_QCakID-KW_IRrEnR1mogG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 360p
-https://in-mc-flive.fancode.com/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/360p.m3u8?hdntl=Expires=1787822357~_GO=Generated~acl=/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/*~Signature=ARB3KG1EiuyvxtHKDKA7ofzoayl9OkB8JxZrkvuQ-mHWAhHZ8ujcNTiFETud4Xp3xallQ1rRQIyU93xPpgVXHHkJT7gB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="hindi" group-title="Fancode",HIN | 360p
+https://in-mc-flive.fancode.com/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/360p.m3u8?hdntl=Expires=1787838671~_GO=Generated~acl=/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/*~Signature=ARB3KG2cHbtkjMviWVYYtzHAdpe5miwTYFOQOrP4UbalPiC6ztbjS8I6ZPo4P72rs9BdCb_QCakID-KW_IRrEnR1mogG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 480p
-https://in-mc-flive.fancode.com/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/480p.m3u8?hdntl=Expires=1787822357~_GO=Generated~acl=/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/*~Signature=ARB3KG1EiuyvxtHKDKA7ofzoayl9OkB8JxZrkvuQ-mHWAhHZ8ujcNTiFETud4Xp3xallQ1rRQIyU93xPpgVXHHkJT7gB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="hindi" group-title="Fancode",HIN | 480p
+https://in-mc-flive.fancode.com/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/480p.m3u8?hdntl=Expires=1787838671~_GO=Generated~acl=/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/*~Signature=ARB3KG2cHbtkjMviWVYYtzHAdpe5miwTYFOQOrP4UbalPiC6ztbjS8I6ZPo4P72rs9BdCb_QCakID-KW_IRrEnR1mogG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 540p
-https://in-mc-flive.fancode.com/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/540p.m3u8?hdntl=Expires=1787822357~_GO=Generated~acl=/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/*~Signature=ARB3KG1EiuyvxtHKDKA7ofzoayl9OkB8JxZrkvuQ-mHWAhHZ8ujcNTiFETud4Xp3xallQ1rRQIyU93xPpgVXHHkJT7gB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="hindi" group-title="Fancode",HIN | 540p
+https://in-mc-flive.fancode.com/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/540p.m3u8?hdntl=Expires=1787838671~_GO=Generated~acl=/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/*~Signature=ARB3KG2cHbtkjMviWVYYtzHAdpe5miwTYFOQOrP4UbalPiC6ztbjS8I6ZPo4P72rs9BdCb_QCakID-KW_IRrEnR1mogG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 720p
-https://in-mc-flive.fancode.com/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/720p.m3u8?hdntl=Expires=1787822357~_GO=Generated~acl=/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/*~Signature=ARB3KG1EiuyvxtHKDKA7ofzoayl9OkB8JxZrkvuQ-mHWAhHZ8ujcNTiFETud4Xp3xallQ1rRQIyU93xPpgVXHHkJT7gB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="hindi" group-title="Fancode",HIN | 720p
+https://in-mc-flive.fancode.com/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/720p.m3u8?hdntl=Expires=1787838671~_GO=Generated~acl=/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/*~Signature=ARB3KG2cHbtkjMviWVYYtzHAdpe5miwTYFOQOrP4UbalPiC6ztbjS8I6ZPo4P72rs9BdCb_QCakID-KW_IRrEnR1mogG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248357" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 1080p
-https://in-mc-flive.fancode.com/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787822357~_GO=Generated~acl=/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/*~Signature=ARB3KG1EiuyvxtHKDKA7ofzoayl9OkB8JxZrkvuQ-mHWAhHZ8ujcNTiFETud4Xp3xallQ1rRQIyU93xPpgVXHHkJT7gB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="hindi" group-title="Fancode",HIN | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787838671~_GO=Generated~acl=/mumbai/4248356_hindi_hls_8ed0b58cd474058_1ta-di_h264/*~Signature=ARB3KG2cHbtkjMviWVYYtzHAdpe5miwTYFOQOrP4UbalPiC6ztbjS8I6ZPo4P72rs9BdCb_QCakID-KW_IRrEnR1mogG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 240p
+https://in-mc-flive.fancode.com/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/240p.m3u8?hdntl=Expires=1787838676~_GO=Generated~acl=/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/*~Signature=ARB3KG0RLbgsCSnDIIt5rjHFxGtL3gTPnY9gnnX0n2fiaUocraLcgfCstLLhyycQ9wij8NRPgBUJ8ASoQ0K4jtnqfR4I|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 360p
+https://in-mc-flive.fancode.com/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/360p.m3u8?hdntl=Expires=1787838676~_GO=Generated~acl=/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/*~Signature=ARB3KG0RLbgsCSnDIIt5rjHFxGtL3gTPnY9gnnX0n2fiaUocraLcgfCstLLhyycQ9wij8NRPgBUJ8ASoQ0K4jtnqfR4I|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 480p
+https://in-mc-flive.fancode.com/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/480p.m3u8?hdntl=Expires=1787838676~_GO=Generated~acl=/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/*~Signature=ARB3KG0RLbgsCSnDIIt5rjHFxGtL3gTPnY9gnnX0n2fiaUocraLcgfCstLLhyycQ9wij8NRPgBUJ8ASoQ0K4jtnqfR4I|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 540p
+https://in-mc-flive.fancode.com/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/540p.m3u8?hdntl=Expires=1787838676~_GO=Generated~acl=/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/*~Signature=ARB3KG0RLbgsCSnDIIt5rjHFxGtL3gTPnY9gnnX0n2fiaUocraLcgfCstLLhyycQ9wij8NRPgBUJ8ASoQ0K4jtnqfR4I|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 720p
+https://in-mc-flive.fancode.com/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/720p.m3u8?hdntl=Expires=1787838676~_GO=Generated~acl=/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/*~Signature=ARB3KG0RLbgsCSnDIIt5rjHFxGtL3gTPnY9gnnX0n2fiaUocraLcgfCstLLhyycQ9wij8NRPgBUJ8ASoQ0K4jtnqfR4I|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248356" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787838676~_GO=Generated~acl=/mumbai/4248356_bhojpuri_hls_8bafb71cfb43411_1ta-di_h264/*~Signature=ARB3KG0RLbgsCSnDIIt5rjHFxGtL3gTPnY9gnnX0n2fiaUocraLcgfCstLLhyycQ9wij8NRPgBUJ8ASoQ0K4jtnqfR4I|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4248517" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 240p
 https://in-mc-flive.fancode.com/mumbai/4248517_english_hls_47cbfd07bc97597_1ta-di_h264/240p.m3u8?hdntl=Expires=1787833583~_GO=Generated~acl=/mumbai/4248517_english_hls_47cbfd07bc97597_1ta-di_h264/*~Signature=ARB3KG3O-RSemzZapQ992MMwAe1COb30URv7WeHtseVR8lYk4QDR_kqsNiZLlImrwqZC01bSBapWPp6QnJoQeVN0ZnsK|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -68,56 +86,47 @@ https://in-mc-flive.fancode.com/mumbai/4248517_english_hls_47cbfd07bc97597_1ta-d
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1787345113~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=73b462fb16157d9c68b3e571cbc42dfe6112280f48be30979cfe7dc44d5e636e/manifest.mpd?vcfilter=3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3&
 
-#EXTINF:-1 tvg-id="B0HFRGYGTN" tvg-name="Top End T20 Series 2026 - 18th Match - Nepal vs ACT Comets" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9e8cf9c3-c43b-4892-9859-55d964bba43a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Top End T20 Series 2026 - 18th Match - Nepal vs ACT Comets
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d71892cc919d77335b73d1e5861d1f84:9d11c1065a6b99dbcfbd981ddf4a12d1
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ydhey7ayyo/out/v1/26c1fe58f12c41398284202a3aa4b079/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HF8GGRGX" tvg-name="European T20 Premier League 2026 - 1st Match - Rotterdam Dockers vs Amsterdam Flames" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20492208-8d38-40cf-983c-79a1617af56a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",European T20 Premier League 2026 - 1st Match - Rotterdam Dockers vs Amsterdam Flames
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b219ceefaace66c8e3373c741bcc05aa:f7ca0a04d4d697f36d7444fae029c097
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xkmf9pp9cd/out/v1/6a2c0f008cf1452bb15d255d1823826d/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xkmf9pp9cd/out/v1/6a2c0f008cf1452bb15d255d1823826d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HCGY7N8K" tvg-name="European World Championships: Day 3, Heats" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b51cc903-b283-4ebf-9657-e70eb2b0ae36/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",European World Championships: Day 3, Heats
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HG4FN51B" tvg-name="Top End Series: Nepal vs ACT Comets" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab099980-9645-48f6-aecc-e3f02d4c4327/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Top End Series: Nepal vs ACT Comets
+#EXTINF:-1 tvg-id="B0HFWZ2C8B" tvg-name="Rotterdam Dockers vs. Amsterdam Flames" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dae1f16f-c565-4a86-a698-2c0b3d41eec1/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Rotterdam Dockers vs. Amsterdam Flames
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan%20Open%20Quarto%20turno.jpg" group-title="AxSports", Wuhan Open: Quarto turno - World Snooker Tour
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2027.jpg" group-title="AxSports", Players Championship 27 - Players Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787835744-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7fe66222a64940787cb52220de1c6222
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787839348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-766d3c4e5cf5081510af36734a6197f3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%205.jpg" group-title="AxSports", Vuelta a España, Stage 5 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787835748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aa50d60f6017a99961ca12a5ce222e14
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787839353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a78fe3dda05f1852d75d424d4853eff0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Thailand.jpg" group-title="AxSports", Vietnam vs Thailand - ASEAN Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcc-backup/chunks.m3u8?is_vip=false&token=1787835751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7c13b702b3ea539e98dffd06b5a92837
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcc-backup/chunks.m3u8?is_vip=false&token=1787839358-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a5a13285494d7e587bbc7346147523d3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Thailand.jpg" group-title="AxSports", Vietnam vs Thailand - ASEAN Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcc/chunks.m3u8?is_vip=false&token=1787835751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0190d83bb7bbc5256e235c85f436642d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcc/chunks.m3u8?is_vip=false&token=1787839358-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-59e78ca8d10134c560a166cfd81aebc8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="AxSports", US Open - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787839360-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2fef88e15ab9cd9f7d9ad9b1f1ce6ad4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rotterdam%20Dockers%20vs%20Amsterdam%20Flames.jpg" group-title="AxSports", Rotterdam Dockers vs Amsterdam Flames - European T20 Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787835753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cde21ae11e8ad1081e1d4cca9a17a13
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787839361-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0c84ea17411c4a547878c4e9bf992e0c
 
