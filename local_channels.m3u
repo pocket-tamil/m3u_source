@@ -615,6 +615,9 @@ https://play.applelive.in/globaltv/globaltv.m3u8
 #EXTINF:-1 tvg-name="monisha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787571932_WhatsApp Image 2026-08-24 at 4.56.08 PM.jpeg" group-title="Local TV",monisha Tv
 http://manishatv1.sscloud7.in/live/maishatv/index.m3u8
 
+#EXTINF:-1 tvg-name="cgn tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787725031_CGN TV  YT 1.jpg-Photoroom.png" group-title="Local TV",cgn tv
+https://play.applelive.in/cgntv/cgntv.m3u8
+
 #EXTINF:-1 tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp Image 2026-08-06 at 12.21.27 PM.jpeg" group-title="Local TV",abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
 
@@ -743,9 +746,6 @@ https://rtmp.streamwell.in/hls/7gtv.m3u8
 
 #EXTINF:-1 tvg-name="rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785667797_WhatsApp Image 2026-08-02 at 12.09.05 PM.jpeg" group-title="Local TV",rv digital tv
 https://rtmp.streamwell.in/hls/rvdigitaltv.m3u8
-
-#EXTINF:-1 tvg-name="Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787670977_3_2_01_copy__01-removebg-preview.png" group-title="Local TV",Tv
-https://stream.ashokadigital.net///index.m3u8
 
 #EXTINF:-1 tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national tv logo png.png" group-title="Local TV",Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
