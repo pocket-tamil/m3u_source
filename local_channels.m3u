@@ -123,6 +123,9 @@ https://live.sscloud7.in/live/a2atv/index.m3u8
 #EXTINF:-1 tvg-name="OM TV" tvg-logo="https://phoenixcreations.online/v1/008jenifertv/assets/tvchannels/jenifertv-tvchannelavathar-jenifertv1695969956.png" group-title="Local TV",OM TV
 http://raghultv.sscloud7.in/live/ohmtv/playlist.mpd
 
+#EXTINF:-1 tvg-name="PaasamalarTV" tvg-logo="https://sscloud7.in/multi/uploads/1787738214_logo play.PNG" group-title="Local TV",PaasamalarTV
+http://paasamalartv.sscloud7.in/live/paasamalartv/index.m3u8
+
 #EXTINF:-1 tvg-name="M Tv" tvg-logo="https://sscloud7.in/rasinetwork/mtv.jpg" group-title="Local TV",M Tv
 https://ipcloud.live/mtv/menhd/index.m3u8
 
