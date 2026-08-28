@@ -24,19 +24,19 @@ jobs:
 
       - name: Download latest playlist
         run: |
-            curl -A "OTT Navigator" -L "https://allinonereborn2.online/m3u/jtv223.m3u" -o strx.m3u
+            curl -A "OTT Navigator" -L "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/" -o strx.json
             
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
       
-          git add strx.m3u
+          git add strx.json
       
           if git diff --cached --quiet; then
             echo "No changes detected."
           else
-            git commit -m "Update strx.m3u"
+            git commit -m "Update strx.json"
             git pull --rebase origin main
             git push origin main
           fi
