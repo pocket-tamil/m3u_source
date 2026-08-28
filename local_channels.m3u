@@ -342,6 +342,9 @@ https://app.ashokadigital.net/app/74f6070c/index.m3u8
 #EXTINF:-1 tvg-name="Hansitha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767717103_H1.png" group-title="Local TV",Hansitha Tv
 https://air.rojatv.cloud/hanshitha/tv/index.m3u8
 
+#EXTINF:-1 tvg-name="JRP TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739251156_JRP .png" group-title="Local TV",JRP TV HD
+https://app.ashokadigital.net/app/16b78045/index.m3u8
+
 #EXTINF:-1 tvg-name="Ruby Digital Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781012797_RubyDigitalTv.png" group-title="Local TV",Ruby Digital Tv
 https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8
 
@@ -401,6 +404,9 @@ https://stream.onecloudlive.in/yatra/yatratv/index.m3u8
 
 #EXTINF:-1 tvg-name="VEZHAMUGAM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284662_New Ai Logp copy.png" group-title="Local TV",VEZHAMUGAM
 http://live.mintv.in/vezhamugam/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="globel TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787288061_WhatsApp Image 2026-08-21 at 10.15.54 AM.jpeg" group-title="Local TV",globel TV
+https://play.applelive.in/globaltv/globaltv.m3u8
 
 #EXTINF:-1 tvg-name="kathir tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR TV.png" group-title="Local TV",kathir tv
 https://app.ashokadigital.net/app/cbc54d21/index.m3u8
@@ -546,6 +552,9 @@ https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
 #EXTINF:-1 tvg-name="DEEPAM TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284451_DEEPAM TV LOGO new logo copy.png" group-title="Local TV",DEEPAM TV
 http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8
 
+#EXTINF:-1 tvg-name="HAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787907930_IMG_3011.PNG" group-title="Local TV",HAI TV
+https://play.applelive.in/haitv/haitv.m3u8
+
 #EXTINF:-1 tvg-name="Sri Naga Sai Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751355066_250 sri naga sai trust tv.png" group-title="Local TV",Sri Naga Sai Tv
 http://singamcloud.in/saibaba/livekovai/index.m3u8
 
@@ -614,9 +623,6 @@ http://117.247.192.123:8080/vds/vds.m3u8
 
 #EXTINF:-1 tvg-name="AGASHAM TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787145831_file_00000000df288208984131c6f69dc32d.png" group-title="Local TV",AGASHAM TV
 https://agashamtv.stream.ipcloud.live/agashamtv/livestream/index.m3u8
-
-#EXTINF:-1 tvg-name="globel TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787288061_WhatsApp Image 2026-08-21 at 10.15.54 AM.jpeg" group-title="Local TV",globel TV
-https://play.applelive.in/globaltv/globaltv.m3u8
 
 #EXTINF:-1 tvg-name="monisha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787571932_WhatsApp Image 2026-08-24 at 4.56.08 PM.jpeg" group-title="Local TV",monisha Tv
 http://manishatv1.sscloud7.in/live/maishatv/index.m3u8
