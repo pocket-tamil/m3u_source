@@ -459,6 +459,9 @@ http://play.applelive.in/smaxtv/smaxtv.m3u8
 #EXTINF:-1 tvg-name="Kavin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN TV.png" group-title="Local TV",Kavin tv
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 
+#EXTINF:-1 tvg-name="anandham tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM TV LOGO.png" group-title="Local TV",anandham tv
+https://anandhamtv.stream.ipcloud.live/anandhamtv/anandhamtv/index.m3u8
+
 #EXTINF:-1 tvg-name="BSC OLD tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1771731192_bsc tv.png" group-title="Local TV",BSC OLD tv
 https://app.ashokadigital.net/app/dd82e91b/index.m3u8
 
@@ -657,6 +660,9 @@ https://livetv.ashokadigital.net/upload/vod/1782902632_AVR_Swarna_Mahal_Jeweller
 #EXTINF:-1 tvg-name="ಅಶೋಕ INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782906505_ka 2.png" group-title="Local TV",ಅಶೋಕ INFO TV
 https://livetv.ashokadigital.net/upload/vod/1755166998_Benaka_Gold_New_Ad_1mint_1_.mp4
 
+#EXTINF:-1 tvg-name="Salam Bengalore" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787846608_salam banglore.png" group-title="Local TV",Salam Bengalore
+https://playlist.streambox24.in:5443/SalamBengalore/streams/SalamBengalore.m3u8
+
 #EXTINF:-1 tvg-name="Km News Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316 copy.png" group-title="Local TV",Km News Bengaluru
 https://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
 
@@ -702,23 +708,8 @@ http://guru.sritv.co.in:1935/akash/live/sri_network_cdn.m3u8
 #EXTINF:-1 tvg-name="Blessing Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750414088_IMG_20250620_153652.jpg" group-title="Local TV",Blessing Tv
 https://mumbai-edge.smartplaytv.in/BlessingTv/index.m3u8
 
-#EXTINF:-1 tvg-name="Sreshta media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518020_WhatsApp Image 2025-06-21 at 8.22.51 PM.jpeg" group-title="Local TV",Sreshta media
-rtmp://mumbai-edge.smartplaytv.in:1935/static/PPS
-
-#EXTINF:-1 tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Local TV",Reshya Tv
-https://vvsolutions-server11.in/reshyatv_5/video.m3u8
-
-#EXTINF:-1 tvg-name="BMC TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750579765_IMG_20250622_133711.jpg" group-title="Local TV",BMC TV
-rtmp://telugusolutions.in/sgchannel_news7telugu/sgchannel
-
-#EXTINF:-1 tvg-name="gs channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570583_1747319853_0 . ASHOKA DIGITAL LOGO (1).png" group-title="Local TV",gs channel
-http://shivaganeshtelicom.in/gschannel/video.m3u8
-
 #EXTINF:-1 tvg-name="Gee TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570629_1747319853_0 . ASHOKA DIGITAL LOGO (1).png" group-title="Local TV",Gee TV
 https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
-
-#EXTINF:-1 tvg-name="biblepower tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570671_1747319853_0 . ASHOKA DIGITAL LOGO (1).png" group-title="Local TV",biblepower tv
-https://cloud.sundaylive.co.in/biblepowertv/biblepowertv/index.m3u8
 
 #EXTINF:-1 tvg-name="SRI THANGAMAYIL MURUGAN" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775060426_WhatsApp Image 2026-04-01 at 9.45.49 PM.jpeg" group-title="Local TV",SRI THANGAMAYIL MURUGAN
 rtmp://stmtv.sscloud7.in/stmtv/srithangamalaimurugantv
@@ -815,4 +806,10 @@ https://viimedia.wiseplayout.com:5556/viimedia/master.m3u8
 
 #EXTINF:-1 tvg-name="HS TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786186834_WhatsApp Image 2026-08-08 at 4.28.57 PM.jpeg" group-title="Local TV",HS TV
 https://live.castmaxcloud.com/live/hstv.m3u8
+
+#EXTINF:-1 tvg-name="NEWS MPD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787848284_dat news delhi.png" group-title="Local TV",NEWS MPD
+https://live.newsmpd.com/newsmpd/newsmpd/index.m3u8
+
+#EXTINF:-1 tvg-name="DAT NEWS" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787848339_dat.png" group-title="Local TV",DAT NEWS
+https://live.dainikayodhyatimes.com/datnews/datnews/index.m3u8
 
