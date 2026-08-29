@@ -1,103 +1,427 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1090540806" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815121565770_JPL_26_Chennai-Striker-Kings-vs-Bengal-Indians_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | Chennai Striker Kings vs Bengal Indians - 29 Aug 2026
-https://sonymtmnew.akamaized.net/hls/live/2018458/109054082908/ENG/master.m3u8?hdnea=exp=1788016234~acl=/*~id=4c20445a659ff6cc39cc2e4bb2461737-1787973002937~hmac=a21af457ede1e673f94cc1ca77724fff0af389d1fa40c6f6b9f952221cd910d8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c8d0a2bd34e28e71d0bf5e5b330362ab-1787975403338
+#EXTINF:-1 tvg-id="1090540848" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023133/1787930872823288_AsiaCup26_SriLanka_vs_UAE_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | Sri Lanka Women vs UAE Women - 29 Aug 2026
+https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2908/ENG/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069
+
+#EXTINF:-1 tvg-id="1090540848" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023133/1787930872823288_AsiaCup26_SriLanka_vs_UAE_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv",HIN | Sri Lanka Women vs UAE Women - 29 Aug 2026
+https://sonymtmnew.akamaized.net/hls/live/2037143/cricodi2908/HIN/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069
+
+#EXTINF:-1 tvg-id="1090540848" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023133/1787930872823288_AsiaCup26_SriLanka_vs_UAE_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="SonyLiv",TAM | Sri Lanka Women vs UAE Women - 29 Aug 2026
+https://sonymtmnew.akamaized.net/hls/live/2105080/cricodi2908/TAM/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069
+
+#EXTINF:-1 tvg-id="1090540848" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023133/1787930872823288_AsiaCup26_SriLanka_vs_UAE_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="SonyLiv",TEL | Sri Lanka Women vs UAE Women - 29 Aug 2026
+https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi2908/TEL/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069
+
+#EXTINF:-1 tvg-id="1090540848" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023133/1787930872823288_AsiaCup26_SriLanka_vs_UAE_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="SonyLiv",KAN | Sri Lanka Women vs UAE Women - 29 Aug 2026
+https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi2908/KAN/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069
+
+#EXTINF:-1 tvg-id="1090540809" tvg-name="Pakistan Tour of England 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918548169954_ENGvsPAK_2nd_test_day3_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | Day 3 - 2nd Test - 29 Aug 2026
+https://sonymtmnew.akamaized.net/hls/live/2022316/109054082908/ENG/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069
+
+#EXTINF:-1 tvg-id="1090540806" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815987684770_JPL_26_Mumbai-Kings-Xl-vs-Indore-Hawks_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv",ENG | Mumbai Kings vs Indore Hawks - 29 Aug 2026
+https://sonymtmnew.akamaized.net/hls/live/2018458/109054082908/ENG/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="hindi" group-title="Fancode",HIN | 240p
+https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/240p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG0kbfwfpp6pYpAkdHehP9FxxddOgb1sKIQVyCIgBtW3CCYtvsabiHIjlMXY1H1Z2NVDdtadkjUPOudMIo70NGwK|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="hindi" group-title="Fancode",HIN | 360p
+https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/360p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG0kbfwfpp6pYpAkdHehP9FxxddOgb1sKIQVyCIgBtW3CCYtvsabiHIjlMXY1H1Z2NVDdtadkjUPOudMIo70NGwK|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="hindi" group-title="Fancode",HIN | 480p
+https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/480p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG0kbfwfpp6pYpAkdHehP9FxxddOgb1sKIQVyCIgBtW3CCYtvsabiHIjlMXY1H1Z2NVDdtadkjUPOudMIo70NGwK|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="hindi" group-title="Fancode",HIN | 540p
+https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/540p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG0kbfwfpp6pYpAkdHehP9FxxddOgb1sKIQVyCIgBtW3CCYtvsabiHIjlMXY1H1Z2NVDdtadkjUPOudMIo70NGwK|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="hindi" group-title="Fancode",HIN | 720p
+https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/720p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG0kbfwfpp6pYpAkdHehP9FxxddOgb1sKIQVyCIgBtW3CCYtvsabiHIjlMXY1H1Z2NVDdtadkjUPOudMIo70NGwK|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="hindi" group-title="Fancode",HIN | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG0kbfwfpp6pYpAkdHehP9FxxddOgb1sKIQVyCIgBtW3CCYtvsabiHIjlMXY1H1Z2NVDdtadkjUPOudMIo70NGwK|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 240p
+https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/240p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG1mF_995QYWcv7hbnfxft-YsUCzzkowT3k6PC6qgb48sdk9U3zzXYy6_BStErlanSMdaz67BMRVTuQBdXCx6xUG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 360p
+https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/360p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG1mF_995QYWcv7hbnfxft-YsUCzzkowT3k6PC6qgb48sdk9U3zzXYy6_BStErlanSMdaz67BMRVTuQBdXCx6xUG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 480p
+https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/480p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG1mF_995QYWcv7hbnfxft-YsUCzzkowT3k6PC6qgb48sdk9U3zzXYy6_BStErlanSMdaz67BMRVTuQBdXCx6xUG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 540p
+https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/540p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG1mF_995QYWcv7hbnfxft-YsUCzzkowT3k6PC6qgb48sdk9U3zzXYy6_BStErlanSMdaz67BMRVTuQBdXCx6xUG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 720p
+https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/720p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG1mF_995QYWcv7hbnfxft-YsUCzzkowT3k6PC6qgb48sdk9U3zzXYy6_BStErlanSMdaz67BMRVTuQBdXCx6xUG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png" tvg-language="bhojpuri" group-title="Fancode",BHO | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788097869~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG1mF_995QYWcv7hbnfxft-YsUCzzkowT3k6PC6qgb48sdk9U3zzXYy6_BStErlanSMdaz67BMRVTuQBdXCx6xUG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248665" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 240p
+https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/240p.m3u8?hdntl=Expires=1788088344~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG2StY58joTscawF_YzptQ33ZPOC7AN7VaeSP5hC8Rv7Xf1TSHPj4uUJeqio72VZ8iHuLAGpMLdTpoZHR0HM56wA|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248665" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 360p
+https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/360p.m3u8?hdntl=Expires=1788088344~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG2StY58joTscawF_YzptQ33ZPOC7AN7VaeSP5hC8Rv7Xf1TSHPj4uUJeqio72VZ8iHuLAGpMLdTpoZHR0HM56wA|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248665" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 480p
+https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/480p.m3u8?hdntl=Expires=1788088344~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG2StY58joTscawF_YzptQ33ZPOC7AN7VaeSP5hC8Rv7Xf1TSHPj4uUJeqio72VZ8iHuLAGpMLdTpoZHR0HM56wA|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248665" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 540p
+https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/540p.m3u8?hdntl=Expires=1788088344~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG2StY58joTscawF_YzptQ33ZPOC7AN7VaeSP5hC8Rv7Xf1TSHPj4uUJeqio72VZ8iHuLAGpMLdTpoZHR0HM56wA|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248665" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 720p
+https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/720p.m3u8?hdntl=Expires=1788088344~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG2StY58joTscawF_YzptQ33ZPOC7AN7VaeSP5hC8Rv7Xf1TSHPj4uUJeqio72VZ8iHuLAGpMLdTpoZHR0HM56wA|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248665" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788088344~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG2StY58joTscawF_YzptQ33ZPOC7AN7VaeSP5hC8Rv7Xf1TSHPj4uUJeqio72VZ8iHuLAGpMLdTpoZHR0HM56wA|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248523" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248523_53041_BNR_BK_FC-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 240p
+https://in-mc-flive.fancode.com/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/240p.m3u8?hdntl=Expires=1788093428~_GO=Generated~acl=/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/*~Signature=ARB3KG2tUVihn2SaXkAqzBLtLIHD6KdTyllRJxRJG7x9op7P6HL2aLGXRgfeExQ8ViUueMUq9tz541SG01o4s8CgUM4F|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248523" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248523_53041_BNR_BK_FC-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 360p
+https://in-mc-flive.fancode.com/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/360p.m3u8?hdntl=Expires=1788093428~_GO=Generated~acl=/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/*~Signature=ARB3KG2tUVihn2SaXkAqzBLtLIHD6KdTyllRJxRJG7x9op7P6HL2aLGXRgfeExQ8ViUueMUq9tz541SG01o4s8CgUM4F|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248523" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248523_53041_BNR_BK_FC-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 480p
+https://in-mc-flive.fancode.com/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/480p.m3u8?hdntl=Expires=1788093428~_GO=Generated~acl=/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/*~Signature=ARB3KG2tUVihn2SaXkAqzBLtLIHD6KdTyllRJxRJG7x9op7P6HL2aLGXRgfeExQ8ViUueMUq9tz541SG01o4s8CgUM4F|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248523" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248523_53041_BNR_BK_FC-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 540p
+https://in-mc-flive.fancode.com/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/540p.m3u8?hdntl=Expires=1788093428~_GO=Generated~acl=/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/*~Signature=ARB3KG2tUVihn2SaXkAqzBLtLIHD6KdTyllRJxRJG7x9op7P6HL2aLGXRgfeExQ8ViUueMUq9tz541SG01o4s8CgUM4F|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248523" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248523_53041_BNR_BK_FC-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 720p
+https://in-mc-flive.fancode.com/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/720p.m3u8?hdntl=Expires=1788093428~_GO=Generated~acl=/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/*~Signature=ARB3KG2tUVihn2SaXkAqzBLtLIHD6KdTyllRJxRJG7x9op7P6HL2aLGXRgfeExQ8ViUueMUq9tz541SG01o4s8CgUM4F|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248523" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248523_53041_BNR_BK_FC-Web.jpg" tvg-language="english" group-title="Fancode",ENG | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788093428~_GO=Generated~acl=/mumbai/4248523_english_hls_e7e4db4fed24596_1ta-di_h264/*~Signature=ARB3KG2tUVihn2SaXkAqzBLtLIHD6KdTyllRJxRJG7x9op7P6HL2aLGXRgfeExQ8ViUueMUq9tz541SG01o4s8CgUM4F|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248582" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" tvg-language="english" group-title="Fancode",ENG | 240p
+https://in-mc-flive.fancode.com/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/240p.m3u8?hdntl=Expires=1788094269~_GO=Generated~acl=/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/*~Signature=ARB3KG3n0fvEq0Kh7d62bquslCwOwuOyj9xtGP0XMv_IGWFGGmHaEfjdF4mGkrbLVNFCyaxhKFXatOoYlWPvf_O227kN|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248582" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" tvg-language="english" group-title="Fancode",ENG | 360p
+https://in-mc-flive.fancode.com/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/360p.m3u8?hdntl=Expires=1788094269~_GO=Generated~acl=/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/*~Signature=ARB3KG3n0fvEq0Kh7d62bquslCwOwuOyj9xtGP0XMv_IGWFGGmHaEfjdF4mGkrbLVNFCyaxhKFXatOoYlWPvf_O227kN|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248582" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" tvg-language="english" group-title="Fancode",ENG | 480p
+https://in-mc-flive.fancode.com/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/480p.m3u8?hdntl=Expires=1788094269~_GO=Generated~acl=/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/*~Signature=ARB3KG3n0fvEq0Kh7d62bquslCwOwuOyj9xtGP0XMv_IGWFGGmHaEfjdF4mGkrbLVNFCyaxhKFXatOoYlWPvf_O227kN|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248582" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" tvg-language="english" group-title="Fancode",ENG | 540p
+https://in-mc-flive.fancode.com/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/540p.m3u8?hdntl=Expires=1788094269~_GO=Generated~acl=/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/*~Signature=ARB3KG3n0fvEq0Kh7d62bquslCwOwuOyj9xtGP0XMv_IGWFGGmHaEfjdF4mGkrbLVNFCyaxhKFXatOoYlWPvf_O227kN|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248582" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" tvg-language="english" group-title="Fancode",ENG | 720p
+https://in-mc-flive.fancode.com/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/720p.m3u8?hdntl=Expires=1788094269~_GO=Generated~acl=/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/*~Signature=ARB3KG3n0fvEq0Kh7d62bquslCwOwuOyj9xtGP0XMv_IGWFGGmHaEfjdF4mGkrbLVNFCyaxhKFXatOoYlWPvf_O227kN|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248582" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" tvg-language="english" group-title="Fancode",ENG | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788094269~_GO=Generated~acl=/mumbai/4248582_english_hls_c0878b808d84160_1ta-di_h264/*~Signature=ARB3KG3n0fvEq0Kh7d62bquslCwOwuOyj9xtGP0XMv_IGWFGGmHaEfjdF4mGkrbLVNFCyaxhKFXatOoYlWPvf_O227kN|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247478" tvg-logo="https://images.fancode.com/aig/match/v1784709183101/4247478_CASACARDS_SPORTY_APP.png" tvg-language="english" group-title="Fancode",ENG | 240p
+https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/240p.m3u8?hdntl=Expires=1788097873~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG0mzbUrkN_bhMfDnyDbuMp9aljEdCKKggbTYwEoyKgYSiYEwFaGxhKm0bwiovXE5xNtXm4eTpzvoc-NF0XhwosG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247478" tvg-logo="https://images.fancode.com/aig/match/v1784709183101/4247478_CASACARDS_SPORTY_APP.png" tvg-language="english" group-title="Fancode",ENG | 360p
+https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/360p.m3u8?hdntl=Expires=1788097873~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG0mzbUrkN_bhMfDnyDbuMp9aljEdCKKggbTYwEoyKgYSiYEwFaGxhKm0bwiovXE5xNtXm4eTpzvoc-NF0XhwosG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247478" tvg-logo="https://images.fancode.com/aig/match/v1784709183101/4247478_CASACARDS_SPORTY_APP.png" tvg-language="english" group-title="Fancode",ENG | 480p
+https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/480p.m3u8?hdntl=Expires=1788097873~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG0mzbUrkN_bhMfDnyDbuMp9aljEdCKKggbTYwEoyKgYSiYEwFaGxhKm0bwiovXE5xNtXm4eTpzvoc-NF0XhwosG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247478" tvg-logo="https://images.fancode.com/aig/match/v1784709183101/4247478_CASACARDS_SPORTY_APP.png" tvg-language="english" group-title="Fancode",ENG | 540p
+https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/540p.m3u8?hdntl=Expires=1788097873~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG0mzbUrkN_bhMfDnyDbuMp9aljEdCKKggbTYwEoyKgYSiYEwFaGxhKm0bwiovXE5xNtXm4eTpzvoc-NF0XhwosG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247478" tvg-logo="https://images.fancode.com/aig/match/v1784709183101/4247478_CASACARDS_SPORTY_APP.png" tvg-language="english" group-title="Fancode",ENG | 720p
+https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/720p.m3u8?hdntl=Expires=1788097873~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG0mzbUrkN_bhMfDnyDbuMp9aljEdCKKggbTYwEoyKgYSiYEwFaGxhKm0bwiovXE5xNtXm4eTpzvoc-NF0XhwosG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247478" tvg-logo="https://images.fancode.com/aig/match/v1784709183101/4247478_CASACARDS_SPORTY_APP.png" tvg-language="english" group-title="Fancode",ENG | 1080p
+https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788097873~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG0mzbUrkN_bhMfDnyDbuMp9aljEdCKKggbTYwEoyKgYSiYEwFaGxhKm0bwiovXE5xNtXm4eTpzvoc-NF0XhwosG|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139964" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" tvg-language="english" group-title="Fancode",ENG | 240p
-https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/240p.m3u8?hdntl=Expires=1788071831~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1ckLLcEaf7X63VVtC__P4xlJOC62pVMtozVYRS-hs4p5OtFu2zvc3KnPSPxxA58ia68IOwP8x6Ot0xbgTIfA4D|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/240p.m3u8?hdntl=Expires=1788090251~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1O-JO4Gn5ZUp1Zig8zYmmMvxEEd8n-yYYFNCUzdpz7opApLTIPGiuBM8TyrVwzIhuy5hrwy4SsHcDNAB8VgCAL|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139964" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" tvg-language="english" group-title="Fancode",ENG | 360p
-https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/360p.m3u8?hdntl=Expires=1788071831~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1ckLLcEaf7X63VVtC__P4xlJOC62pVMtozVYRS-hs4p5OtFu2zvc3KnPSPxxA58ia68IOwP8x6Ot0xbgTIfA4D|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/360p.m3u8?hdntl=Expires=1788090251~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1O-JO4Gn5ZUp1Zig8zYmmMvxEEd8n-yYYFNCUzdpz7opApLTIPGiuBM8TyrVwzIhuy5hrwy4SsHcDNAB8VgCAL|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139964" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" tvg-language="english" group-title="Fancode",ENG | 480p
-https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/480p.m3u8?hdntl=Expires=1788071831~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1ckLLcEaf7X63VVtC__P4xlJOC62pVMtozVYRS-hs4p5OtFu2zvc3KnPSPxxA58ia68IOwP8x6Ot0xbgTIfA4D|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/480p.m3u8?hdntl=Expires=1788090251~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1O-JO4Gn5ZUp1Zig8zYmmMvxEEd8n-yYYFNCUzdpz7opApLTIPGiuBM8TyrVwzIhuy5hrwy4SsHcDNAB8VgCAL|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139964" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" tvg-language="english" group-title="Fancode",ENG | 540p
-https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/540p.m3u8?hdntl=Expires=1788071831~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1ckLLcEaf7X63VVtC__P4xlJOC62pVMtozVYRS-hs4p5OtFu2zvc3KnPSPxxA58ia68IOwP8x6Ot0xbgTIfA4D|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/540p.m3u8?hdntl=Expires=1788090251~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1O-JO4Gn5ZUp1Zig8zYmmMvxEEd8n-yYYFNCUzdpz7opApLTIPGiuBM8TyrVwzIhuy5hrwy4SsHcDNAB8VgCAL|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139964" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" tvg-language="english" group-title="Fancode",ENG | 720p
-https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/720p.m3u8?hdntl=Expires=1788071831~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1ckLLcEaf7X63VVtC__P4xlJOC62pVMtozVYRS-hs4p5OtFu2zvc3KnPSPxxA58ia68IOwP8x6Ot0xbgTIfA4D|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/720p.m3u8?hdntl=Expires=1788090251~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1O-JO4Gn5ZUp1Zig8zYmmMvxEEd8n-yYYFNCUzdpz7opApLTIPGiuBM8TyrVwzIhuy5hrwy4SsHcDNAB8VgCAL|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139964" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" tvg-language="english" group-title="Fancode",ENG | 1080p
-https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788071831~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1ckLLcEaf7X63VVtC__P4xlJOC62pVMtozVYRS-hs4p5OtFu2zvc3KnPSPxxA58ia68IOwP8x6Ot0xbgTIfA4D|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788090251~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1O-JO4Gn5ZUp1Zig8zYmmMvxEEd8n-yYYFNCUzdpz7opApLTIPGiuBM8TyrVwzIhuy5hrwy4SsHcDNAB8VgCAL|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139964" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" tvg-language="english" group-title="Fancode",ENG | 1080p
-https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788071831~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1ckLLcEaf7X63VVtC__P4xlJOC62pVMtozVYRS-hs4p5OtFu2zvc3KnPSPxxA58ia68IOwP8x6Ot0xbgTIfA4D|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788090251~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG1O-JO4Gn5ZUp1Zig8zYmmMvxEEd8n-yYYFNCUzdpz7opApLTIPGiuBM8TyrVwzIhuy5hrwy4SsHcDNAB8VgCAL|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="B0HFLW9R9K" tvg-name="Top End T20 Series 2026 - 27th Match - Nepal vs Victoria" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da1795d3-8084-4728-bef6-3248d04d5cb2/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Top End T20 Series 2026 - 27th Match - Nepal vs Victoria
+#EXTINF:-1 tvg-id="4248458" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" tvg-language="english" group-title="Fancode",ENG | 240p
+https://in-mc-flive.fancode.com/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/240p.m3u8?hdntl=Expires=1788090255~_GO=Generated~acl=/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/*~Signature=ARB3KG3BdGUe0VCgQXeUVjiOJ1Skn5RM90GV_uvHjOwu3eRu3wJKTC_1tj6BjkL0-xY2qAo9eGcMEylJVF1mBzYOCugC|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248458" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" tvg-language="english" group-title="Fancode",ENG | 360p
+https://in-mc-flive.fancode.com/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/360p.m3u8?hdntl=Expires=1788090255~_GO=Generated~acl=/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/*~Signature=ARB3KG3BdGUe0VCgQXeUVjiOJ1Skn5RM90GV_uvHjOwu3eRu3wJKTC_1tj6BjkL0-xY2qAo9eGcMEylJVF1mBzYOCugC|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248458" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" tvg-language="english" group-title="Fancode",ENG | 480p
+https://in-mc-flive.fancode.com/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/480p.m3u8?hdntl=Expires=1788090255~_GO=Generated~acl=/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/*~Signature=ARB3KG3BdGUe0VCgQXeUVjiOJ1Skn5RM90GV_uvHjOwu3eRu3wJKTC_1tj6BjkL0-xY2qAo9eGcMEylJVF1mBzYOCugC|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248458" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" tvg-language="english" group-title="Fancode",ENG | 540p
+https://in-mc-flive.fancode.com/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/540p.m3u8?hdntl=Expires=1788090255~_GO=Generated~acl=/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/*~Signature=ARB3KG3BdGUe0VCgQXeUVjiOJ1Skn5RM90GV_uvHjOwu3eRu3wJKTC_1tj6BjkL0-xY2qAo9eGcMEylJVF1mBzYOCugC|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248458" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" tvg-language="english" group-title="Fancode",ENG | 720p
+https://in-mc-flive.fancode.com/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/720p.m3u8?hdntl=Expires=1788090255~_GO=Generated~acl=/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/*~Signature=ARB3KG3BdGUe0VCgQXeUVjiOJ1Skn5RM90GV_uvHjOwu3eRu3wJKTC_1tj6BjkL0-xY2qAo9eGcMEylJVF1mBzYOCugC|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248458" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" tvg-language="english" group-title="Fancode",ENG | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788090255~_GO=Generated~acl=/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/*~Signature=ARB3KG3BdGUe0VCgQXeUVjiOJ1Skn5RM90GV_uvHjOwu3eRu3wJKTC_1tj6BjkL0-xY2qAo9eGcMEylJVF1mBzYOCugC|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248325" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png" tvg-language="english" group-title="Fancode",ENG | 240p
+https://in-mc-flive.fancode.com/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/240p.m3u8?hdntl=Expires=1788094273~_GO=Generated~acl=/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/*~Signature=ARB3KG17CPekneYpUgEsMMkcmLV_GTK4pg21WlvxgRbYg2VTwpUgTQUYoCosA9qqxBfdQumtitEHpXBnH2Re7LwRdmwB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248325" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png" tvg-language="english" group-title="Fancode",ENG | 360p
+https://in-mc-flive.fancode.com/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/360p.m3u8?hdntl=Expires=1788094273~_GO=Generated~acl=/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/*~Signature=ARB3KG17CPekneYpUgEsMMkcmLV_GTK4pg21WlvxgRbYg2VTwpUgTQUYoCosA9qqxBfdQumtitEHpXBnH2Re7LwRdmwB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248325" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png" tvg-language="english" group-title="Fancode",ENG | 480p
+https://in-mc-flive.fancode.com/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/480p.m3u8?hdntl=Expires=1788094273~_GO=Generated~acl=/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/*~Signature=ARB3KG17CPekneYpUgEsMMkcmLV_GTK4pg21WlvxgRbYg2VTwpUgTQUYoCosA9qqxBfdQumtitEHpXBnH2Re7LwRdmwB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248325" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png" tvg-language="english" group-title="Fancode",ENG | 540p
+https://in-mc-flive.fancode.com/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/540p.m3u8?hdntl=Expires=1788094273~_GO=Generated~acl=/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/*~Signature=ARB3KG17CPekneYpUgEsMMkcmLV_GTK4pg21WlvxgRbYg2VTwpUgTQUYoCosA9qqxBfdQumtitEHpXBnH2Re7LwRdmwB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248325" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png" tvg-language="english" group-title="Fancode",ENG | 720p
+https://in-mc-flive.fancode.com/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/720p.m3u8?hdntl=Expires=1788094273~_GO=Generated~acl=/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/*~Signature=ARB3KG17CPekneYpUgEsMMkcmLV_GTK4pg21WlvxgRbYg2VTwpUgTQUYoCosA9qqxBfdQumtitEHpXBnH2Re7LwRdmwB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248325" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png" tvg-language="english" group-title="Fancode",ENG | 1080p
+https://in-mc-flive.fancode.com/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788094273~_GO=Generated~acl=/mumbai/4248325_english_hls_5446db88ea56115_1ta-di_h264/*~Signature=ARB3KG17CPekneYpUgEsMMkcmLV_GTK4pg21WlvxgRbYg2VTwpUgTQUYoCosA9qqxBfdQumtitEHpXBnH2Re7LwRdmwB|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247560" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247560_53003_EDR-W_SDS-W_FC-Web_1787555684569.png" tvg-language="english" group-title="Fancode",ENG | 240p
+https://in-mc-flive.fancode.com/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/240p.m3u8?hdntl=Expires=1788096367~_GO=Generated~acl=/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/*~Signature=ARB3KG2Bp5HP9AQDsZF-u5PpTLofkiZlIKJMrytGkPJRp3NFCXmhJNQEfXH4O9_mAfgcEAQswrxcoFRr-26r-Zz2yvME|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247560" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247560_53003_EDR-W_SDS-W_FC-Web_1787555684569.png" tvg-language="english" group-title="Fancode",ENG | 360p
+https://in-mc-flive.fancode.com/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/360p.m3u8?hdntl=Expires=1788096367~_GO=Generated~acl=/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/*~Signature=ARB3KG2Bp5HP9AQDsZF-u5PpTLofkiZlIKJMrytGkPJRp3NFCXmhJNQEfXH4O9_mAfgcEAQswrxcoFRr-26r-Zz2yvME|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247560" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247560_53003_EDR-W_SDS-W_FC-Web_1787555684569.png" tvg-language="english" group-title="Fancode",ENG | 480p
+https://in-mc-flive.fancode.com/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/480p.m3u8?hdntl=Expires=1788096367~_GO=Generated~acl=/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/*~Signature=ARB3KG2Bp5HP9AQDsZF-u5PpTLofkiZlIKJMrytGkPJRp3NFCXmhJNQEfXH4O9_mAfgcEAQswrxcoFRr-26r-Zz2yvME|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247560" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247560_53003_EDR-W_SDS-W_FC-Web_1787555684569.png" tvg-language="english" group-title="Fancode",ENG | 540p
+https://in-mc-flive.fancode.com/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/540p.m3u8?hdntl=Expires=1788096367~_GO=Generated~acl=/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/*~Signature=ARB3KG2Bp5HP9AQDsZF-u5PpTLofkiZlIKJMrytGkPJRp3NFCXmhJNQEfXH4O9_mAfgcEAQswrxcoFRr-26r-Zz2yvME|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247560" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247560_53003_EDR-W_SDS-W_FC-Web_1787555684569.png" tvg-language="english" group-title="Fancode",ENG | 720p
+https://in-mc-flive.fancode.com/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/720p.m3u8?hdntl=Expires=1788096367~_GO=Generated~acl=/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/*~Signature=ARB3KG2Bp5HP9AQDsZF-u5PpTLofkiZlIKJMrytGkPJRp3NFCXmhJNQEfXH4O9_mAfgcEAQswrxcoFRr-26r-Zz2yvME|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247560" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247560_53003_EDR-W_SDS-W_FC-Web_1787555684569.png" tvg-language="english" group-title="Fancode",ENG | 1080p
+https://in-mc-flive.fancode.com/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788096367~_GO=Generated~acl=/mumbai/4247560_english_hls_568287b19e37597_1ta-di_h264/*~Signature=ARB3KG2Bp5HP9AQDsZF-u5PpTLofkiZlIKJMrytGkPJRp3NFCXmhJNQEfXH4O9_mAfgcEAQswrxcoFRr-26r-Zz2yvME|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="315d27c5-3554-4864-9456-622781ecdbad" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hzs7rkkhniuitf50el6i" tvg-lang="English" group-title="ICC TV",English | South Africa v Zimbabwe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788031812~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=90d70e7f9a47984aa6d3ca5cf054f521b174fc27a435e0ae5f6ce6c1a8834830/manifest.mpd?vcfilter=315d27c5-3554-4864-9456-622781ecdbad&
+
+#EXTINF:-1 tvg-id="93ab619b-a480-410a-850e-44968b52715c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gkpibjwme2jeerv2239r" tvg-lang="English" group-title="ICC TV",English | Sweden v Germany
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1788036315~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0b8247fbcf7b8e0d9045e412f91e316e93150de7ac0fdd6a15f96bc051100a49/manifest.mpd?vcfilter=93ab619b-a480-410a-850e-44968b52715c&
+
+#EXTINF:-1 tvg-id="B0GFY2D9KZ" tvg-name="Pakistan tour of England 2026 - 2nd Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf8174b-2255-4e55-bddd-56fdef00143f/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Pakistan tour of England 2026 - 2nd Test - England vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99e1d49c1d6fb66884e9d3a9a273cc1b:b5f5f8ce01b3a92a07272f90b3dcfd76
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nhdmhpvi3b/out/v1/bc705429eaf94036ab154f1981760316/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0GV5QWNQW" tvg-name="K-1 Challenge: The Road to Tokyo Part II" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85b26bfe-4b08-49c2-9833-45297dfd040c/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video",K-1 Challenge: The Road to Tokyo Part II
+#EXTINF:-1 tvg-id="B0HGLT77DT" tvg-name="European T20 Premier League 2026 - 6th Match - Rotterdam Dockers vs Belfast Wolves" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4e58f603-314a-408e-a459-2477a181162c/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",European T20 Premier League 2026 - 6th Match - Rotterdam Dockers vs Belfast Wolves
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f20e918e5df972da367108f52fa3a15c:26732c94fca0c367578472f85f15b90e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7odzuvfvwr/out/v1/b509bd4afbff417a9c75fda1f5d2e9af/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HFR9FRR6" tvg-name="Grand Prix of Aragon, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f3151ae-7742-425f-9d80-5e8af08c7be8/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Grand Prix of Aragon, Qualifying
+#EXTINF:-1 tvg-id="B0HGMNMTS7" tvg-name="Watford vs. West Ham United" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d633b7e7-161b-4259-a1ab-46bf1dbe9d6e/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video",Watford vs. West Ham United
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HGP92FHM" tvg-name="Aragon, Race 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.396a3eca-78e3-420a-8d03-23c030c8507f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Aragon, Race 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABBIA5HAAAAAAAAMMFAWSBQKGCJGI.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqpkN5Bhpqknz5A2pjbG91ZGZyb250Angpc3NpZDo5NjFkYmU5YS03NTFhLTQzMmEtODU5ZS0yNzY2MDk0ZTIwODcZATihBaECeDMvZzZxdnZ6YmthbC9vdXQvdjEvMzBmM2FkOWJhMmMzNDA3MzllYTI5NDNmMjlkNDRiMzJYIAMvvbx6kD57m6951T7HxPLofIvp5QfhNo2yOXPTiZS2/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/g6qvvzbkal/out/v1/30f3ad9ba2c340739ea2943f29d44b32/977cc6d3-c163-49db-8ab4-6e98a4de979f-cenc.mpd?aws.sessionId=bde3c6d2-b5e4-4ab8-9d0b-f57bbda5d0ea
+https://a23live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqpqz3BhpqkuZ3A2Zha2FtYWkCeClzc2lkOmYwOWRmYTEzLTdlMTAtNDUzOS1hNjY4LWIzY2YxMTI0MGM3YRkBOKEFoQJ4My9yenVwbXVmanNjL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggsDbSSOYY6m-w44YoW-_DwVZX76i-NFMSvhiyQhYfXbI/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/rzupmufjsc/out/v1/8197c8e055c94a868623653ac55c10bf/f723c076-2d8d-4645-b8d3-08185e607a31-cenc.mpd?aws.sessionId=3f38c2ae-9dba-4493-abc5-8959b9963d7f
 
-#EXTINF:-1 tvg-id="B0HDZSRJHC" tvg-name="World Championships: Amsterdam, Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e8b06d3-8f97-4351-be02-dc2497fccce1/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",World Championships: Amsterdam, Finals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HF8FB2VB" tvg-name="Manawatu v North Harbour" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d98261e-0e47-4386-8b90-e2890d8530cf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Manawatu v North Harbour
+#EXTINF:-1 tvg-id="B0HFPPDZ7V" tvg-name="Pumas v Toyota Cheetahs" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17c25033-718f-4039-8b31-ab35598e2981/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Pumas v Toyota Cheetahs
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HCLQTC4Y" tvg-name="Top End Series: Nepal vs Victoria" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.161824c7-b427-4457-a25c-47427b6ddf70/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Top End Series: Nepal vs Victoria
+#EXTINF:-1 tvg-id="B0HFQNLS9T" tvg-name="MLP Finals, New York City: Semifinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a0f013f-de73-4890-8d9a-48434187d74d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",MLP Finals, New York City: Semifinal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Broadmeadow%20Magic%20vs%20Weston%20Bears.jpg" group-title="AxSports", Broadmeadow Magic vs Weston Bears - Northern NSW NPL [Server 1]
+#EXTINF:-1 tvg-id="B0HDZSRJHC" tvg-name="World Championships: Amsterdam, Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e8b06d3-8f97-4351-be02-dc2497fccce1/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",World Championships: Amsterdam, Finals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FSV%20Mainz%2005%20vs%20SC%20Paderborn%2007.jpg" group-title="AxSports", FSV Mainz 05 vs SC Paderborn 07 - Bundesliga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90666ce4f896100fc7f44e-backup/chunks.m3u8?is_vip=false&token=1788078748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c94e19abda770f309c70c46f695fcc90
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a761-hd/chunks.m3u8?is_vip=false&token=1788098547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0df749eabbfd4dc38fd637490a56ed7d
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Broadmeadow%20Magic%20vs%20Weston%20Bears.jpg" group-title="AxSports", Broadmeadow Magic vs Weston Bears - Northern NSW NPL [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FSV%20Mainz%2005%20vs%20SC%20Paderborn%2007.jpg" group-title="AxSports", FSV Mainz 05 vs SC Paderborn 07 - Bundesliga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90666ce4f896100fc7f44e/chunks.m3u8?is_vip=false&token=1788078749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cc857bfad1b8eb2dc5d38afe679fff41
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a761-backup/chunks.m3u8?is_vip=false&token=1788098549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55bb3832c7ef8f889d31988c9fc2fb3e
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Moreton%20City%20Excelsior%20vs%20Gold%20Coast%20Knights.jpg" group-title="AxSports", Moreton City Excelsior vs Gold Coast Knights - Queensland NPL [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FSV%20Mainz%2005%20vs%20SC%20Paderborn%2007.jpg" group-title="AxSports", FSV Mainz 05 vs SC Paderborn 07 - Bundesliga [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89f8c9b6fa125e7d70d276-backup/chunks.m3u8?is_vip=false&token=1788078750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c3c063788e675c21b2949ab1e13b97a0
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a761/chunks.m3u8?is_vip=false&token=1788098550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f0725230db74bc2a5cc1388d0c2bf58
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Moreton%20City%20Excelsior%20vs%20Gold%20Coast%20Knights.jpg" group-title="AxSports", Moreton City Excelsior vs Gold Coast Knights - Queensland NPL [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20K%C3%B6ln%20vs%201899%20Hoffenheim.jpg" group-title="AxSports", 1. FC Köln vs 1899 Hoffenheim - Bundesliga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89f8c9b6fa125e7d70d276/chunks.m3u8?is_vip=false&token=1788078750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b3e9d7b694dcf62d3531369bc7129ff3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a762-hd/chunks.m3u8?is_vip=false&token=1788098552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-22ff30b578b34dda052a8a3b17936e33
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Prelims.jpg" group-title="AxSports", Prelims - UFC FIGHT NIGHT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20K%C3%B6ln%20vs%201899%20Hoffenheim.jpg" group-title="AxSports", 1. FC Köln vs 1899 Hoffenheim - Bundesliga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1788078752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7c1f120bb9021388e3ea8fb18c6e9b8a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a762-backup/chunks.m3u8?is_vip=false&token=1788098553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-143dd806028c05fd695aac5ab357a491
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manawat%C5%AB%20vs%20North%20Harbour.jpg" group-title="AxSports", Manawatū vs North Harbour - NPC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20K%C3%B6ln%20vs%201899%20Hoffenheim.jpg" group-title="AxSports", 1. FC Köln vs 1899 Hoffenheim - Bundesliga [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788078753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5c57148c9c0db02a2fc447e381c4c550
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a762/chunks.m3u8?is_vip=false&token=1788098555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8191732e7677ed4ce86f0072fe630e71
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Knights%20vs%20North%20Queensland%20Cowboys.jpg" group-title="AxSports", Newcastle Knights vs North Queensland Cowboys - NRL Women's Premiership
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Berlin%20vs%20Eintracht%20Frankfurt.jpg" group-title="AxSports", Union Berlin vs Eintracht Frankfurt - Bundesliga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788078755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bbb2b9e4fb4640e77aea6ce44bfb0916
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a75f-hd/chunks.m3u8?is_vip=false&token=1788098556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-88b06c91bd2d1388bbec1822bce28cd8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Berlin%20vs%20Eintracht%20Frankfurt.jpg" group-title="AxSports", Union Berlin vs Eintracht Frankfurt - Bundesliga [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a75f-backup/chunks.m3u8?is_vip=false&token=1788098557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-859a8da15c521e3cce14050377ce362c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Berlin%20vs%20Eintracht%20Frankfurt.jpg" group-title="AxSports", Union Berlin vs Eintracht Frankfurt - Bundesliga [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a75f/chunks.m3u8?is_vip=false&token=1788098559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a5d3e9cec89762d1eb22fea510f4a585
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20vs%20Borussia%20M%C3%B6nchengladbach.jpg" group-title="AxSports", RB Leipzig vs Borussia Mönchengladbach - Bundesliga [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a760-hd/chunks.m3u8?is_vip=false&token=1788098560-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c5f79c5254f9f26663228b194d21bf3b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20vs%20Borussia%20M%C3%B6nchengladbach.jpg" group-title="AxSports", RB Leipzig vs Borussia Mönchengladbach - Bundesliga [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a760-backup/chunks.m3u8?is_vip=false&token=1788098561-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d66b1365e4824735174a33f36354c716
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20vs%20Borussia%20M%C3%B6nchengladbach.jpg" group-title="AxSports", RB Leipzig vs Borussia Mönchengladbach - Bundesliga [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a760/chunks.m3u8?is_vip=false&token=1788098563-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ec2ddbbf27e85e6970d2b146435d8c52
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SV%20Elversberg%20vs%20Bayer%20Leverkusen.jpg" group-title="AxSports", SV Elversberg vs Bayer Leverkusen - Bundesliga [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a763-hd/chunks.m3u8?is_vip=false&token=1788098564-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d568c6f5e71b4eef350bb8efa58bc91e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SV%20Elversberg%20vs%20Bayer%20Leverkusen.jpg" group-title="AxSports", SV Elversberg vs Bayer Leverkusen - Bundesliga [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a763-backup/chunks.m3u8?is_vip=false&token=1788098565-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd37013db8f6bb1560a60392c1949c71
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SV%20Elversberg%20vs%20Bayer%20Leverkusen.jpg" group-title="AxSports", SV Elversberg vs Bayer Leverkusen - Bundesliga [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a763/chunks.m3u8?is_vip=false&token=1788098567-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-13da5ecc68bc680fbd99880d1c07acd5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20vs%20Everton.jpg" group-title="AxSports", Bournemouth vs Everton - Premier League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a76f-hd/chunks.m3u8?is_vip=false&token=1788098568-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f68229e23d3a5cb4ebfa60b6b1c56b6f
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20vs%20Everton.jpg" group-title="AxSports", Bournemouth vs Everton - Premier League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a76f-backup/chunks.m3u8?is_vip=false&token=1788098570-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ee23bb5e54ba5bafe42cf5fd7f9ce004
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20vs%20Everton.jpg" group-title="AxSports", Bournemouth vs Everton - Premier League [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a76f/chunks.m3u8?is_vip=false&token=1788098571-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-349e9b7b9e6d1f5749012ceab9241992
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Coventry%20vs%20Hull%20City.jpg" group-title="AxSports", Coventry vs Hull City - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788098572-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9e01273969f73150c42bd42a731a8189
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="AxSports", England vs Pakistan - 2nd Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1788098574-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0e90582ef8523545953f3b75b736d9e4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/European%20Tour%2011%20-%20Hungarian%20Darts%20Trophy.jpg" group-title="AxSports", European Tour 11 - Hungarian Darts Trophy - European Tour
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788098576-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd0ffb968e9d8c67d1eff8dd0f949480
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Minsk%20vs%20Baranovichi.jpg" group-title="AxSports", Dinamo Minsk vs Baranovichi - Premier League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c33679a78b6ca36a12-backup/chunks.m3u8?is_vip=false&token=1788098586-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8ad51e88fddcb90adcd347aad5f085b1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Minsk%20vs%20Baranovichi.jpg" group-title="AxSports", Dinamo Minsk vs Baranovichi - Premier League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c33679a78b6ca36a12/chunks.m3u8?is_vip=false&token=1788098587-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d440c835daeb8039d2a6f820f5f2122
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Academica%20vs%20Lusit%C3%A2nia%20Lourosa.jpg" group-title="AxSports", Academica vs Lusitânia Lourosa - Segunda Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891f4f-backup/chunks.m3u8?is_vip=false&token=1788098589-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fff5a4de43abd0810670bda64d592b65
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SS11%20Hohenau%201.jpg" group-title="AxSports", SS11 Hohenau 1 - WRC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1788098593-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-61787f9c5d292d5144fd2dd3feb1916b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Khorfakkan%20vs%20Al-Dhafra.jpg" group-title="AxSports", Khorfakkan vs Al-Dhafra - Pro League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a748c79eaed40cd9982d930-backup/chunks.m3u8?is_vip=false&token=1788098613-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-445444540a436e5aa1d3f432508632fe
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Africa%20vs%20New%20Zealand.jpg" group-title="AxSports", South Africa vs New Zealand - NZL Tour of RSA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1788098620-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d61b9fed648eb924ab231a07004b11a4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bristol%20City%20vs%20Portsmouth.jpg" group-title="AxSports", Bristol City vs Portsmouth - Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a779-hd/chunks.m3u8?is_vip=false&token=1788098622-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-08ef5d0ee965cd16c521237c03993b46
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Watford%20vs%20West%20Ham.jpg" group-title="AxSports", Watford vs West Ham - Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a774-hd/chunks.m3u8?is_vip=false&token=1788098645-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2e243ed8ecb648fd8f67a675068a6b17
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/APFC%20IFL%204.jpg" group-title="AxSports", APFC: IFL 4 - MMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=1788098724-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8019fb5566ffcf45c1a24b491a6e7cee
 
