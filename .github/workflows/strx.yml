@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-            curl -A "OTT Navigator" -L "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/" -o strx.json
+            curl -A "OTT Navigator" -L "https://lemajekaat.streamxlive.workers.dev/" -o strx.json
             
       - name: Commit and push if changed
         run: |
