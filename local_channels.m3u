@@ -342,14 +342,8 @@ https://app.ashokadigital.net/app/74f6070c/index.m3u8
 #EXTINF:-1 tvg-name="Hansitha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767717103_H1.png" group-title="Local TV",Hansitha Tv
 https://air.rojatv.cloud/hanshitha/tv/index.m3u8
 
-#EXTINF:-1 tvg-name="JRP TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739251156_JRP .png" group-title="Local TV",JRP TV HD
-https://app.ashokadigital.net/app/16b78045/index.m3u8
-
 #EXTINF:-1 tvg-name="Ruby Digital Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781012797_RubyDigitalTv.png" group-title="Local TV",Ruby Digital Tv
 https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8
-
-#EXTINF:-1 tvg-name="KM Music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777715423_1771730164_km music.png" group-title="Local TV",KM Music
-https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
 
 #EXTINF:-1 tvg-name="M TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777712105_MTV 1.png" group-title="Local TV",M TV
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
@@ -382,7 +376,7 @@ http://122.165.249.163:8080/hls/supertv/index.m3u8
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
 
 #EXTINF:-1 tvg-name="jaya subu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786290541_WhatsApp Image 2026-08-09 at 8.35.04 PM.jpeg" group-title="Local TV",jaya subu tv
-https://view.apserver.in/tmp_hls6/jeyasubbutv/index.m3u8
+https://view.rcserver.in/tmp_hls6/jeyasubbutv/index.m3u8
 
 #EXTINF:-1 tvg-name="Aalaya Magimai Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731768528_AALYA MAGAMAI TV LOGO BAKTHI TV.png" group-title="Local TV",Aalaya Magimai Tv
 https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
@@ -487,7 +481,7 @@ https://app.ashokadigital.net/app/63351686/index.m3u8
 rtmp://103.226.186.82:1935/Saraltv/Saraltv
 
 #EXTINF:-1 tvg-name="MARUTHI TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768917435_MARUTHI TV.png" group-title="Local TV",MARUTHI TV HD
-https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
+https://live4.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
 
 #EXTINF:-1 tvg-name="boobsh tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743337212_1000035047-removebg-preview.png" group-title="Local TV",boobsh tv
 https://live.applelive.in/boobsh/boobsh/index.m3u8
@@ -650,6 +644,9 @@ rtmp://103.155.33.67:1935/live/ammantvplus
 
 #EXTINF:-1 tvg-name="ABI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772634994_ABI TV.png" group-title="Local TV",ABI TV
 rtmp://103.136.136.77:1935/abihd/abihd?psk=123456
+
+#EXTINF:-1 tvg-name="KM MUSIC tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366767_1777715423_1771730164_km music.png" group-title="Local TV",KM MUSIC tv
+https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
 
 #EXTINF:-1 tvg-name="Gubbi TV Kannada" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209169_315 copy.png" group-title="Local TV",Gubbi TV Kannada
 https://vvsolutions-server12.in/gubbinewskannada_11/video.m3u8
