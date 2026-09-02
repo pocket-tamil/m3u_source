@@ -630,6 +630,9 @@ https://play.applelive.in/cgntv/cgntv.m3u8
 #EXTINF:-1 tvg-name="joshua tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788015723_IMG_20260829_202503_341.png" group-title="Local TV",joshua tv
 https://joshuatv-hs1.tamilstream.in/joshuatv/joshuatv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="leo tv hd" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788335982_27f17779-7c3a-4305-b69f-0d2a89986df3-Photoroom.png" group-title="Local TV",leo tv hd
+https://leotv.stream.ipcloud.live/leotv/leotvhd/index.m3u8
+
 #EXTINF:-1 tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp Image 2026-08-06 at 12.21.27 PM.jpeg" group-title="Local TV",abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
 
@@ -716,6 +719,9 @@ http://guru.sritv.co.in:1935/akash/live/sri_network_cdn.m3u8
 
 #EXTINF:-1 tvg-name="Blessing Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750414088_IMG_20250620_153652.jpg" group-title="Local TV",Blessing Tv
 https://mumbai-edge.smartplaytv.in/BlessingTv/index.m3u8
+
+#EXTINF:-1 tvg-name="gs channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570583_1747319853_0 . ASHOKA DIGITAL LOGO (1).png" group-title="Local TV",gs channel
+https://shivaganeshtelicom.in/gschannel/video.m3u8
 
 #EXTINF:-1 tvg-name="Gee TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570629_1747319853_0 . ASHOKA DIGITAL LOGO (1).png" group-title="Local TV",Gee TV
 https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
