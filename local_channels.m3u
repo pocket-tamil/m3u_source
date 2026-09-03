@@ -720,11 +720,11 @@ http://guru.sritv.co.in:1935/akash/live/sri_network_cdn.m3u8
 #EXTINF:-1 tvg-name="Blessing Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750414088_IMG_20250620_153652.jpg" group-title="Local TV",Blessing Tv
 https://mumbai-edge.smartplaytv.in/BlessingTv/index.m3u8
 
-#EXTINF:-1 tvg-name="gs channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570583_1747319853_0 . ASHOKA DIGITAL LOGO (1).png" group-title="Local TV",gs channel
-https://shivaganeshtelicom.in/gschannel/video.m3u8
+#EXTINF:-1 tvg-name="అశోక తెలుగు" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788414638_7bc9b907-5cfd-472f-ab68-20e4677c6004-Photoroom (1).png" group-title="Local TV",అశోక తెలుగు
+https://app.ashokadigital.net/app/ce705f4a/index.m3u8
 
-#EXTINF:-1 tvg-name="Gee TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570629_1747319853_0 . ASHOKA DIGITAL LOGO (1).png" group-title="Local TV",Gee TV
-https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
+#EXTINF:-1 tvg-name="gs channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788412018_gs.png" group-title="Local TV",gs channel
+https://shivaganeshtelicom.in/gschannel/video.m3u8
 
 #EXTINF:-1 tvg-name="sree news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788358582_7c034eab-6437-417a-914e-1112679b7794-Photoroom.png" group-title="Local TV",sree news
 https://vvsolutions.in/sreenews/sreenews.m3u8
@@ -758,6 +758,9 @@ https://rtmp.streamwell.in/hls/7gtv.m3u8
 
 #EXTINF:-1 tvg-name="rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785667797_WhatsApp Image 2026-08-02 at 12.09.05 PM.jpeg" group-title="Local TV",rv digital tv
 https://rtmp.streamwell.in/hls/rvdigitaltv.m3u8
+
+#EXTINF:-1 tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Local TV",Reshya Tv
+http://reshyatv.in:8052/telugu/reshyatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national tv logo png.png" group-title="Local TV",Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
