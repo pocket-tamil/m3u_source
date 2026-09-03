@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-          curl -L "https://mute-sunset-8225.streamstar18.workers.dev/" -o teachub.m3u
+          curl -L "https://jiotvgo.sparkbl.dpdns.org/channels?type=m3u" -o teachub.m3u
 
       - name: Commit and push if changed
         run: |
