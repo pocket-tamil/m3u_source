@@ -7,7 +7,7 @@ PLAYLISTS = {
     "SonyLiv": "https://github.com/kajju027/SonyLiv-Events-Json/raw/refs/heads/main/sonyliv.m3u",
     "Fancode": "https://github.com/kajju027/Fancode-Events-Json/raw/refs/heads/main/fc.m3u",
     "Tapmad": "https://github.com/srhady/tapmad-bd/raw/refs/heads/main/tapmad_bd.m3u",
-    "Hotstar": "",
+    "Hotstar": "https://event-playlist.rtxcric.workers.dev/playlist.m3u",
     "ICC TV": "https://github.com/doctor-8trange/nexphi0/raw/refs/heads/main/data/icc.m3u",
     "Willow": "https://github.com/srhady/willow-event/raw/refs/heads/main/live_sports.m3u",
     "Prime Video": "https://github.com/srhady/willow-event/raw/refs/heads/main/primevideo_sports.m3u",
