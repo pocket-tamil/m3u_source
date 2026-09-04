@@ -771,6 +771,9 @@ https://rtmp.streamwell.in/hls/7gtv.m3u8
 #EXTINF:-1 tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Local TV",Reshya Tv
 http://reshyatv.in:8052/telugu/reshyatv/index.m3u8
 
+#EXTINF:-1 tvg-name="RT TV FACK SONG" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Local TV",RT TV FACK SONG
+https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
+
 #EXTINF:-1 tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national tv logo png.png" group-title="Local TV",Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 
