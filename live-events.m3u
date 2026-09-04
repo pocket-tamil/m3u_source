@@ -1,13 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1090541355_HIN" tvg-name="Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="SonyLiv",Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788553866~acl=/*~id=39957720450052909113717750632598~hmac=a40cc2a3a319a29ca8b48a4d6055da073b2889d5d8afe38a5c8876690643bea6
+https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788559336~acl=/*~id=70212572481783759990191291946696~hmac=3e0ed7aeb351a586bd47ddd481876dceb4140f1eb228cccab403d974741043d3
 
 #EXTINF:-1 tvg-id="1090541355_PAN" tvg-name="Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="SonyLiv",Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788553866~acl=/*~id=39957720450052909113717750632598~hmac=a40cc2a3a319a29ca8b48a4d6055da073b2889d5d8afe38a5c8876690643bea6
-
-#EXTINF:-1 tvg-id="1090541354_ENG" tvg-name="Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498900551134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb_rev.jpg" group-title="SonyLiv",Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788553866~acl=/*~id=39957720450052909113717750632598~hmac=a40cc2a3a319a29ca8b48a4d6055da073b2889d5d8afe38a5c8876690643bea6
+https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788559336~acl=/*~id=70212572481783759990191291946696~hmac=3e0ed7aeb351a586bd47ddd481876dceb4140f1eb228cccab403d974741043d3
 
 #EXTINF:-1 tvg-id="4248350" tvg-name="Lucknow Falcons Vs Meerut Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248350_53029_MER_LCK_FC-Web.png" group-title="Fancode",Lucknow Falcons Vs Meerut Mavericks
 https://in-mc-flive.fancode.com/mumbai/4248350_hindi_hls_a546ddcc9a88485_1ta-di_h264/720p.m3u8?hdntl=Expires=1788511866~_GO=Generated~acl=/mumbai/4248350_hindi_hls_a546ddcc9a88485_1ta-di_h264/*~Signature=AfPHOv3odUmeBIVsEZ48w8CBil3BYOctUOTZ_i0j3crw7CjBLd8YbbivuJF9nCSjZcnCtV0bo92LwMgLE4i48hmqvG4B
@@ -24,39 +21,45 @@ https://in-mc-flive.fancode.com/mumbai/4248670_english_hls_3f3edbce1c38940_1ta-d
 #EXTINF:-1 tvg-id="4248459" tvg-name="Namibia Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248459_53037_NAM_ZIM_FC-WEB.jpg" group-title="Fancode",Namibia Vs Zimbabwe
 https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/720p.m3u8?hdntl=Expires=1788521828~_GO=Generated~acl=/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/*~Signature=AfPHOv0EyVn7Ge66ZVLP7e-8RlajfmxRa3yb7Shr8zKCxmd-ab2MKse2CizhfwrmV7cwc9rzhIrKHpupIZCA-AwkmXwN
 
-#EXTINF:-1 tvg-id="4249123" tvg-name="Bathinda Royals Vs Amritsar Soormas" tvg-logo="https://images.fancode.com/aig/match/v1788273996416/4249123_CASACARDS_SPORTY_APP.png" group-title="Fancode",Bathinda Royals Vs Amritsar Soormas
-https://in-mc-flive.fancode.com/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/720p.m3u8?hdntl=Expires=1788592218~_GO=Generated~acl=/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/*~Signature=AfPHOv3dbn89fCrrEe0EbHYM0lJgGQbX16i4tBCEPZTS3XO0trHjAfF2kOC2vBolZGAXIBW2FcKPIYJphYWVM1yv1V0G
-
-#EXTINF:-1 tvg-id="4248619" tvg-name="Saudi Arabia Vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248619_53050_SDA_BRN_FC-Web.png" group-title="Fancode",Saudi Arabia Vs Bahrain
-https://in-mc-flive.fancode.com/mumbai/4248619_english_hls_3f694ff1d318667_1ta-di_h264/720p.m3u8?hdntl=Expires=1788570979~_GO=Generated~acl=/mumbai/4248619_english_hls_3f694ff1d318667_1ta-di_h264/*~Signature=AfPHOv1nth9Dr3iK15xIwPmTgTmTv2zalRlVSXrtTYwYBTjDsM4aiSgMtqlqRH10_tljktW1ILsFi0uDtvI_4eSG6poA
-
-#EXTINF:-1 tvg-id="139646" tvg-name="Practice Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg" group-title="Fancode",Practice Session
-https://in-mc-flive.fancode.com/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/720p.m3u8?hdntl=Expires=1788594650~_GO=Generated~acl=/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/*~Signature=AfPHOv1EiTIBGn10xeeAZnmCP0hORdmn2ADKTYnSEk316vpEyvRFlXd2rjwF87v9WUTgPBd0WSGM1awxHzmVFCaVAGYB
-
-#EXTINF:-1 tvg-id="tapmad-16915" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884400071020x576.jpg" group-title="Tapmad", 3K OCR - Beijing, China Live | UIPM 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-
-#EXTINF:-1 tvg-id="B0HGC6NN9T" tvg-name="UIPM Obstacle World Championships: China, Day 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.328c659a-7e5b-4d6e-81db-3e1c7fab4266/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",UIPM Obstacle World Championships: China, Day 2
+#EXTINF:-1 tvg-id="B0HGWXT4BG" tvg-name="UEFA Women's Champions League - League Phase Draw" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5c7f66d4-fe47-48be-b3a9-bc18016bc064/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",UEFA Women's Champions League - League Phase Draw
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HG5PQ3RL" tvg-name="Hawke's Bay v Otago" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.133a22af-8119-4206-976f-20c8f78f1868/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Hawke's Bay v Otago
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
-
-#EXTINF:-1 tvg-id="53800" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hawke's%20Bay%20vs%20Otago.jpg" group-title="AxSports", Hawke's Bay vs Otago - NPC
+#EXTINF:-1 tvg-id="52793" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arema%20FC%20vs%20Adhyaksa.jpg" group-title="AxSports", Arema FC vs Adhyaksa - Liga 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1788597148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4edf2277363923c4e87c6236c500cf88
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7efc50bcbb3676e9c0b29f-backup/chunks.m3u8?is_vip=false&token=1788603448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-42b710b095081533ba9ca132fc6dba6e
 
-#EXTINF:-1 tvg-id="61014" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%2C%20Italy.jpg" group-title="AxSports", Monza, Italy - FIA Formula 2 Championship Practice
+#EXTINF:-1 tvg-id="52793" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arema%20FC%20vs%20Adhyaksa.jpg" group-title="AxSports", Arema FC vs Adhyaksa - Liga 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788597150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f8e65b902fd216b9b46f89ecdf967b17
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7efc50bcbb3676e9c0b29f/chunks.m3u8?is_vip=false&token=1788603449-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2a313bb485c2b19d6654daae30b975a9
+
+#EXTINF:-1 tvg-id="52794" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lecce%20U20%20vs%20Roma%20U20.jpg" group-title="AxSports", Lecce U20 vs Roma U20 - Campionato Primavera - 1 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34777-backup/chunks.m3u8?is_vip=false&token=1788603451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00aedcbf7448f2fa315c2ed8fb6e6768
+
+#EXTINF:-1 tvg-id="52794" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lecce%20U20%20vs%20Roma%20U20.jpg" group-title="AxSports", Lecce U20 vs Roma U20 - Campionato Primavera - 1 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34777/chunks.m3u8?is_vip=false&token=1788603452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd24e0c64f54f8e1d6d36500a7c1b7ee
+
+#EXTINF:-1 tvg-id="53787" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20vs%20Mali.jpg" group-title="AxSports", Japan vs Mali - FIBA Women's Basketball World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68008/720p/chunks.m3u8?is_vip=false&token=1788603453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ff03156a9fab188c392af8676b38c91
+
+#EXTINF:-1 tvg-id="53788" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20vs%20Puertro%20Rico.jpg" group-title="AxSports", Australia vs Puertro Rico - FIBA Women's Basketball World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/61333/720p/chunks.m3u8?is_vip=false&token=1788603455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3192d48de054aa36981dda7b61da2d31
+
+#EXTINF:-1 tvg-id="61015" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Italian%20Grand%20Prix%202026%20-%20Practice%201.jpg" group-title="AxSports", Italian Grand Prix 2026 - Practice 1 - Formula 1 Practice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788603457-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6efcc8d9e32c067174477857b482c357
 
