@@ -504,6 +504,9 @@ https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
 #EXTINF:-1 tvg-name="Rj Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" group-title="Local TV",Rj Tamil Tv
 https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 
+#EXTINF:-1 tvg-name="apple tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788595193_Apple TV copy.png" group-title="Local TV",apple tv
+https://live.applelive.in/appletv/appletv/index.m3u8
+
 #EXTINF:-1 tvg-name="smart sri" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773823026_Smart Sri Tv logo.png" group-title="Local TV",smart sri
 http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
 
@@ -524,6 +527,9 @@ https://rtmp.bmlive.net/bms/kctv/index.m3u8
 
 #EXTINF:-1 tvg-name="KC MUSIC" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784854592_WhatsApp Image 2026-07-23 at 1.38.19 PM.jpeg" group-title="Local TV",KC MUSIC
 https://rtmp.bmlive.net/bms/kcmusic/index.m3u8
+
+#EXTINF:-1 tvg-name="boss tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788595566_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",boss tv
+https://web.applelive.in/bosstv/bosstv/index.m3u8
 
 #EXTINF:-1 tvg-name="sha tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1745500074_WhatsApp Image 2025-04-24 at 6.20.29 PM.jpeg" group-title="Local TV",sha tv
 https://play.applelive.in/shatv/shatv.m3u8
