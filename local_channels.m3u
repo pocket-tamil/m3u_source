@@ -750,11 +750,14 @@ rtmp://kallaiads.stream.onecloudlive.in:1935/kallaiads/kallaitv
 #EXTINF:-1 tvg-name="A1 Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758524651_LOGO PSD.png" group-title="Local TV",A1 Tv
 https://app.ashokadigital.net/app/7fff5003/index.m3u8
 
+#EXTINF:-1 tvg-name="Calvari Prardhana" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788691744_c1ef8ebc-30a4-47e3-b040-125e7d1403b4-Photoroom.png" group-title="Local TV",Calvari Prardhana
+https://mumbai-edge.smartplaytv.in/CalvariPrardhana/index.m3u8
+
 #EXTINF:-1 tvg-name="7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786288098_8f1663ed-b220-4f5e-8878-b67ca1312b94-Photoroom.png" group-title="Local TV",7gtv
 https://rtmp.streamwell.in/hls/7gtv.m3u8
 
 #EXTINF:-1 tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Local TV",Reshya Tv
-http://reshyatv.in:8052/telugu/reshyatv/index.m3u8
+https://reshyatv.in:8052/telugu/reshyatv/index.m3u8
 
 #EXTINF:-1 tvg-name="RT TV FACK SONG" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Local TV",RT TV FACK SONG
 https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
