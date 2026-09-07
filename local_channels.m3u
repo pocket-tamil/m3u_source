@@ -642,9 +642,6 @@ rtmp://103.155.33.67:1935/live/ammantvplus
 #EXTINF:-1 tvg-name="ABI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772634994_ABI TV.png" group-title="Local TV",ABI TV
 rtmp://103.136.136.77:1935/abihd/abihd?psk=123456
 
-#EXTINF:-1 tvg-name="VIMAL tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787365816_1782983392_ashoka-digital-560x315.gif" group-title="Local TV",VIMAL tv
-https://stream.onecloudlive.in/karthick/vimaltv/index.m3u8
-
 #EXTINF:-1 tvg-name="Gubbi TV Kannada" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209169_315 copy.png" group-title="Local TV",Gubbi TV Kannada
 https://vvsolutions-server12.in/gubbinewskannada_11/video.m3u8
 
@@ -662,6 +659,9 @@ https://livetv.ashokadigital.net/upload/vod/1782902632_AVR_Swarna_Mahal_Jeweller
 
 #EXTINF:-1 tvg-name="ಅಶೋಕ INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782906505_ka 2.png" group-title="Local TV",ಅಶೋಕ INFO TV
 https://livetv.ashokadigital.net/upload/vod/1755166998_Benaka_Gold_New_Ad_1mint_1_.mp4
+
+#EXTINF:-1 tvg-name="Salam Bengalore" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787846608_salam banglore.png" group-title="Local TV",Salam Bengalore
+https://live.streambox24.in:5443/SalamBengalore/streams/SalamBengalore.m3u8
 
 #EXTINF:-1 tvg-name="Km News Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316 copy.png" group-title="Local TV",Km News Bengaluru
 https://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
