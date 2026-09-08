@@ -708,6 +708,9 @@ http://guru.sritv.co.in:1935/akash/live/sri_network_cdn.m3u8
 #EXTINF:-1 tvg-name="అశోక తెలుగు" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788414638_7bc9b907-5cfd-472f-ab68-20e4677c6004-Photoroom (1).png" group-title="Local TV",అశోక తెలుగు
 https://app.ashokadigital.net/app/ce705f4a/index.m3u8
 
+#EXTINF:-1 tvg-name="dhanya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788848546_3_2_01_copy__01-removebg-preview (1).png" group-title="Local TV",dhanya tv
+https://stream.ashokadigital.net/demotv/demo/index.m3u8
+
 #EXTINF:-1 tvg-name="rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788536805_RV GIGITAL.png" group-title="Local TV",rv digital tv
 https://rtmp.streamwell.in/hls/rvdigitaltv.m3u8
 
@@ -758,6 +761,9 @@ https://mumbai-edge.smartplaytv.in/CalvariPrardhana/index.m3u8
 
 #EXTINF:-1 tvg-name="7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786288098_8f1663ed-b220-4f5e-8878-b67ca1312b94-Photoroom.png" group-title="Local TV",7gtv
 https://rtmp.streamwell.in/hls/7gtv.m3u8
+
+#EXTINF:-1 tvg-name="pps tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788337678_03581834-faa6-46e3-83e9-4f7228a3cbc0-Photoroom.png" group-title="Local TV",pps tv
+https://app.ashokadigital.net/app/2c33bc6b/index.m3u8
 
 #EXTINF:-1 tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Local TV",Reshya Tv
 https://reshyatv.in:8052/telugu/reshyatv/index.m3u8
