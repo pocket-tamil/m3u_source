@@ -1,13 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1090541702_HIN" tvg-name="Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="SonyLiv",Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788899677~acl=/*~id=75277869631856620155434187781346~hmac=5929a308a9417e2e8d4289867ad15f27c3573792a02253dc357b084e47702670
+
+#EXTINF:-1 tvg-id="1090541702_PAN" tvg-name="Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="SonyLiv",Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788899677~acl=/*~id=75277869631856620155434187781346~hmac=5929a308a9417e2e8d4289867ad15f27c3573792a02253dc357b084e47702670
+
+#EXTINF:-1 tvg-id="4249120" tvg-name="Amritsar Soormas vs Mohali Kings [Hindi]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode",Amritsar Soormas vs Mohali Kings [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249120_hindi_hls_4038d704a88057_1ta-di_h264/720p.m3u8?hdntl=Expires=1788937273~_GO=Generated~acl=/mumbai/4249120_hindi_hls_4038d704a88057_1ta-di_h264/*~Signature=AWDec-H3flrvt4djCtzzE2ETbiuxwEjxI51PGDlsSzhPmqiIqbwZhRbEnqzffOqZqti6TnYoYB3KZydn-22678nMcq0K
+
 #EXTINF:-1 tvg-id="4248627" tvg-name="Nepal vs Hong Kong, China [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248627_53050_NEP_HK_FC-Web_1788765687310.png" group-title="Fancode",Nepal vs Hong Kong, China [English]
 https://in-mc-flive.fancode.com/mumbai/4248627_english_hls_b956cf9a2c2456_1ta-di_h264/720p.m3u8?hdntl=Expires=1788916622~_GO=Generated~acl=/mumbai/4248627_english_hls_b956cf9a2c2456_1ta-di_h264/*~Signature=AWDec-HynkVwv6EMMgQO9kyuz6O6CJ0LszbfQP9v7pHL8Qq_RDPtVUOpOKPeurqNGt-GnIUmQb-1mzQ6RwkmZ_SjhUgH
 
 #EXTINF:-1 tvg-id="4248628" tvg-name="United Arab Emirates vs Oman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248628_53050_UAE_OMA_FC-Web_1788765687290.png" group-title="Fancode",United Arab Emirates vs Oman [English]
 https://in-mc-flive.fancode.com/mumbai/4248628_english_hls_a8a59adb7a21615_1ta-di_h264/720p.m3u8?hdntl=Expires=1788916623~_GO=Generated~acl=/mumbai/4248628_english_hls_a8a59adb7a21615_1ta-di_h264/*~Signature=AWDec-GufsG3xtyVX1fGiFMzKYvB-Lrby2D0Aeu_pD38hlhF2PF2XrvN5yiu1Q884noNb0zVO8px6uyRMBmvNnugKxsB
 
-#EXTINF:-1 tvg-id="tapmad-16309" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885726911020x576.jpg" group-title="Tapmad", Men's & Women's Singles - R16 | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="4249153" tvg-name="Kenya vs Sierra Leone [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249153_53067_KEN_SRL_FC-Web.jpg" group-title="Fancode",Kenya vs Sierra Leone [English]
+https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/720p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK
 
 #EXTINF:-1 tvg-id="6ac27684-74f9-4b4f-80da-291bec7b471c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vcjle3i0ksxxnbdkeqpq" tvg-lang="English" group-title="ICC TV",English | Zimbabwe v South Africa
 #KODIPROP:inputstream=inputstream.adaptive
@@ -20,23 +29,8 @@ https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788722118~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c26d0f6179ed08ff010f108ff5d77ca038d8bc744945118547444752720d1409/manifest.mpd?vcfilter=6ac27684-74f9-4b4f-80da-291bec7b471c&
 
-#EXTINF:-1 tvg-id="65033" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="AxSports", US Open - US Open
+#EXTINF:-1 tvg-id="65086" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Test.jpg" group-title="AxSports", Test - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788924746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f17cdd7c2805a8288733c4f620094023
-
-#EXTINF:-1 tvg-id="55192" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20San%20Francisco%20Giants.jpg" group-title="AxSports", St. Louis Cardinals vs San Francisco Giants - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1788924748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ddefeb1aedb8e14da0d8e5d43b1de5c
-
-#EXTINF:-1 tvg-id="55193" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="AxSports", Cincinnati Reds vs Los Angeles Dodgers - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/262811/720p/chunks.m3u8?is_vip=false&token=1788924749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4bc840cb1216faaadf5c6bd8da766bc7
-
-#EXTINF:-1 tvg-id="55194" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Athletics.jpg" group-title="AxSports", Toronto Blue Jays vs Athletics - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/262812/720p/chunks.m3u8?is_vip=false&token=1788924750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25844213c78151b6bb761b90a064ea56
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788942744-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-783ece6c47018a5f44a034e248b5fff6
 
