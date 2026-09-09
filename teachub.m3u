@@ -4818,13 +4818,6 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/2064
 #EXTINF:-1 tvg-id="2077" tvg-name="Gangaur" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/Gangaur.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Gangaur
 https://jiotvgo.sparkbl.dpdns.org/live/2077.m3u8
 
-#EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shemaroo Umang
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/2078
-https://jiotvgo.sparkbl.dpdns.org/live/mpd/2078
-
 #EXTINF:-1 tvg-id="2079" tvg-name="Bharat 24" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/Bharat_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat 24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
