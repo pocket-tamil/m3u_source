@@ -2662,6 +2662,9 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/927
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/929
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/929
 
+#EXTINF:-1 tvg-id="930" tvg-name="Lalbaugh Cha Raja" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/LalbaghchaRaja.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Lalbaugh Cha Raja
+https://jiotvgo.sparkbl.dpdns.org/live/930.m3u8
+
 #EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/StarBharatHD1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Star Bharat HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
