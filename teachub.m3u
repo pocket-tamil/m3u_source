@@ -5203,6 +5203,9 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/2783
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/2784
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/2784
 
+#EXTINF:-1 tvg-id="2821" tvg-name="GSB Seva Mandal" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/GSB_2026.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", GSB Seva Mandal
+https://jiotvgo.sparkbl.dpdns.org/live/2821.m3u8
+
 #EXTINF:-1 tvg-id="2851" tvg-name="IN24 Live" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IN24_Live.png" tvg-language="Hindi" tvg-type="News" group-title="News", IN24 Live
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6419,13 +6422,6 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/3266
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/3267
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/3267
-
-#EXTINF:-1 tvg-id="3268" tvg-name="Nation NE" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/Nation_NE.png" tvg-language="Assamese" tvg-type="News" group-title="News", Nation NE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/3268
-https://jiotvgo.sparkbl.dpdns.org/live/mpd/3268
 
 #EXTINF:-1 tvg-id="3269" tvg-name="Vijay Takkar" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/VijayTakkar1.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Vijay Takkar
 #KODIPROP:inputstream=inputstream.adaptive
