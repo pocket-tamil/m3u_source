@@ -1,6 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-16314" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg" group-title="Tapmad", Junior & Wheelchair Semifinals | US Open 2026
+#EXTINF:-1 tvg-id="4248306" tvg-name="St Kitts and Nevis Patriots vs Barbados Tridents [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png" group-title="Fancode",St Kitts and Nevis Patriots vs Barbados Tridents [English]
+https://in-mc-flive.fancode.com/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/720p.m3u8?hdntl=Expires=1789166012~_GO=Generated~acl=/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/*~Signature=AWDec-GaFRmD6UxebyVLXXwPCWcKQDf0HT5IwdfTJRLayrcb31NqTuaaW6k1hs5aLJD4wYGaYn__YJgsbPCIj2fU8fUP
+
+#EXTINF:-1 tvg-id="tapmad-15807" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890184071020x576.jpg" group-title="Tapmad", Barbados Tridents vs St Kitts and Nevis Patriots | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-16315" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890189821020x576.jpg" group-title="Tapmad", Women's Singles Semifinals | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 
 #EXTINF:-1 tvg-id="6ac27684-74f9-4b4f-80da-291bec7b471c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vcjle3i0ksxxnbdkeqpq" tvg-lang="English" group-title="ICC TV",English | Zimbabwe v South Africa
@@ -14,27 +20,54 @@ https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788722118~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c26d0f6179ed08ff010f108ff5d77ca038d8bc744945118547444752720d1409/manifest.mpd?vcfilter=6ac27684-74f9-4b4f-80da-291bec7b471c&
 
-#EXTINF:-1 tvg-id="B0H4V9TNFN" tvg-name="Gannon Golden Knights at Wheeling Cardinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2a91c78e-62a2-4510-a76b-4bb38722338c/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Gannon Golden Knights at Wheeling Cardinals
+#EXTINF:-1 tvg-id="B0H8HYXJXF" tvg-name="Caribbean Premier League 2026 - 32nd Match - Barbados Tridents vs St Kitts And Nevis Patriots" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63c9db14-9959-450f-9556-3952cc3f31db/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Caribbean Premier League 2026 - 32nd Match - Barbados Tridents vs St Kitts And Nevis Patriots
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=73e40979ba98b18b12d8bac30546c5fe:44c873caae5db91e7386a2354d3f48a2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yirrbtugh7/out/v1/bac31ce1ded14e13911be026a37d6613/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFJYPGVD" tvg-name="HLR Tuscarora 50 at Port Royal Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3b28e96-b20f-4321-a633-bbd0f6321240/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",HLR Tuscarora 50 at Port Royal Speedway
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HFWH52T8" tvg-name="Road to the Dance" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57569de5-52fa-4788-939b-acfd15abdf93/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Road to the Dance
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd
 
 #EXTINF:-1 tvg-id="65176" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="AxSports", US Open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789165042-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-66c7437d245c4572a907505e76c44c7c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789172245-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-26cc9277d83c3415eb9518ed974331fb
 
-#EXTINF:-1 tvg-id="55775" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20Seattle%20Mariners.jpg" group-title="AxSports", Texas Rangers vs Seattle Mariners - MLB
+#EXTINF:-1 tvg-id="57629" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Salcedo%20vs%20Cibao.jpg" group-title="AxSports", Salcedo vs Cibao - CONCACAF Caribbean Club Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1789165044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d86005b08e2fcdcc03ae729bbe5c8655
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a8e-backup/chunks.m3u8?is_vip=false&token=1789172253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2bc69fe2f58d625439787f4af85ff188
+
+#EXTINF:-1 tvg-id="55729" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tridents%20vs%20Nevis%20Patriots.jpg" group-title="AxSports", Tridents vs Nevis Patriots - CPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789172254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c207876254c26e2c01c328cc2682d55b
+
+#EXTINF:-1 tvg-id="55776" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20New%20York%20Yankees.jpg" group-title="AxSports", Colorado Rockies vs New York Yankees - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1789172256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45b447fb90952065be5123c58d04f950
+
+#EXTINF:-1 tvg-id="55777" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Pirates%20vs%20Chicago%20White%20Sox.jpg" group-title="AxSports", Pittsburgh Pirates vs Chicago White Sox - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1789168657-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2595ed7a9a8c7d40d2b6ca9312a682fe
+
+#EXTINF:-1 tvg-id="55757" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%2049ers%20vs%20Los%20Angeles%20Rams.jpg" group-title="AxSports", San Francisco 49ers vs Los Angeles Rams - NFL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52456/720p/chunks.m3u8?is_vip=false&token=1789172260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8927844e70081b474113536777af3400
 
