@@ -173,7 +173,7 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/232
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/235
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/235
 
-#EXTINF:-1 tvg-id="242" tvg-name="Discovery English" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/Discovery_Channel_Eng.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery English
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery English" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/DiscoveryEng1.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery English
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -465,7 +465,7 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/457
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/459
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/459
 
-#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD English" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/DiscoveryHDEng_1.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery HD English
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD English" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/DiscoveryHDEng12.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery HD English
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -741,7 +741,7 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/524
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/525
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/525
 
-#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery Hindi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDHindi.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery Hindi
+#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery Hindi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDHindi1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -860,14 +860,14 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/546
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/548
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/548
 
-#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/DiscoveryKidsTam.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Discovery Kids Tamil
+#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/DiscoveryKidsTam1.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Discovery Kids Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/550
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/550
 
-#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/DiscoveryKidsHin.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Discovery Kids Hindi
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/DiscoveryKidsHin1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Discovery Kids Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2662,7 +2662,7 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/927
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/929
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/929
 
-#EXTINF:-1 tvg-id="930" tvg-name="Lalbaugh Cha Raja" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/LalbaghchaRaja.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Lalbaugh Cha Raja
+#EXTINF:-1 tvg-id="930" tvg-name="Lalbaugh Cha Raja" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/LalbaghchaRaja1.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Lalbaugh Cha Raja
 https://jiotvgo.sparkbl.dpdns.org/live/930.m3u8
 
 #EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/StarBharatHD1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Star Bharat HD
@@ -3400,7 +3400,7 @@ https://jiotvgo.sparkbl.dpdns.org/live/1220.m3u8
 #EXTINF:-1 tvg-id="1221" tvg-name="Rajyoga TV Kannada" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/Rajyoga_Malayalam.png" tvg-language="Kannada" tvg-type="Devotional" group-title="Devotional", Rajyoga TV Kannada
 https://jiotvgo.sparkbl.dpdns.org/live/1221.m3u8
 
-#EXTINF:-1 tvg-id="1223" tvg-name="Dagdusheth Ganpati - Pune" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/Dagdusheth_Pune.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Dagdusheth Ganpati - Pune
+#EXTINF:-1 tvg-id="1223" tvg-name="Dagdusheth Ganpati - Pune" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/DagdushethGanpati12.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Dagdusheth Ganpati - Pune
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5206,7 +5206,10 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/2783
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/2784
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/2784
 
-#EXTINF:-1 tvg-id="2821" tvg-name="GSB Seva Mandal" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/GSB_2026.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", GSB Seva Mandal
+#EXTINF:-1 tvg-id="2820" tvg-name="Mumbai Cha Raja" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/MumbaiChaRaja1.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", Mumbai Cha Raja
+https://jiotvgo.sparkbl.dpdns.org/live/2820.m3u8
+
+#EXTINF:-1 tvg-id="2821" tvg-name="GSB Seva Mandal" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/GSBSeva1.png" tvg-language="Marathi" tvg-type="Devotional" group-title="Devotional", GSB Seva Mandal
 https://jiotvgo.sparkbl.dpdns.org/live/2821.m3u8
 
 #EXTINF:-1 tvg-id="2851" tvg-name="IN24 Live" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IN24_Live.png" tvg-language="Hindi" tvg-type="News" group-title="News", IN24 Live
@@ -6830,21 +6833,21 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/3432
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/3433
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/3433
 
-#EXTINF:-1 tvg-id="3434" tvg-name="Investigation Discovery HD Hindi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDHDHindi.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery HD Hindi
+#EXTINF:-1 tvg-id="3434" tvg-name="Investigation Discovery HD Hindi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDHDHindi1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery HD Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/3434
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/3434
 
-#EXTINF:-1 tvg-id="3435" tvg-name="Investigation Discovery HD English" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDHDEnglish_1.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery HD English
+#EXTINF:-1 tvg-id="3435" tvg-name="Investigation Discovery HD English" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDHDEnglish12.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery HD English
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/3435
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/3435
 
-#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/CNHDHindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Hindi
+#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/CNHDHindi1.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network HD+ Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -6912,7 +6915,7 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/3450
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/3451
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/3451
 
-#EXTINF:-1 tvg-id="3452" tvg-name="Investigation Discovery English" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDEnglish.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery English
+#EXTINF:-1 tvg-id="3452" tvg-name="Investigation Discovery English" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDEnglish1.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery English
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -6926,7 +6929,7 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/3452
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/3453
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/3453
 
-#EXTINF:-1 tvg-id="3454" tvg-name="Cartoon Network Marathi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/CNMarathi.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network Marathi
+#EXTINF:-1 tvg-id="3454" tvg-name="Cartoon Network Marathi" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/CNMarathi1.png" tvg-language="Marathi" tvg-type="Kids" group-title="Kids", Cartoon Network Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
