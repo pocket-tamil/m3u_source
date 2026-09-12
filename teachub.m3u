@@ -6684,6 +6684,9 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/3369
 #EXTINF:-1 tvg-id="3370" tvg-name="Gospel TV" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/gospeltv.png" tvg-language="Telugu" tvg-type="Devotional" group-title="Devotional", Gospel TV
 https://jiotvgo.sparkbl.dpdns.org/live/3370.m3u8
 
+#EXTINF:-1 tvg-id="3378" tvg-name="G18 News" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/G18_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", G18 News
+https://jiotvgo.sparkbl.dpdns.org/live/3378.m3u8
+
 #EXTINF:-1 tvg-id="3379" tvg-name="Headlines Kolkata" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/Headlines_Kolkata.png" tvg-language="Bengali" tvg-type="News" group-title="News", Headlines Kolkata
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
