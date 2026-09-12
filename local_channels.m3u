@@ -438,9 +438,6 @@ http://play.applelive.in/smaxtv/smaxtv.m3u8
 #EXTINF:-1 tvg-name="Kavin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN TV.png" group-title="Local TV",Kavin tv
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-name="anandham tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM TV LOGO.png" group-title="Local TV",anandham tv
-https://anandhamtv.stream.ipcloud.live/anandhamtv/anandhamtv/index.m3u8
-
 #EXTINF:-1 tvg-name="BSC OLD tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1771731192_bsc tv.png" group-title="Local TV",BSC OLD tv
 https://app.ashokadigital.net/app/dd82e91b/index.m3u8
 
