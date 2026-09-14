@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="4248679" tvg-name="Yalla Shabab Giants vs Royal Oman Stallions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248673_53052_ROS_YSG_fc-Web.jpg" group-title="Fancode",Yalla Shabab Giants vs Royal Oman Stallions [English]
+https://in-mc-flive.fancode.com/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/720p.m3u8?hdntl=Expires=1789467173~_GO=Generated~acl=/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/*~Signature=AVl424OJQaDojjzMTwYb5R5FeHhrf90xZORzNAiMNkGNBvNu8zvaXzE_ReSNsNFfZOwE9f2giZK63R6TS5Fsy0PPlH0K
+
+#EXTINF:-1 tvg-id="4249241" tvg-name="Desert Vipers Development vs MI Emirates Development [English]" tvg-logo="https://images.fancode.com/aig/match/v1789388726902/4249241_CASACARDS_APP.png" group-title="Fancode",Desert Vipers Development vs MI Emirates Development [English]
+https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249241_english_622056/ad-h264/index__720p.m3u8?hdntl=Expires=1789476862~_GO=Generated~acl=/out/v1/ap-south-1/4249241_english_622056/ad-h264/*~Signature=AVl424MM13x4cZ6zDh6EwHw7HC0HGH9Kg3vAIRQPU8WhNxq3HPs5LGfVK2J0qXyQp2X9pj3P8HNzt_xRnq5cNsSt2aAL
+
 #EXTINF:-1 tvg-id="6ac27684-74f9-4b4f-80da-291bec7b471c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vcjle3i0ksxxnbdkeqpq" tvg-lang="English" group-title="ICC TV",English | Zimbabwe v South Africa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -16,10 +22,24 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HFLSXNF3" tvg-name="United States vs. Brazil" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.91bcbf47-ddc9-4578-962c-4483712fc248/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",United States vs. Brazil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HFSYGH8P" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.46845e84-cb8e-4e5b-ac2d-6d008f1d92aa/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="64116" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Championship.jpg" group-title="AxSports", Asian Championship - Asian Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789452158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5702a333bad7f1d88562fdaf877d17cc
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789476447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0fd8d4b0f975c37bec6a26690c6189a5
 
