@@ -4593,6 +4593,13 @@ https://jiotvgo.sparkbl.dpdns.org/live/mpd/1895
 #KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/1896
 https://jiotvgo.sparkbl.dpdns.org/live/mpd/1896
 
+#EXTINF:-1 tvg-id="1897" tvg-name="Pulse 24 News" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/pulse24news.png" tvg-language="Hindi" tvg-type="News" group-title="News", Pulse 24 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://jiotvgo.sparkbl.dpdns.org/live/key/1897
+https://jiotvgo.sparkbl.dpdns.org/live/mpd/1897
+
 #EXTINF:-1 tvg-id="1900" tvg-name="Express News Bharat" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/ENB.png" tvg-language="Hindi" tvg-type="News" group-title="News", Express News Bharat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7385,4 +7392,10 @@ https://jiotvgo.sparkbl.dpdns.org/live/3602.m3u8
 
 #EXTINF:-1 tvg-id="3603" tvg-name="Namma TV" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/namma_jio.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="Entertainment", Namma TV
 https://jiotvgo.sparkbl.dpdns.org/live/3603.m3u8
+
+#EXTINF:-1 tvg-id="3604" tvg-name="ID Times" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDTIMES.png" tvg-language="Hindi" tvg-type="News" group-title="News", ID Times
+https://jiotvgo.sparkbl.dpdns.org/live/3604.m3u8
+
+#EXTINF:-1 tvg-id="3605" tvg-name="ID TV" tvg-logo="https://jiotvgo.sparkbl.dpdns.org/jtvimage/IDTV.png" tvg-language="Hindi" tvg-type="News" group-title="News", ID TV
+https://jiotvgo.sparkbl.dpdns.org/live/3605.m3u8
 
