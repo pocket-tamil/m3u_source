@@ -1,7 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4249167" tvg-name="Botswana vs Uganda [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249167_53067_BOT_UGA_FC-Web.png" group-title="Fancode",Botswana vs Uganda [English]
-https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/720p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH
+#EXTINF:-1 tvg-id="4249168" tvg-name="Sierra Leone vs Rwanda [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249168_53067_SRL_RWA_FC-Web.png" group-title="Fancode",Sierra Leone vs Rwanda [English]
+https://in-mc-flive.fancode.com/mumbai/4249168_english_hls_9ab02b931e3106_1ta-di_h264/720p.m3u8?hdntl=Expires=1789644140~_GO=Generated~acl=/mumbai/4249168_english_hls_9ab02b931e3106_1ta-di_h264/*~Signature=AVl424OHBnZO8nvHI17APBjYTjHV0Wu2TvdQlig6qrq0J9lWi02TWdAE1OWzq01k6oABQJ2LSkVph8w0JPu4lLcnGMAH
+
+#EXTINF:-1 tvg-id="4248695" tvg-name="Port FC vs Vissel Kobe [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248695_53053_PFC_VIS_fc-web.jpg" group-title="Fancode",Port FC vs Vissel Kobe [English]
+https://in-mc-flive.fancode.com/mumbai/4248695_english_hls_a87abea81e84273_1ta-di_h264/720p.m3u8?hdntl=Expires=1789646568~_GO=Generated~acl=/mumbai/4248695_english_hls_a87abea81e84273_1ta-di_h264/*~Signature=AVl424NcVtbo2Vt2UwmRPBJqSzqGU-1CtCIIdJwdToWLMgJNvRqaCP1zoqhSCRvMISP7-pYbYSNMAFd1kkP_-94p8s8F
+
+#EXTINF:-1 tvg-id="4248962" tvg-name="The Cong - Viettel FC vs Melbourne Victory [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248962_53057_CV_MLV_fc-web_1789025065319.jpg" group-title="Fancode",The Cong - Viettel FC vs Melbourne Victory [English]
+https://in-mc-flive.fancode.com/mumbai/4248962_english_hls_e2ce8076ed74989_1ta-di_h264/720p.m3u8?hdntl=Expires=1789646570~_GO=Generated~acl=/mumbai/4248962_english_hls_e2ce8076ed74989_1ta-di_h264/*~Signature=AVl424O1S0F_bOa_j6eaxnhkXxZIf34CiGyYuXujD0o5Cw8v1UIeR0SQeSZqWi6nOMqQu-IC4JkxjoWpZRjQkMZ3ysMI
+
+#EXTINF:-1 tvg-id="tapmad-17372" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895389651020x576.jpg" group-title="Tapmad", Port FC vs Vissel Kobe Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17407" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895418831020x576.jpg" group-title="Tapmad", The Cong - Viettel FC vs Melbourne Victory FC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 
 #EXTINF:-1 tvg-id="6ac27684-74f9-4b4f-80da-291bec7b471c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vcjle3i0ksxxnbdkeqpq" tvg-lang="English" group-title="ICC TV",English | Zimbabwe v South Africa
 #KODIPROP:inputstream=inputstream.adaptive
@@ -14,34 +26,47 @@ https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-d
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788722118~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c26d0f6179ed08ff010f108ff5d77ca038d8bc744945118547444752720d1409/manifest.mpd?vcfilter=6ac27684-74f9-4b4f-80da-291bec7b471c&
 
-#EXTINF:-1 tvg-id="B0HCMJBQ22" tvg-name="U23 World Cup: Day 2, Session 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.be917938-2420-4350-ab1e-fad66db3b255/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",U23 World Cup: Day 2, Session 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HHS1JMWR" tvg-name="Triton ONE Poker Series Jeju II-$100K NLH Main Event" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a020e819-074f-4e73-8308-79e1e40c59ec/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Triton ONE Poker Series Jeju II-$100K NLH Main Event
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HJ99PTGW" tvg-name="U23 World Cup: Day 2, Session 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.68131d64-bea2-4ebc-8f2d-de836dead56d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",U23 World Cup: Day 2, Session 3
+#EXTINF:-1 tvg-id="B0HGDJHPVH" tvg-name="U23 World Cup: Day 2, Session 5" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.81900be0-dd7d-4e09-916e-cab00767c20e/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",U23 World Cup: Day 2, Session 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #EXTINF:-1 tvg-id="69066" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202.jpg" group-title="AxSports", Day 2 - FIBA 3x3 U23 World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789629449-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-abea9a6b49205128401b3ba773ff3ea5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789648348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-357e0ca6cee414c55b597b97469d674e
 
-#EXTINF:-1 tvg-id="67351" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Thailand%20U23%20vs%20Kyrgyz%20Republic%20U23.jpg" group-title="AxSports", Thailand U23 vs Kyrgyz Republic U23 - Asian Games
+#EXTINF:-1 tvg-id="64118" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20Giro%20d'Abruzzo%2C%20Stage%202.jpg" group-title="AxSports", ES1, Giro d'Abruzzo, Stage 2 - UCI Pro Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e5f/chunks.m3u8?is_vip=false&token=1789629452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-869305e8618423727cfed54277e021be
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1789648350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b57b1862fbdc914fe2f1346a0fa47484
+
+#EXTINF:-1 tvg-id="61631" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Port%20FC%20vs%20Vissel%20Kobe.jpg" group-title="AxSports", Port FC vs Vissel Kobe - AFC Champions League Elite [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e7a-fancode/chunks.m3u8?is_vip=false&token=1789648352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a7f241449fc1b5c074246c49455aad1
+
+#EXTINF:-1 tvg-id="61631" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Port%20FC%20vs%20Vissel%20Kobe.jpg" group-title="AxSports", Port FC vs Vissel Kobe - AFC Champions League Elite [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e7a/chunks.m3u8?is_vip=false&token=1789648354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2628c25c56322622833d657fe96766b2
+
+#EXTINF:-1 tvg-id="61632" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Viettel%20vs%20Melbourne%20Victory.jpg" group-title="AxSports", Viettel vs Melbourne Victory - AFC Champions League Two [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e7b-fancode/chunks.m3u8?is_vip=false&token=1789648355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3f6024b21692890a7260704420fcea28
+
+#EXTINF:-1 tvg-id="61632" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Viettel%20vs%20Melbourne%20Victory.jpg" group-title="AxSports", Viettel vs Melbourne Victory - AFC Champions League Two [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e7b/chunks.m3u8?is_vip=false&token=1789648357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d4e1911038b58c4b657ce306d1f8523
 
