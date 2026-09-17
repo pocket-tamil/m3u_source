@@ -367,10 +367,10 @@ https://ipcloud.live/thirumalaitv/madurai/index.m3u8
 https://view.rcserver.in/tmp_hls6/jeyasubbutv/index.m3u8
 
 #EXTINF:-1 tvg-name="Aalaya Magimai Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731768528_AALYA MAGAMAI TV LOGO BAKTHI TV.png" group-title="Local TV",Aalaya Magimai Tv
-https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
+https://aalayamagimai.in/tv/live/video.m3u8
 
 #EXTINF:-1 tvg-name="BRITAIN TAMIL BHAKTHI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain Tamil-Logo Bhakthi.png" group-title="Local TV",BRITAIN TAMIL BHAKTHI
-rtmp://btc.inet.moe:1935/live/btctv
+https://btc.inet.moe/live/btctv/video.m3u8
 
 #EXTINF:-1 tvg-name="Deivega Oil" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1760613566_Deiveeka oli.png" group-title="Local TV",Deivega Oil
 https://app.ashokadigital.net/app/34e04c34/index.m3u8
@@ -383,6 +383,9 @@ https://stream.d6-pro.com/Dbhakhi/live/video.m3u8
 
 #EXTINF:-1 tvg-name="Yatra Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762598647_IMG-20251108-WA0090.jpg" group-title="Local TV",Yatra Tv
 https://stream.onecloudlive.in/yatra/yatratv/index.m3u8
+
+#EXTINF:-1 tvg-name="V BHAKTHI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789645396_file_00709.png" group-title="Local TV",V BHAKTHI
+http://vbhakthi.stream.nellaiiptv.com:80/live/vbhakthi/index.m3u8
 
 #EXTINF:-1 tvg-name="globel TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787288061_WhatsApp Image 2026-08-21 at 10.15.54 AM.jpeg" group-title="Local TV",globel TV
 https://play.applelive.in/globaltv/globaltv.m3u8
@@ -431,6 +434,12 @@ https://rtmp.bmlive.net/bms/eagletv/index.m3u8
 
 #EXTINF:-1 tvg-name="orange Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772504613_81. ORANGE TV.png" group-title="Local TV",orange Tv
 https://notvstream.in/orangetv/orangetv/index.m3u8
+
+#EXTINF:-1 tvg-name="V TAMIL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789645835_file_00709 (1).png" group-title="Local TV",V TAMIL
+http://vtamizhtv.stream.nellaiiptv.com:80/vtv/vtv/index.m3u8
+
+#EXTINF:-1 tvg-name="V  MUSIC" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789646188_Comp 1_00709.png" group-title="Local TV",V  MUSIC
+http://vmusictv.stream.nellaiiptv.com:80/live/vmusictv/index.m3u8
 
 #EXTINF:-1 tvg-name="smaxtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788333057_ashoka-digital-400x225.gif" group-title="Local TV",smaxtv
 http://play.applelive.in/smaxtv/smaxtv.m3u8
@@ -533,6 +542,9 @@ https://play.applelive.in/haitv/haitv.m3u8
 
 #EXTINF:-1 tvg-name="Sri Naga Sai Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751355066_250 sri naga sai trust tv.png" group-title="Local TV",Sri Naga Sai Tv
 http://singamcloud.in/saibaba/livekovai/index.m3u8
+
+#EXTINF:-1 tvg-name="aalaya magimai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770880756_AALYA MAGAMAI TV LOGO BAKTHI TV.png" group-title="Local TV",aalaya magimai
+https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
 
 #EXTINF:-1 tvg-name="madhurai arasi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781584569_Madurai Arasi (2).png" group-title="Local TV",madhurai arasi
 https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
