@@ -795,6 +795,9 @@ http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="PUBLIC TV న్యూస్" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785930_pulic tv.png" group-title="Local TV",PUBLIC TV న్యూస్
 https://publictvtelugu.co.in/publictv_1/video.m3u8
 
+#EXTINF:-1 tvg-name="PUBLIC TV Folk music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786293_public fock.png" group-title="Local TV",PUBLIC TV Folk music
+https://publictvtelugu.co.in/publictvfolkmusic_2/video.m3u8
+
 #EXTINF:-1 tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national tv logo png.png" group-title="Local TV",Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 
