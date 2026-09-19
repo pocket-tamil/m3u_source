@@ -624,7 +624,7 @@ https://joshuatv-hs1.tamilstream.in/joshuatv/joshuatv/playlist.m3u8
 #EXTINF:-1 tvg-name="leo tv hd" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788335982_27f17779-7c3a-4305-b69f-0d2a89986df3-Photoroom.png" group-title="Local TV",leo tv hd
 https://leotv.stream.ipcloud.live/leotv/leotvhd/index.m3u8
 
-#EXTINF:-1 tvg-name="harin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789183443_green-gradient-abstract-background-empty-room-with-space-your-text-picture_1258-52336.png" group-title="Local TV",harin tv
+#EXTINF:-1 tvg-name="harin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786062_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",harin tv
 https://app.ashokadigital.net/app/ce3ffe97/index.m3u8
 
 #EXTINF:-1 tvg-name="KM Music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777715423_1771730164_km music.png" group-title="Local TV",KM Music
@@ -788,6 +788,12 @@ https://mumbai-edge.smartplaytv.in/BMC/index.m3u8
 
 #EXTINF:-1 tvg-name="VS NEWS" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789132662_VS NEWS.png" group-title="Local TV",VS NEWS
 https://vvsolutions-server11.in/dcn24_44/video.m3u8
+
+#EXTINF:-1 tvg-name="TV9 VOICE OF PROPLE TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785620_tv9.png" group-title="Local TV",TV9 VOICE OF PROPLE TV
+http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PUBLIC TV న్యూస్" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785930_pulic tv.png" group-title="Local TV",PUBLIC TV న్యూస్
+https://publictvtelugu.co.in/publictv_1/video.m3u8
 
 #EXTINF:-1 tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national tv logo png.png" group-title="Local TV",Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
