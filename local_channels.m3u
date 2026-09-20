@@ -798,6 +798,15 @@ https://publictvtelugu.co.in/publictv_1/video.m3u8
 #EXTINF:-1 tvg-name="PUBLIC TV Folk music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786293_public fock.png" group-title="Local TV",PUBLIC TV Folk music
 https://publictvtelugu.co.in/publictvfolkmusic_2/video.m3u8
 
+#EXTINF:-1 tvg-name="siti cable" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789898731_sirte cable png.png" group-title="Local TV",siti cable
+https://vvsolutions-server14.in/siticablefolk_32/video.m3u8
+
+#EXTINF:-1 tvg-name="Media 10" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789898868_media 10.png" group-title="Local TV",Media 10
+https://vvsolutions-server14.in/media10news_22/video.m3u8
+
+#EXTINF:-1 tvg-name="nsr news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789899252_nsr.png" group-title="Local TV",nsr news
+https://vvsolutions.in/nsrnews/nsrnews.m3u8
+
 #EXTINF:-1 tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national tv logo png.png" group-title="Local TV",Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 
