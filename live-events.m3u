@@ -1,16 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4249252" tvg-name="Sharjah Warriorz Development vs MI Emirates Development [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png" group-title="Fancode",Sharjah Warriorz Development vs MI Emirates Development [English]
-https://in-mc-flive.fancode.com/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/720p.m3u8?hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/*~Signature=AVl424NMnlXsCXKCr3-JfCkMqivkqA6kKupUkN1RGqSp0-V2g9UiQmfivhjBnPmKIQzwjF9ED13IzlbVDBiuK5ThYF0F
-
-#EXTINF:-1 tvg-id="4247633" tvg-name="Valencia CF vs Real Sociedad [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247633_53004_VAL_RS_FC-Web.png" group-title="Fancode",Valencia CF vs Real Sociedad [English]
-https://in-mc-flive.fancode.com/mumbai/4247633_english_hls_ed2b08c32094981_1ta-di_h264/720p.m3u8?hdntl=Expires=1790015559~_GO=Generated~acl=/mumbai/4247633_english_hls_ed2b08c32094981_1ta-di_h264/*~Signature=AVl424OU4t_GSn0xXciCkCqihAINv9K0r6p1L5a2R8NtN7IZ36H4xk7x_gYSEE_2xqfS__1qOlz7jwgXXOeBcpEmYeYE
-
-#EXTINF:-1 tvg-id="4249152" tvg-name="Leganes vs Granada" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249152_53017_LEG_GRD_FC-Web.png" group-title="Fancode",Leganes vs Granada
-https://in-mc-flive.fancode.com/mumbai/4249152_english_hls_de99bdc8e79556_1ta-di_h264/720p.m3u8?hdntl=Expires=1790016781~_GO=Generated~acl=/mumbai/4249152_english_hls_de99bdc8e79556_1ta-di_h264/*~Signature=AVl424OvTebWuLZIMlZF08cLYtEUKTziJg4nORjyIK6KVOItsRlwQg0iF7KO08ixSNoalc3ALMiWjvpLP7D-NslzUxIL
-
-#EXTINF:-1 tvg-id="4249103" tvg-name="Day 4 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png" group-title="Fancode",Day 4 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4249103_english_hls_e9da0e321a48396_1ta-di_h264/720p.m3u8?hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249103_english_hls_e9da0e321a48396_1ta-di_h264/*~Signature=AVl424Nf7NfW4nnwXALEc4lIxuXvJV7JQrvfts6DldXkoBF8K6fFetzCXcxoxegNIaUQUgnj1bphLptiQg78TxEz2tgK
+#EXTINF:-1 tvg-id="4248317" tvg-name="Jamaica Kingsmen vs Antigua & Barbuda Falcons [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248286_53026_JK_ABF_FC-Web_1786367986999.png" group-title="Fancode",Jamaica Kingsmen vs Antigua & Barbuda Falcons [English]
+https://in-mc-flive.fancode.com/mumbai/4248317_english_hls_869fdbab9867479_1ta-di_h264/720p.m3u8?hdntl=Expires=1790030105~_GO=Generated~acl=/mumbai/4248317_english_hls_869fdbab9867479_1ta-di_h264/*~Signature=AVl424PEDteNkdNth-cscnsHI-pBzVsRIvwFjnW6dZw5JjtwsCzEMoqgREQT1ZrKgaSP7vWLwjJQSlbhXxkQJFpoP9ML
 
 #EXTINF:-1 tvg-id="6ac27684-74f9-4b4f-80da-291bec7b471c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vcjle3i0ksxxnbdkeqpq" tvg-lang="English" group-title="ICC TV",English | Zimbabwe v South Africa
 #KODIPROP:inputstream=inputstream.adaptive
@@ -23,45 +14,24 @@ https://in-mc-flive.fancode.com/mumbai/4249103_english_hls_e9da0e321a48396_1ta-d
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788722118~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c26d0f6179ed08ff010f108ff5d77ca038d8bc744945118547444752720d1409/manifest.mpd?vcfilter=6ac27684-74f9-4b4f-80da-291bec7b471c&
 
-#EXTINF:-1 tvg-id="B0HHLTGC6C" tvg-name="LIVE: BMW PGA Championship Day 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.33f6ce11-edec-43da-b235-0ed9281113e0/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",LIVE: BMW PGA Championship Day 4
+#EXTINF:-1 tvg-id="B0HH696TQ4" tvg-name="Caribbean Premier League 2026 - Final- Antigua And Barbuda Falcons vs Jamaica Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.786bb2e1-1782-474f-a89f-e7bdda656461/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Caribbean Premier League 2026 - Final- Antigua And Barbuda Falcons vs Jamaica Kingsmen
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HC11GW46" tvg-name="USHL Hockey: Sioux Falls Stampede vs Team USA" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5c8bfaf3-7fc8-4176-b59a-1290f8c37ae7/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",USHL Hockey: Sioux Falls Stampede vs Team USA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HJY5RKPK" tvg-name="Milan vs. Lecce" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54ee32d8-7b5b-4c8c-8ec9-43668265b8c8/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video",Milan vs. Lecce
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HJ3TKLPW" tvg-name="PPA Tour Arizona Open: Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a1c6ed41-a77a-4dba-8979-fb58915f7ac1/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",PPA Tour Arizona Open: Semifinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a983a40b395d5c3fc017322b8c4b1695:559dd7742a6c8dd7be5edb904a9a550f
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zqttnrpszn/out/v1/4e3561c0771c46aaa625bff2338290da/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HJQMK4VF" tvg-name="Finals Sunday" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.4be74d7d-b4f4-4292-8e03-3206b0fda103/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Finals Sunday
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HJW3XT62" tvg-name="Virginia International Raceway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.f6b3a21a-3f5d-438f-863a-162bc4c74de1/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Virginia International Raceway
+#EXTINF:-1 tvg-id="B0HJNC8CXT" tvg-name="PPA Tour Arizona Open: Championships" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.099a0988-3222-482a-853f-23bacfab115a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",PPA Tour Arizona Open: Championships
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33fd6ed947919b41842b62865954d2bb:c3d98962e9a617f9f59d5b64fd7b2a68
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqjsa6qomt/out/v1/c10c96cb166746299665951c1bcbb8f1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
