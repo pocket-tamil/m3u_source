@@ -627,6 +627,9 @@ https://leotv.stream.ipcloud.live/leotv/leotvhd/index.m3u8
 #EXTINF:-1 tvg-name="harin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786062_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",harin tv
 https://app.ashokadigital.net/app/ce3ffe97/index.m3u8
 
+#EXTINF:-1 tvg-name="kingdom channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789927049_qUntitled-1s.png" group-title="Local TV",kingdom channel
+https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8
+
 #EXTINF:-1 tvg-name="KM Music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777715423_1771730164_km music.png" group-title="Local TV",KM Music
 https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
 
