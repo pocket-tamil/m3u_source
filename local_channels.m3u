@@ -270,6 +270,9 @@ https://nellaitv.stream.ipcloud.live/nellaitv/suriyatv/index.m3u8
 #EXTINF:-1 tvg-name="jkt tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533345_jtk.png" group-title="Local TV",jkt tv
 https://app.ashokadigital.net/app/f8af5632/index.m3u8
 
+#EXTINF:-1 tvg-name="archana tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789969278_WhatsApp Image 2026-09-21 at 10.46.33 AM.jpeg" group-title="Local TV",archana tv
+https://app.ashokadigital.net/0fa2ea5d/index.m3u8
+
 #EXTINF:-1 tvg-name="VAJRAM TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1765194225_202 vajram tv new png.png" group-title="Local TV",VAJRAM TV
 https://app.ashokadigital.net/app/68b001a0/index.m3u8
 
@@ -441,7 +444,7 @@ http://vtamizhtv.stream.nellaiiptv.com:80/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-name="V  MUSIC" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789646188_Comp 1_00709.png" group-title="Local TV",V  MUSIC
 http://vmusictv.stream.nellaiiptv.com:80/live/vmusictv/index.m3u8
 
-#EXTINF:-1 tvg-name="smaxtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788333057_ashoka-digital-400x225.gif" group-title="Local TV",smaxtv
+#EXTINF:-1 tvg-name="smaxtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789969924_PNG.png" group-title="Local TV",smaxtv
 http://play.applelive.in/smaxtv/smaxtv.m3u8
 
 #EXTINF:-1 tvg-name="Kavin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN TV.png" group-title="Local TV",Kavin tv
@@ -473,6 +476,9 @@ https://live.applelive.in/boobsh/boobsh/index.m3u8
 
 #EXTINF:-1 tvg-name="EZHIL TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740735792_SAVE_20250228_143607.jpg" group-title="Local TV",EZHIL TV
 https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
+
+#EXTINF:-1 tvg-name="udhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789969478_WhatsApp Image 2026-09-21 at 10.40.11 AM.jpeg" group-title="Local TV",udhayam tv
+https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
 
 #EXTINF:-1 tvg-name="Delta Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770896079_deltha tv.png" group-title="Local TV",Delta Tv
 http://deltatv-hls.stream.nellaiiptv.com/deltatv/deltatv/index.m3u8
