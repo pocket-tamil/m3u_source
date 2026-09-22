@@ -288,6 +288,9 @@ https://stream.d6-pro.com/Dtv/live/video.m3u8
 #EXTINF:-1 tvg-name="tunes 6 music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785217343_t6 logo (1).png" group-title="Local TV",tunes 6 music
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 
+#EXTINF:-1 tvg-name="T TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png" group-title="Local TV",T TV
+http://tamil.live4.onecloudlive.in/tamil/live/index.m3u8
+
 #EXTINF:-1 tvg-name="CTN Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762496906_ctn channel log copy.png" group-title="Local TV",CTN Channel
 http://217.216.79.247/ctn/channel/index.m3u8
 
@@ -477,8 +480,8 @@ https://live.applelive.in/boobsh/boobsh/index.m3u8
 #EXTINF:-1 tvg-name="EZHIL TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740735792_SAVE_20250228_143607.jpg" group-title="Local TV",EZHIL TV
 https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
 
-#EXTINF:-1 tvg-name="udhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789969478_WhatsApp Image 2026-09-21 at 10.40.11 AM.jpeg" group-title="Local TV",udhayam tv
-https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
+#EXTINF:-1 tvg-name="udhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790083266_Udhayam Tv.png" group-title="Local TV",udhayam tv
+https://hd.singamcloud.in/udhayam/udhayamtv/index.m3u8
 
 #EXTINF:-1 tvg-name="Delta Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770896079_deltha tv.png" group-title="Local TV",Delta Tv
 http://deltatv-hls.stream.nellaiiptv.com/deltatv/deltatv/index.m3u8
