@@ -229,7 +229,7 @@ https://ktismaservers.in:3917/live/arktvlive.m3u8
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
 
 #EXTINF:-1 tvg-name="VAAGAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai TV logo.png" group-title="Local TV",VAAGAI TV
-https://app.ashokadigital.net/app/7fe2793b/index.m3u8
+https://live-stream.in/ashokatv/ashokatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Yeshua HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739979735_WhatsApp_Image_2025-02-19_at_6.21.54_PM-removebg-preview.png" group-title="Local TV",Yeshua HD
 https://account8.livebox.co.in/Yeshuahls/live.m3u8
@@ -663,6 +663,9 @@ https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8
 #EXTINF:-1 tvg-name="D TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366106_1785171805_d tv logo (1).png" group-title="Local TV",D TV
 https://stream.d6-pro.com/Dtv/live/video.m3u8
 
+#EXTINF:-1 tvg-name="VAAGAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787365671_1783397514_Vaagai TV logo.png" group-title="Local TV",VAAGAI TV
+https://app.ashokadigital.net/app/7fe2793b/index.m3u8
+
 #EXTINF:-1 tvg-name="AMMAN Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754665306_amman tv png logo.png" group-title="Local TV",AMMAN Tv
 https://app.ashokadigital.net/app/78b1bc36/index.m3u8
 
@@ -818,6 +821,9 @@ https://vvsolutions-server14.in/media10news_22/video.m3u8
 
 #EXTINF:-1 tvg-name="nsr news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789899252_nsr.png" group-title="Local TV",nsr news
 https://vvsolutions.in/nsrnews/nsrnews.m3u8
+
+#EXTINF:-1 tvg-name="ns tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790272782_Untitled-1 copy.pngdf.png" group-title="Local TV",ns tv
+https://nstv.co.in/nstv/video.m3u8
 
 #EXTINF:-1 tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national tv logo png.png" group-title="Local TV",Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
