@@ -303,6 +303,9 @@ https://stream.onecloudlive.in/mm/maduratv/index.m3u8
 #EXTINF:-1 tvg-name="CITI CHANNEL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" group-title="Local TV",CITI CHANNEL
 https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
 
+#EXTINF:-1 tvg-name="harin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790229561_2.png" group-title="Local TV",harin tv
+https://app.ashokadigital.net/app/ce3ffe97/index.m3u8
+
 #EXTINF:-1 tvg-name="tharun movies" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599242_IMG_20250215_111845_234.png" group-title="Local TV",tharun movies
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 
@@ -624,11 +627,11 @@ https://joshuatv-hs1.tamilstream.in/joshuatv/joshuatv/playlist.m3u8
 #EXTINF:-1 tvg-name="leo tv hd" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788335982_27f17779-7c3a-4305-b69f-0d2a89986df3-Photoroom.png" group-title="Local TV",leo tv hd
 https://leotv.stream.ipcloud.live/leotv/leotvhd/index.m3u8
 
-#EXTINF:-1 tvg-name="harin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786062_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",harin tv
-https://app.ashokadigital.net/app/ce3ffe97/index.m3u8
-
 #EXTINF:-1 tvg-name="kingdom channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789927049_qUntitled-1s.png" group-title="Local TV",kingdom channel
 https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8
+
+#EXTINF:-1 tvg-name="TIFC TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790226217_WhatsApp Image 2026-09-24 at 7.26.44 AM.jpeg" group-title="Local TV",TIFC TV
+http://198.144.149.206:8080/DINESH/TIFCTV/index.m3u8?token=YAAL
 
 #EXTINF:-1 tvg-name="KM Music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777715423_1771730164_km music.png" group-title="Local TV",KM Music
 https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
