@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-          curl -L "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtvplus.m3u[skplus]?ua=sktechtv" -o teachub.m3u
+          curl -L "curl -L "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtvplus.m3u%5Bskplus%5D?ua=sktechtv" -o teachub.m3u
 
       - name: Commit and push if changed
         run: |
