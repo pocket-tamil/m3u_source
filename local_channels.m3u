@@ -220,7 +220,7 @@ https://live1.sscloud7.in/live/vintv/index.m3u8
 https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 
 #EXTINF:-1 tvg-name="Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782816106_Ashoka TV LOGO SWF.gif" group-title="Local TV",Ashoka Tv
-https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
+https://live-stream.in/ashokatv/ashokatv/index.m3u8
 
 #EXTINF:-1 tvg-name="ARK Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784905126_WhatsApp Image 2026-07-24 at 20.08.51.jpeg" group-title="Local TV",ARK Tv
 https://ktismaservers.in:3917/live/arktvlive.m3u8
@@ -229,7 +229,7 @@ https://ktismaservers.in:3917/live/arktvlive.m3u8
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
 
 #EXTINF:-1 tvg-name="VAAGAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai TV logo.png" group-title="Local TV",VAAGAI TV
-https://live-stream.in/ashokatv/ashokatv/index.m3u8
+https://stream.ashokadigital.net/VAAGAITV/vaagaitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Yeshua HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739979735_WhatsApp_Image_2025-02-19_at_6.21.54_PM-removebg-preview.png" group-title="Local TV",Yeshua HD
 https://account8.livebox.co.in/Yeshuahls/live.m3u8
@@ -281,6 +281,9 @@ https://app.ashokadigital.net/app/3b31be9f/index.m3u8
 
 #EXTINF:-1 tvg-name="spice tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1735633715_IMG-20241231-WA0070(1).jpg" group-title="Local TV",spice tv
 https://app.ashokadigital.net/app/0ea078fe/index.m3u8
+
+#EXTINF:-1 tvg-name="Ashoka Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631212_ashoka 2 logo.png" group-title="Local TV",Ashoka Channel
+https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 
 #EXTINF:-1 tvg-name="D TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171805_d tv logo (1).png" group-title="Local TV",D TV
 https://stream.d6-pro.com/dtv/live/video.m3u8
