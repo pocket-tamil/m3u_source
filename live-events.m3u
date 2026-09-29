@@ -1,17 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1090541367_ENG" tvg-name="Sri Lanka vs Nepal - Quarter-Final - 28 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025159/1790591344093509_AG26_MENS_CRICKET_QF_SL_VS_NEP_LIVE_landscape_thumb.jpg" group-title="SonyLiv",Sri Lanka vs Nepal - Quarter-Final - 28 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790682094~acl=/*~id=27054286294463891569184021773139~hmac=086535bf6dd828036f19d6ccf412afd1b397e8a6d41d86eb56c2fdbd3f05536c
+#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="India In Action - Boxing - 29 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025241/1790652496807123_AG26_29Sep_Boxing_Womens_65kg_Semi_Final_live_landscape_thumb.jpg" group-title="SonyLiv",India In Action - Boxing - 29 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790700877~acl=/*~id=72915586185797959788732624719712~hmac=15d620ebeb921ff7eb878820dfb203d0fc8aa3975d983dabed53afd9dd6a4b9c
 
-#EXTINF:-1 tvg-id="4249528" tvg-name="Queensland Fire vs New South Wales Breakers [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249528_53075_NSW-W_QUN-W_fc-web.jpg" group-title="Fancode",Queensland Fire vs New South Wales Breakers [English]
-https://in-mc-flive.fancode.com/mumbai/4249528_english_hls_6f0c78f32a48994_1ta-di_h264/720p.m3u8?hdntl=Expires=1790724036~_GO=Generated~acl=/mumbai/4249528_english_hls_6f0c78f32a48994_1ta-di_h264/*~Signature=ARxeIm8SfMGmEnwBYwPUNtcvsKk9MnRgqCXJ46v1NO7SL-qJkicWSKhX8odvZnX80bqsWHaGNos6fDjG47M1LAcztUwA
+#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="India In Action - Boxing - 29 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025241/1790652496807123_AG26_29Sep_Boxing_Womens_65kg_Semi_Final_live_landscape_thumb.jpg" group-title="SonyLiv",India In Action - Boxing - 29 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790700877~acl=/*~id=72915586185797959788732624719712~hmac=15d620ebeb921ff7eb878820dfb203d0fc8aa3975d983dabed53afd9dd6a4b9c
 
-#EXTINF:-1 tvg-id="B0HKV2HTYH" tvg-name="Asian Games 2026 - 3rd Quarter-Final - Sri Lanka vs Nepal" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c790c39-364f-4388-ba0a-bdc5cf629ae9/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Asian Games 2026 - 3rd Quarter-Final - Sri Lanka vs Nepal
+#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="India In Action - Boxing - 29 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025241/1790652496807123_AG26_29Sep_Boxing_Womens_65kg_Semi_Final_live_landscape_thumb.jpg" group-title="SonyLiv",India In Action - Boxing - 29 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790700877~acl=/*~id=72915586185797959788732624719712~hmac=15d620ebeb921ff7eb878820dfb203d0fc8aa3975d983dabed53afd9dd6a4b9c
+
+#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="India In Action - Boxing - 29 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025241/1790652496807123_AG26_29Sep_Boxing_Womens_65kg_Semi_Final_live_landscape_thumb.jpg" group-title="SonyLiv",India In Action - Boxing - 29 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790700877~acl=/*~id=72915586185797959788732624719712~hmac=15d620ebeb921ff7eb878820dfb203d0fc8aa3975d983dabed53afd9dd6a4b9c
+
+#EXTINF:-1 tvg-id="4249529" tvg-name="South Australian Scorpions vs Victoria Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg" group-title="Fancode",South Australian Scorpions vs Victoria Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249529_english_hls_2d2dc0a92633422_1ta-di_h264/720p.m3u8?hdntl=Expires=1790739784~_GO=Generated~acl=/mumbai/4249529_english_hls_2d2dc0a92633422_1ta-di_h264/*~Signature=ARxeIm8JhtdMVvVgu3TaaowPbnNJD5gL1ohaai-sa9-cYSI_oRDJePWRX-BWcdSkQmiRuvrjpBYc2_j7S7O644exM4UL
+
+#EXTINF:-1 tvg-id="4250039" tvg-name="Manoharpur Lions vs Saranda Worriers [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" group-title="Fancode",Manoharpur Lions vs Saranda Worriers [English]
+https://in-mc-flive.fancode.com/mumbai/4250039_english_hls_1c36e783ce20374_1ta-di_h264/720p.m3u8?hdntl=Expires=1790738573~_GO=Generated~acl=/mumbai/4250039_english_hls_1c36e783ce20374_1ta-di_h264/*~Signature=ARxeIm-ZYLH-HVVflqz_mcF0lEqZBy0uFWllqjvXGS5r9xeARvJjftmDNggioIMAIXY_RWWZ66HkEekSMhNAVA9PqEYN
+
+#EXTINF:-1 tvg-id="B0HC74XCJN" tvg-name="Asian Games 2026 - 4th Quarter-Final - Bangladesh vs Malaysia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d8b2686-e4bb-4abc-ae50-9a2b4f64e44b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Asian Games 2026 - 4th Quarter-Final - Bangladesh vs Malaysia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72a6cfc603b0415a8edb3d191a1f718c:2868c3c10c569817643cbe43a92b4bdf
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7tdlacjghx/out/v1/78b77b2cd769444c8e477f9335363a18/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c2ba1ee0e3b917fd4054198a7d187179:b6fb7761b6389fc298c125310ef98c40
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4hi06a6nb/out/v1/d22de12519864d528e55abdc1398d5f8/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HK312369" tvg-name="Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HJLKT361" tvg-name="Volleyball 18 Men - PHI vs TPE - Pool D" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.acf14a86-39d6-4e37-8d1a-7354291ac1cf/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Volleyball 18 Men - PHI vs TPE - Pool D
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-id="86312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Chengdu.jpg" group-title="AxSports", ATP Chengdu - ATP Chengdu
 #EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
