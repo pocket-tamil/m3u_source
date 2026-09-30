@@ -606,9 +606,6 @@ https://live.applelive.in/boobsh/boobsh/index.m3u8
 #EXTINF:-1 tvg-name="EZHIL TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740735792_SAVE_20250228_143607.jpg" group-title="Local TV",EZHIL TV
 https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
 
-#EXTINF:-1 tvg-name="lucky tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790695624_4ec1f5e9-19ea-46ec-af76-398ba678d031-Photoroom.png" group-title="Local TV",lucky tv
-http//luckytv.stream.onecloudlive.in/luckytv/luckytvhd/index.m3u8
-
 #EXTINF:-1 tvg-name="udhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790083266_Udhayam Tv.png" group-title="Local TV",udhayam tv
 https://hd.singamcloud.in/udhayam/udhayamtv/index.m3u8
 
@@ -623,6 +620,9 @@ https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
 
 #EXTINF:-1 tvg-name="Lotus Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1759064671_WhatsApp_Image_2025-09-28_at_5.56.32_PM-removebg-preview.png" group-title="Local TV",Lotus Tv
 https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="PUNITHAN TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790755530_WhatsApp Image 2026-09-26 at 1.30.06 PM.jpeg" group-title="Local TV",PUNITHAN TV
+https://live-stream.in/punithantv/punithantv/index.m3u8
 
 #EXTINF:-1 tvg-name="Voice Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754494620_Ver 2.0_04.png" group-title="Local TV",Voice Tv
 https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
@@ -665,9 +665,6 @@ http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ISAI SARAL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437968_1773995237_WhatsApp Image 2026-03-20 at 1.47.36 PM-Photoroom.png" group-title="Local TV",ISAI SARAL
 http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CSK TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733983239_csk tv png logo kanishq.png" group-title="Local TV",CSK TV
-rtmp://csktv.stream.ashokadigital.net:1935/csktv/csktv
 
 #EXTINF:-1 tvg-name="himalaya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1780921420_himalaya tv hosur.png" group-title="Local TV",himalaya tv
 https://app.ashokadigital.net/app/eb990565/index.m3u8
