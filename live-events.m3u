@@ -1,44 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1090541381_HIN" tvg-name="Day 12 - 30 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="SonyLiv",Day 12 - 30 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790803134~acl=/*~id=34982340375289093759609909757049~hmac=f0f8bfa1feaee249350d4044332b4dfe7ceb741e79dd9d98892f8a74a76b3adb
+#EXTINF:-1 tvg-id="1090541385_ENG" tvg-name="Day 12 - 30 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="SonyLiv",Day 12 - 30 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790815877~acl=/*~id=34814202362249607494268547142126~hmac=463493f2ce0a320147c639abe6c8cbc763ebec0b8dc9834dbd08b694d9175a8f
 
-#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="Day 12 - 30 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="SonyLiv",Day 12 - 30 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790803134~acl=/*~id=34982340375289093759609909757049~hmac=f0f8bfa1feaee249350d4044332b4dfe7ceb741e79dd9d98892f8a74a76b3adb
+#EXTINF:-1 tvg-id="4249296" tvg-name="Ghaziabad Giants vs Yamuna Warriors [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg" group-title="Fancode",Ghaziabad Giants vs Yamuna Warriors [English]
+https://in-mc-flive.fancode.com/mumbai/4249296_english_hls_83190a6f7d42616_1ta-di_h264/720p.m3u8?hdntl=Expires=1790853717~_GO=Generated~acl=/mumbai/4249296_english_hls_83190a6f7d42616_1ta-di_h264/*~Signature=ARxeIm8dRPyOeAFtnRTMU07vrxrC65mLHWkvH6n-mNNxPyMAOiEMhHX0cdZ9-BFksjFnsNEexXkxreR5_8KMUBgxjiMM
 
-#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="Day 12 - 30 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="SonyLiv",Day 12 - 30 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790803134~acl=/*~id=34982340375289093759609909757049~hmac=f0f8bfa1feaee249350d4044332b4dfe7ceb741e79dd9d98892f8a74a76b3adb
-
-#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="Day 12 - 30 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="SonyLiv",Day 12 - 30 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790803134~acl=/*~id=34982340375289093759609909757049~hmac=f0f8bfa1feaee249350d4044332b4dfe7ceb741e79dd9d98892f8a74a76b3adb
-
-#EXTINF:-1 tvg-id="4249300" tvg-name="Faridabad Firebirds vs Delhi Dynamos [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg" group-title="Fancode",Faridabad Firebirds vs Delhi Dynamos [English]
-https://in-mc-flive.fancode.com/mumbai/4249300_english_hls_10d1e7ac584062_1ta-di_h264/720p.m3u8?hdntl=Expires=1790839173~_GO=Generated~acl=/mumbai/4249300_english_hls_10d1e7ac584062_1ta-di_h264/*~Signature=ARxeIm8-sWrpW4w7eMnHrR5acNHX0vWIICyhVxEzS2KoRC4GS1Vz81BHseuxFlTipWg4Q4pMnwuLEIlPflTJV6evRQMI
-
-#EXTINF:-1 tvg-id="4250042" tvg-name="Kolhan King vs Manoharpur Lions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" group-title="Fancode",Kolhan King vs Manoharpur Lions [English]
-https://in-mc-flive.fancode.com/mumbai/4250042_english_hls_66e39a398b76981_1ta-di_h264/720p.m3u8?hdntl=Expires=1790839176~_GO=Generated~acl=/mumbai/4250042_english_hls_66e39a398b76981_1ta-di_h264/*~Signature=ARxeIm-jVSCs-dqk71hD9Tnq_r2L3ZrAUrTIl4wp4YmxR23aZL0HTit7Ec9jr6BgiDUqeb3jT5roNvAAgQsW3Tee29EM
-
-#EXTINF:-1 tvg-id="4249524" tvg-name="Punjab FC vs East Bengal FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MM.png" group-title="Fancode",Punjab FC vs East Bengal FC [English]
-https://in-mc-flive.fancode.com/mumbai/4249524_english_hls_85fa4a0a6b84266_1ta-di_h264/720p.m3u8?hdntl=Expires=1790844630~_GO=Generated~acl=/mumbai/4249524_english_hls_85fa4a0a6b84266_1ta-di_h264/*~Signature=ARxeIm-t0s5wp-k9Zaptp8Gi4GQmbHKJiudiHtgMC5UhdynhSIzd1Io6aIIqoDttDvBp59UyHNwY4WjuMqCg1riObocH
-
-#EXTINF:-1 tvg-id="4248565" tvg-name="Kinoshita Group Show Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="Fancode",Kinoshita Group Show Court [English]
-https://in-mc-flive.fancode.com/mumbai/4248565_english_hls_7a1fef517154589_1ta-di_h264/720p.m3u8?hdntl=Expires=1790828270~_GO=Generated~acl=/mumbai/4248565_english_hls_7a1fef517154589_1ta-di_h264/*~Signature=ARxeIm8ZnwZyYGmjDsr3IN7CzbCIwL37_VtbG4wgSqgata4HqYNly8RVFIIhYfw5xwKHqex7ljpd8kB_AIYeR6w73kAO
-
-#EXTINF:-1 tvg-id="4248572" tvg-name="Day 1 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="Fancode",Day 1 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4248572_english_hls_04053f73dc96308_1ta-di_h264/720p.m3u8?hdntl=Expires=1790828271~_GO=Generated~acl=/mumbai/4248572_english_hls_04053f73dc96308_1ta-di_h264/*~Signature=ARxeIm8hJGt7KIGpqvp95F5P5vsSw_mLc-0IS9Bi5XgKZ0BeCoYOjNXDFzyKRrZAtSbPkvVffKGXNLmsB_1CJT7pbSsN
+#EXTINF:-1 tvg-id="4249780" tvg-name="Australia vs South Africa [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png" group-title="Fancode",Australia vs South Africa [English]
+https://in-mc-flive.fancode.com/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/720p.m3u8?hdntl=Expires=1790852504~_GO=Generated~acl=/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/*~Signature=ARxeIm8_Bej2TYOU_Jp1JNHMLHux3GgNpdhWv2IXDod5UYxSqNUY4oMBJSpVa0T_cQZYl7aUx6rAYsQGKkA4eOB7DBoH
 
 #EXTINF:-1 tvg-id="4248551" tvg-name="Day 1 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Fancode",Day 1 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4248551_english_hls_e05fd7472816411_1ta-di_h264/720p.m3u8?hdntl=Expires=1790828271~_GO=Generated~acl=/mumbai/4248551_english_hls_e05fd7472816411_1ta-di_h264/*~Signature=ARxeIm-x2u1oNffj_0GD851j4FMceTkeMqL15GX8IZaw6G22Y3rjr3hRrPt2irg4vIsZaf0bNwi_z21nZewJp2OCWO0A
-
-#EXTINF:-1 tvg-id="4248558" tvg-name="Lotus Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="Fancode",Lotus Court [English]
-https://in-mc-flive.fancode.com/mumbai/4248558_english_hls_843d472f0e50815_1ta-di_h264/720p.m3u8?hdntl=Expires=1790828272~_GO=Generated~acl=/mumbai/4248558_english_hls_843d472f0e50815_1ta-di_h264/*~Signature=ARxeIm-Moji-286ql74P6C1Anmr8zEVglX-AZBQAfC2RGEmitZojHbExWwVePNULlY5uW5ToDo5duop2VrREKJMIYTMN
+https://in-mc-flive.fancode.com/mumbai/4248551_english_hls_e05fd7472816411_1ta-di_h264/720p.m3u8?hdntl=Expires=1790857354~_GO=Generated~acl=/mumbai/4248551_english_hls_e05fd7472816411_1ta-di_h264/*~Signature=ARxeIm_yQL__TeOdTrlTPav6HH3BxAolN5Yo5CehYcuX45ml36HJwUQRcnv_VEtXyGnY1x056VmsmRuaRmSjWbTLOVsE
 
 #EXTINF:-1 tvg-id="B0HK6D5LN2" tvg-name="India vs. West Indies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5ee746b-448e-45e3-a426-8ea1b28dc39a/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",India vs. West Indies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ce45f6a1c4ff0cca79f1fcb2f0161d5:d6dba1c59cc9c34a53deb95d47a6ae99
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zp4zc7ykfs/out/v1/647383d571d44fb680e8e826f604db2b/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lz6ipnjrm8/out/v1/82ed38bdd2b3474fa5306ff07487e2a0/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HJX77Q8W" tvg-name="South Africa vs. Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.52c7a477-3e64-44b7-bfd8-ce265d3e38a7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",South Africa vs. Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HK312369" tvg-name="Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -47,19 +33,26 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zp4zc7ykfs
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HHVSD6YN" tvg-name="Diving 05 Men" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8dd4c4bb-e0af-4f18-996a-679491d38525/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Diving 05 Men
+#EXTINF:-1 tvg-id="B0H7K8ZT2G" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e05e0ac-c7e4-4da6-abbe-0b4d40b0081b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HKFTGN17" tvg-name="Football Men - Semi-Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85dd5f89-ba93-425f-a3ca-f46f66402354/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Football Men - Semi-Final
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HHG3WLM4" tvg-name="Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 1st Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.af7ee062-a32b-4951-ab7c-8db89aa3e864/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 1st Round
+#EXTINF:-1 tvg-id="B0HHH8CW1C" tvg-name="Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 1st Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e0251589-de45-4144-8636-a7bc2281ebca/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 1st Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #EXTINF:-1 tvg-id="86312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Chengdu.jpg" group-title="AxSports", ATP Chengdu - ATP Chengdu
 #EXTVLCOPT:http-referrer=https://iframe.rumsport11.site/
