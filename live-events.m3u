@@ -1,26 +1,88 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1090543297_ENG" tvg-name="Day 15 - Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="SonyLiv",Day 15 - Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791034779~acl=/*~id=99110300530432089184064680142507~hmac=d34a2546a5c0ac61910b619e6cd520a97e5cb578098123b658628002d285b7dd
+
+#EXTINF:-1 tvg-id="1090541367_ENG" tvg-name="Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg" group-title="SonyLiv",Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791034779~acl=/*~id=99110300530432089184064680142507~hmac=d34a2546a5c0ac61910b619e6cd520a97e5cb578098123b658628002d285b7dd
+
+#EXTINF:-1 tvg-id="1090543297" tvg-name="Day 15 - Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="SonyLiv",Day 15 - Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4
+
+#EXTINF:-1 tvg-id="1090541367" tvg-name="Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg" group-title="SonyLiv",Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/master.m3u8?hdnea=exp=1791026437~acl=/*~id=63474090427168417258067324640330~hmac=666ecd914c78fa39d68ba0f92a6a9c4eeaef24cfc8c9c48d25fbebeebe848665
+
+#EXTINF:-1 tvg-id="1090541377" tvg-name="Rugby 7s - 3 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025449/179080184543314_AG26_Rugby_Sevens_pictogram_live_landscape_thumb.jpg" group-title="SonyLiv",Rugby 7s - 3 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504
+
+#EXTINF:-1 tvg-id="1090541381" tvg-name="Day 15 - 3 Oct 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368607376894_AG26_Generic_Stream4_live_landscape_thumb_clean.jpg" group-title="SonyLiv",Day 15 - 3 Oct 2026 [HINDI]
+https://sonydaimenew.akamaized.net/hls/live/2120308/ag_strea0210/HIN/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504
+
+#EXTINF:-1 tvg-id="1090541378" tvg-name="India in Action - Golf - 3 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025576/1790883954328809_AG26_2nd_Oct_Gold_Mens_live_landscape_thumb.jpg" group-title="SonyLiv",India in Action - Golf - 3 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791024644~acl=/*~id=46657219117778403527314187298168~hmac=51e42ffe7fc4506657ba9d46dfe6829ca18ceb250956c73d2b61fe4a182a4b15
+
 #EXTINF:-1 tvg-id="1090541370" tvg-name="Golf - 3 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297941567348_AG26_Golf_pictogram_landscape_thumb.jpg" group-title="SonyLiv",Golf - 3 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8?hdnea=exp=1791017438~acl=/*~id=22996757667710002841757752074188~hmac=8a6ccbf86c352cbbe8cfc73355fb54ea8d4d2d6858d0c089ef590f2020cbdd16
 
-#EXTINF:-1 tvg-id="4249820" tvg-name="Vancouver Anchors vs Toronto Sixers [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png" group-title="Fancode",Vancouver Anchors vs Toronto Sixers [English]
-https://in-mc-flive.fancode.com/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/720p.m3u8?hdntl=Expires=1791067627~_GO=Generated~acl=/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/*~Signature=ARxeIm_bE0wEaXf54mdWXpqD7q8QYLF_mbFOllz4cAspT1g8Ko7w9z8MwksRoVr9NFT6cztsKeDbh-w-z5ajLaORHxEO
+#EXTINF:-1 tvg-id="1090541380" tvg-name="Sri Lanka vs Uzbekistan - Men's Hockey - 3 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790848496149_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="SonyLiv",Sri Lanka vs Uzbekistan - Men's Hockey - 3 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2094589/ag_dx2_00210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4
 
-#EXTINF:-1 tvg-id="4249702" tvg-name="Featured Group - Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png" group-title="Fancode",Featured Group - Day 2 [English]
-https://in-mc-flive.fancode.com/mumbai/4249702_english_hls_4904b2704887182_1ta-di_h264/720p.m3u8?hdntl=Expires=1791064599~_GO=Generated~acl=/mumbai/4249702_english_hls_4904b2704887182_1ta-di_h264/*~Signature=ARxeIm89IqjsN5j9qBAKccWGplOK6eOqbQKk9qRI8qgQdXBYcvAHuvStRIf39lJKoh2wROVgzqmc1ovRd8Fl1dpzzCoP
+#EXTINF:-1 tvg-id="1090541855" tvg-name="Jiu Jitsu - 3 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789294192890348_AG26_Ju_Jitsu_pictogram_landscape_thumb.jpg" group-title="SonyLiv",Jiu Jitsu - 3 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8?hdnea=exp=1791028262~acl=/*~id=98601785485711092808063264943013~hmac=52b9670e28542601eac5f3735aae5cb1fc8f5b338ee628c0e2fa41e9ebf02b7d
 
-#EXTINF:-1 tvg-id="4249699" tvg-name="World Feed - Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png" group-title="Fancode",World Feed - Day 2 [English]
-https://in-mc-flive.fancode.com/mumbai/4249699_english_hls_8b0ecf26bf52038_1ta-di_h264/720p.m3u8?hdntl=Expires=1791060359~_GO=Generated~acl=/mumbai/4249699_english_hls_8b0ecf26bf52038_1ta-di_h264/*~Signature=ARxeIm9zxAhWyAWx0_bIlBZ4QQeuEKXAdwR7X5fV0UMaTnQC05BpxEJcYnuz_6KPdnIqV-FstEFz8HrMW0tUnd4i7IMM
+#EXTINF:-1 tvg-id="1090543298" tvg-name="Men's & Women's Archery Finals - 3 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="SonyLiv",Men's & Women's Archery Finals - 3 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4
+
+#EXTINF:-1 tvg-id="4249821" tvg-name="Montreal Royal Tigers vs White Rock Warriors [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249821_53099_MRT_WRW_FC-Web.png" group-title="Fancode",Montreal Royal Tigers vs White Rock Warriors [English]
+https://in-mc-flive.fancode.com/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/720p.m3u8?hdntl=Expires=1791077941~_GO=Generated~acl=/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/*~Signature=ARxeIm91JaXjmGuydvhTtikqSV1qoSMOjn1LNWlJYhxjlXG9upGuW36W2ycaG1BkpSq16Mc40AvFKPJddY_eRKwNjoAI
+
+#EXTINF:-1 tvg-id="139973" tvg-name="Japan GP [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg" group-title="Fancode",Japan GP [English]
+https://in-mc-flive.fancode.com/mumbai/139973_english_hls_eb35bd9ca144297_1ta-di_h264/720p.m3u8?hdntl=Expires=1791070051~_GO=Generated~acl=/mumbai/139973_english_hls_eb35bd9ca144297_1ta-di_h264/*~Signature=ARxeIm-2gIvsCGRUPnpfIIoqvgdc-6FRROgPsgjfIeCrbaBLPAePZsL2utprC3MiB_sBUX1WAvkQTuJz7A_786ed_PsF
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Hotstar",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
+#EXTINF:-1 tvg-id="B0HFGFK4HY" tvg-name="Asian Games 2026 - 3rd Place Play-off- Bangladesh vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3cad2616-dbe9-402e-a484-eaa4df368b46/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow",Asian Games 2026 - 3rd Place Play-off- Bangladesh vs Sri Lanka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HKSR7WTW" tvg-name="Massachusetts at Colorado College" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3f529f8-3963-40d4-aefe-7eb151cf55a4/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Massachusetts at Colorado College
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HGZR9W7Y" tvg-name="PPA Tour: Las Vegas Open-Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc55e923-0d0b-4435-bdc1-29fda2e93909/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",PPA Tour: Las Vegas Open-Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HL6PPYW1" tvg-name="Manawatu v Canterbury" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8ad2dba1-3bdc-49f8-9076-8d796a15594b/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Manawatu v Canterbury
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HFXJPRQX" tvg-name="Motul Grand Prix of Japan, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e27f9403-a372-4876-bf2b-f0f6b252be76/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Motul Grand Prix of Japan, Qualifying
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://ABDBVRVAAAAAAAAMAXTHEJ3BY3HZZ.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpq1AWOBhpqwD8OA2pjbG91ZGZyb250Angpc3NpZDplZDk3ODFhMy0wOTFkLTQ2ODMtYmYwNC03NzBjNmZmZTE3MDcZATihBaECeDMvdW96Y3FtbG91cS9vdXQvdjEvODE5N2M4ZTA1NWM5NGE4Njg2MjM2NTNhYzU1YzEwYmYZATyBYlVTWCBXGilULKlpYWGNvovRGfDMdKAGx3zVzSEadmrReaTj0g/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/uozcqmlouq/out/v1/8197c8e055c94a868623653ac55c10bf/7eb426d3-5a95-4e97-bf7f-4f27567884ce-cenc.mpd?aws.sessionId=b31900fe-6f53-4fe7-b888-19a3f7846ab2
+
+#EXTINF:-1 tvg-id="B0HGXKVMV7" tvg-name="Sepaktakraw - Men & Women - Quadrant Events - Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9916d5e4-8f0f-467c-bdd3-f477f670d966/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Sepaktakraw - Men & Women - Quadrant Events - Finals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKRG8GJY" tvg-name="53rd Annual NAPA Fall Final at Stafford Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.788ca7bd-7ef8-48f2-aa84-b6fde345defd/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",53rd Annual NAPA Fall Final at Stafford Speedway
 #KODIPROP:inputstream=inputstream.adaptive
@@ -28,4 +90,18 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HHZ22J66" tvg-name="Inje, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4395d2fd-894e-48af-816a-1dded5d8e3b9/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Inje, Qualifying
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HKZSTGT2" tvg-name="AHA Hockey: Ferris State vs Canisius" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0337e1d9-9c09-4aff-bc2d-aeb84d14b95a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",AHA Hockey: Ferris State vs Canisius
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
 
