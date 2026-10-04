@@ -708,9 +708,6 @@ https://live.applelive.in/janasruthitv/janasruthitv/index.m3u8
 #EXTINF:-1 tvg-name="calvaryp tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570732_1747319853_0 . ASHOKA DIGITAL LOGO (1).png" group-title="Local TV",calvaryp tv
 rtmp://cloud.sundaylive.co.in/calvaryptv/calvaryptv
 
-#EXTINF:-1 tvg-name="Hello Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1778558132_helo tamil tv.png" group-title="Local TV",Hello Tamil Tv
-https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
-
 #EXTINF:-1 tvg-name="Rtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782356442_WhatsApp Image 2026-06-24 at 6.06.11 PM.jpeg" group-title="Local TV",Rtv
 http://217.216.79.247/rtv/rtv/index.m3u8
 
@@ -795,6 +792,9 @@ https://live.toponlinetv.com/abnaztv/index.m3u8
 #EXTINF:-1 tvg-name="Coimbatore" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" group-title="Local TV",Coimbatore
 http://brightmeltech.in/kchannel/kchannel.m3u8
 
+#EXTINF:-1 tvg-name="Hello Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1778558132_helo tamil tv.png" group-title="Local TV",Hello Tamil Tv
+https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
+
 #EXTINF:-1 tvg-name="Thannaram tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782835651_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",Thannaram tv
 https://stream.ashokadigital.net/Thannaramtv/Thannaramtv/index.m3u8
 
@@ -818,6 +818,9 @@ https://app.ashokadigital.net/app/7fe2793b/index.m3u8
 
 #EXTINF:-1 tvg-name="AMMAN Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754665306_amman tv png logo.png" group-title="Local TV",AMMAN Tv
 https://app.ashokadigital.net/app/78b1bc36/index.m3u8
+
+#EXTINF:-1 tvg-name="CSK TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733983239_csk tv png logo kanishq.png" group-title="Local TV",CSK TV
+rtmp://csktv.stream.ashokadigital.net:1935/csktv/csktv
 
 #EXTINF:-1 tvg-name="Gubbi TV Kannada" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209169_315 copy.png" group-title="Local TV",Gubbi TV Kannada
 https://vvsolutions-server12.in/gubbinewskannada_11/video.m3u8
