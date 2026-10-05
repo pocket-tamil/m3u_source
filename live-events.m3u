@@ -1,19 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1090547070_ENG" tvg-name="Cyprus vs Latvia - 5 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg" group-title="SonyLiv",Cyprus vs Latvia - 5 Oct 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791262137~acl=/*~id=69386274812674628334098292672336~hmac=396b238383e8b7ef0c6d6aaae88d268c43aaf2d496f362c6a07e911f8676f274
-
-#EXTINF:-1 tvg-id="1090547070" tvg-name="Cyprus vs Latvia [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg" group-title="SonyLiv",Cyprus vs Latvia [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/?hdnea=exp=1791256841~acl=/*~id=36871665722074013850628360155464~hmac=fdef97d5ac34695225e113fde93e3d2be920a043f5b8cc67adecc3b088dbfe73
-
 #EXTINF:-1 tvg-id="4249657" tvg-name="United Arab Emirates vs USA [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png" group-title="Fancode",United Arab Emirates vs USA [English]
-https://in-mc-flive.fancode.com/mumbai/4249657_english_hls_564ff93f9840854_1ta-di_h264/720p.m3u8?hdntl=Expires=1791298527~_GO=Generated~acl=/mumbai/4249657_english_hls_564ff93f9840854_1ta-di_h264/*~Signature=AXZsC1BadYyjQyZmgZWqqegWsJ8P4Oj_z4NC4AgQbjsXsI-wj5DzKVg-EeMcJeypMd5kVanDvmmQmFiRVlSDpnws9SoO
-
-#EXTINF:-1 tvg-id="4249217" tvg-name="Bangladesh Champions vs England Champions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png" group-title="Fancode",Bangladesh Champions vs England Champions [English]
-https://in-mc-flive.fancode.com/mumbai/4249217_english_hls_c61fbb525579262_1ta-di_h264/720p.m3u8?hdntl=Expires=1791298528~_GO=Generated~acl=/mumbai/4249217_english_hls_c61fbb525579262_1ta-di_h264/*~Signature=AXZsC1DHdgJMX_CUR7rkGss1zuWnC-Ad7-RGIMcwzBtxvB75JC57po0z-XBtZ3Jrp3baEYnqGxAlwtaxInrWeLjs-tAB
-
-#EXTINF:-1 tvg-id="4250082" tvg-name="Emirates Red vs Sharjah [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250082_53103_SHA_EMR_FC-WEB.jpg" group-title="Fancode",Emirates Red vs Sharjah [English]
-https://in-mc-flive.fancode.com/mumbai/4250082_english_hls_92f86185ca66052_1ta-di_h264/720p.m3u8?hdntl=Expires=1791299741~_GO=Generated~acl=/mumbai/4250082_english_hls_92f86185ca66052_1ta-di_h264/*~Signature=AXZsC1B5GPBvAfKxEtR22li0tKvE-9JNTYA4wdGa-trQV4twU99UBrQoRuMIvTMT-nAo_hxrbeLh7j-K0i90IWavNlsD
+https://in-mc-flive.fancode.com/mumbai/4249657_english_hls_564ff93f9840854_1ta-di_h264/720p.m3u8?hdntl=Expires=1791327599~_GO=Generated~acl=/mumbai/4249657_english_hls_564ff93f9840854_1ta-di_h264/*~Signature=AXZsC1DhFeXTpqJkwT-wRa0mKXCKEFcwCQVIYR7oVcnLbzrU6gPaMxgYz_MYMeREYA7BtEXQYJF7egAyI37e7fymgaYF
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Hotstar",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
@@ -28,11 +16,4 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791240313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0054ddfbabb05f371b038fb3738f3b331e4a1331e413c26f435faaf7b0773abc/manifest.mpd?vcfilter=1a000066-829e-47af-bfa8-6985dd6d082f&
-
-#EXTINF:-1 tvg-id="B0HL22BGF3" tvg-name="Cricket Highlights-WCL 2026: Bangladesh vs England - 6th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d297e3f-d708-430a-baf9-27e0cf86e7e7/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Cricket Highlights-WCL 2026: Bangladesh vs England - 6th Match
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
