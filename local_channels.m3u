@@ -429,6 +429,9 @@ https://app.ashokadigital.net/app/0ea078fe/index.m3u8
 #EXTINF:-1 tvg-name="POTHIGAI PRIME TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790769192_WhatsApp Image 2026-09-30 at 4.58.27 PM.jpeg" group-title="Local TV",POTHIGAI PRIME TV
 http://podhigai-primetv.stream.nellaiiptv.com:80/live/podhigai-primetv/index.m3u8
 
+#EXTINF:-1 tvg-name="D TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171805_d tv logo (1).png" group-title="Local TV",D TV
+https://stream.d6-pro.com/dtv/live/video.m3u8
+
 #EXTINF:-1 tvg-name="tunes 6 music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785217343_t6 logo (1).png" group-title="Local TV",tunes 6 music
 https://stream.d6-pro.com/Tunes6music/live/video.m3u8
 
@@ -512,9 +515,6 @@ https://app.ashokadigital.net/app/34e04c34/index.m3u8
 
 #EXTINF:-1 tvg-name="Dheiveegam Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731847296_WhatsApp_Image_2024-11-17_at_6.04.32_PM-removebg-preview.png" group-title="Local TV",Dheiveegam Tv
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
-
-#EXTINF:-1 tvg-name="d bhakthi tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" group-title="Local TV",d bhakthi tv
-https://stream.d6-pro.com/dbhakhi/live/video.m3u8
 
 #EXTINF:-1 tvg-name="Yatra Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762598647_IMG-20251108-WA0090.jpg" group-title="Local TV",Yatra Tv
 https://stream.onecloudlive.in/yatra/yatratv/index.m3u8
@@ -1052,4 +1052,7 @@ https://live.dainikayodhyatimes.com/datnews/datnews/index.m3u8
 
 #EXTINF:-1 tvg-name="AGASHAM TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787145831_file_00000000df288208984131c6f69dc32d.png" group-title="Local TV",AGASHAM TV
 https://agashamtv.stream.ipcloud.live/agashamtv/livestream/index.m3u8
+
+#EXTINF:-1 tvg-name="d bhakthi tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" group-title="Local TV",d bhakthi tv
+https://stream.d6-pro.com/dbhakhi/live/video.m3u8
 
