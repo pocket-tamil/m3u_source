@@ -1,26 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4249658" tvg-name="Namibia vs USA [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png" group-title="Fancode",Namibia vs USA [English]
-https://in-mc-flive.fancode.com/mumbai/4249658_english_hls_452eb19a455708_1ta-di_h264/720p.m3u8?hdntl=Expires=1791471355~_GO=Generated~acl=/mumbai/4249658_english_hls_452eb19a455708_1ta-di_h264/*~SessionID=68af7a8f728b9df6_fc-app_sportsguruand_acf82844-9c6c-4f~Signature=AXZsC1BFtuTmkR4MV6wq0ao-cGgsegqlH74Yj0WaX1TxLNy0lpC2e_dyXD8OSQs3w9pLrdejMr0O5Rc7zzJRVykTLfUF
+#EXTINF:-1 tvg-id="4249663" tvg-name="Tasmania vs New South Wales [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" group-title="Fancode",Tasmania vs New South Wales [English]
+https://in-mc-flive.fancode.com/mumbai/4249663_english_hls_8e2773aae983948_1ta-di_h264/720p.m3u8?hdntl=Expires=1791501646~_GO=Generated~acl=/mumbai/4249663_english_hls_8e2773aae983948_1ta-di_h264/*~SessionID=7fe4aa870feb3d77_fc-app_sportsguruand_99e30220-30cc-4c~Signature=AXZsC1DB_F75niVvJQeBlOBZdCdaC_c85fWGfPSjqysUbka5R8FUqmr2mMYgFI8j98jfk6fZK3FX89W49k-VK965khwM
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Hotstar",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="cc8a5102-38fd-4b78-a460-d3e3b5c940f6" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bdvmliundjh5bhcgqqsx" tvg-lang="English" group-title="ICC TV",English | Namibia v USA (2nd Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791428414~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2f573c3a36f2f5051884be8567719fbd2bf6eec277bd207ddc16f10b179ad24d/manifest.mpd?vcfilter=cc8a5102-38fd-4b78-a460-d3e3b5c940f6&
 
 #EXTINF:-1 tvg-id="B0GVYQYWMK" tvg-name="PPA Tour: Chicago Cup-Round of 32" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f7445373-3f55-48a3-bc20-95df4fb7c7d7/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",PPA Tour: Chicago Cup-Round of 32
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
