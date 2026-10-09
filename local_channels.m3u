@@ -384,6 +384,9 @@ https://ktismaservers.in:3917/live/arktvlive.m3u8
 #EXTINF:-1 tvg-name="VAAGAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai TV logo.png" group-title="Local TV",VAAGAI TV
 https://stream.ashokadigital.net/VAAGAITV/vaagaitv/index.m3u8
 
+#EXTINF:-1 tvg-name="NISHA TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791549386_WhatsApp Image 2026-10-09 at 12.34.26 PM.jpeg" group-title="Local TV",NISHA TV
+http://103.159.180.5:1935/live/nishanew/live.m3u8
+
 #EXTINF:-1 tvg-name="Yeshua HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739979735_WhatsApp_Image_2025-02-19_at_6.21.54_PM-removebg-preview.png" group-title="Local TV",Yeshua HD
 https://account8.livebox.co.in/Yeshuahls/live.m3u8
 
@@ -439,7 +442,7 @@ https://stream.d6-pro.com/Tunes6music/live/video.m3u8
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 
 #EXTINF:-1 tvg-name="T TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png" group-title="Local TV",T TV
-http://tamil.live4.onecloudlive.in/tamil/live/index.m3u8
+https://app.ashokadigital.net/app/66a49d84/index.m3u8
 
 #EXTINF:-1 tvg-name="CTN Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762496906_ctn channel log copy.png" group-title="Local TV",CTN Channel
 http://217.216.79.247/ctn/channel/index.m3u8
