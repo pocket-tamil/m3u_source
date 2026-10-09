@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-          curl -L "https://m3u.cloudplay.qzz.io/jtvx.m3u" -o alex.m3u
+          curl -L "https://alex4528.site/jplus/playlist.m3u" -o alex.m3u
 
       - name: Commit and push if changed
         run: |
