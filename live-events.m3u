@@ -1,15 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4250187" tvg-name="Court 7" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Court 7
-https://in-mc-flive.fancode.com/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/720p.m3u8?hdntl=Expires=1791604416~_GO=Generated~acl=/mumbai/4250187_english_hls_1bce7a983b29737_1ta-di_h264/*~SessionID=122002764__24f7baf0-6846-42~Signature=AXZsC1Dwl49qLhA37a3MrDyPl_DKKvOmbVFlEifDwR6cHOPMTHAGVbrap1Lo1sZVt6DmaZM1NTNipb628wRYoUbf2kII
+#EXTINF:-1 tvg-id="1090547531_ENG" tvg-name="Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="SonyLiv",Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791600923~acl=/*~id=85258702214696926106555564415029~hmac=894e932cddab83e5b21e9981b25a4722230aaa06cdb218e0ee62caa11f002f06
 
-#EXTINF:-1 tvg-id="4250188" tvg-name="Court 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Court 4
-https://in-mc-flive.fancode.com/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/720p.m3u8?hdntl=Expires=1791604428~_GO=Generated~acl=/mumbai/4250188_english_hls_a939eedc3723252_1ta-di_h264/*~SessionID=280795718__441ef7dd-09fb-4a~Signature=AXZsC1AozmRx3mbUYgjSwMUmbdXJuc5W20YDPMCJbl3dkX9uIvJEFcH1G53acbQ0aer_ANBKvr9LMvCEnIux6qmsA2kI
+#EXTINF:-1 tvg-id="1090547531_HIN" tvg-name="Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="SonyLiv",Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120306/Volleyba0910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791600923~acl=/*~id=85258702214696926106555564415029~hmac=894e932cddab83e5b21e9981b25a4722230aaa06cdb218e0ee62caa11f002f06
+
+#EXTINF:-1 tvg-id="1090547533_ENG" tvg-name="Kakatiya Knights vs Chola Chiefs - 9 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026047/1791527609190776_APL26_Kakatiya-Knights-vs-Chola-Chiefs_live_landscape_thumb.jpg" group-title="SonyLiv",Kakatiya Knights vs Chola Chiefs - 9 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791600923~acl=/*~id=85258702214696926106555564415029~hmac=894e932cddab83e5b21e9981b25a4722230aaa06cdb218e0ee62caa11f002f06
+
+#EXTINF:-1 tvg-id="1090547530_ENG" tvg-name="Open de Espana Presented By Madrid - Day 2 - 9 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649382069310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day2_landscape_thumb.jpg" group-title="SonyLiv",Open de Espana Presented By Madrid - Day 2 - 9 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791600923~acl=/*~id=85258702214696926106555564415029~hmac=894e932cddab83e5b21e9981b25a4722230aaa06cdb218e0ee62caa11f002f06
+
+#EXTINF:-1 tvg-id="1090547531" tvg-name="Punjab Aerostrikers vs Garvi Gujjus [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="SonyLiv",Punjab Aerostrikers vs Garvi Gujjus [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec
+
+#EXTINF:-1 tvg-id="1090547533" tvg-name="Kakatiya Knights vs Chola Chiefs [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026047/1791527609190776_APL26_Kakatiya-Knights-vs-Chola-Chiefs_live_landscape_thumb.jpg" group-title="SonyLiv",Kakatiya Knights vs Chola Chiefs [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/?hdnea=exp=1791597035~acl=/*~id=65162814384091371522518530136566~hmac=099b7e416b5667a824f7f8d64ae52e3fccd50cc779fc0c9ecf29d7f55e662fae
+
+#EXTINF:-1 tvg-id="1090547530" tvg-name="Open de Espana Presented By Madrid - Day 2 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649382069310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day2_landscape_thumb.jpg" group-title="SonyLiv",Open de Espana Presented By Madrid - Day 2 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/?hdnea=exp=1791589835~acl=/*~id=46049840398994324245206794874766~hmac=dc8568a8d56f4996d0a1e27a75def6957d68fe3d634052d178843d385259b82b
+
+#EXTINF:-1 tvg-id="4249659" tvg-name="United Arab Emirates vs Namibia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png" group-title="Fancode",United Arab Emirates vs Namibia [English]
+https://in-mc-flive.fancode.com/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/720p.m3u8?hdntl=Expires=1791557924~_GO=Generated~acl=/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/*~SessionID=cd185399e333ae9b_fc-app_sportsguruand_94ad8bae-bec0-4e~Signature=AXZsC1Bo04vM0cmXZXRaDFukW0m0Nl2Bei51X5FRJHFMg9cHeAxQ13OhZfOf9-jVKvET2iDjJj0yS2S_x486C2QfQ0YA
+
+#EXTINF:-1 tvg-id="4249227" tvg-name="Bangladesh Champions vs West Indies Champions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" group-title="Fancode",Bangladesh Champions vs West Indies Champions [English]
+https://in-mc-flive.fancode.com/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/720p.m3u8?hdntl=Expires=1791557925~_GO=Generated~acl=/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/*~SessionID=cd185399e333ae9b_fc-app_sportsguruand_9458dc7a-d5c8-42~Signature=AXZsC1DSMFZBexS32o6HipeYNZ6eWKW70R_0-8ZTdMiWX7ymcXBr2bXZnT1_42sVT425D3hhfBa6q8TQgxwF1my2rIEJ
+
+#EXTINF:-1 tvg-id="4250095" tvg-name="Emirates Blues vs Fujairah [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250095_53103_EMB_FUJ_FC-WEB.jpg" group-title="Fancode",Emirates Blues vs Fujairah [English]
+https://in-mc-flive.fancode.com/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/720p.m3u8?hdntl=Expires=1791551250~_GO=Generated~acl=/mumbai/4250095_english_hls_be1d8d1b2d48513_1ta-di_h264/*~SessionID=95d3ae52cbe927d8_fc-app_sportsguruand_17580165-7589-4e~Signature=AXZsC1DGGIqBuMuc41_UBT0JKRo_BJzHJCMu3wH6wf0jLF8m8Dz1pRiSEdx-ireCx3uZhycAuMMxfY6XQEwmFmLLSUsH
+
+#EXTINF:-1 tvg-id="4249136" tvg-name="Al-Kholood Club vs Al-Qadsiah FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249136_53025_ALK_ALQ_FC-Web.png" group-title="Fancode",Al-Kholood Club vs Al-Qadsiah FC [English]
+https://in-mc-flive.fancode.com/mumbai/4249136_english_hls_26d7dbdd0213699_1ta-di_h264/720p.m3u8?hdntl=Expires=1791553686~_GO=Generated~acl=/mumbai/4249136_english_hls_26d7dbdd0213699_1ta-di_h264/*~SessionID=e97da4c61b2a0269_fc-app_sportsguruand_ed20fe8d-e4e0-41~Signature=AXZsC1BA0A-Evukp3v-7OWZgbcVzGnWdKOIXYe-kc6-3MdGRypy7ELzjDwpfQtRIoKuo3wpsZlko2IeHqkua_dArO70C
+
+#EXTINF:-1 tvg-id="4249137" tvg-name="Al-Fateh SC vs Al-Ahli Saudi FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249137_53025_AFF_AAS_FC-Web.png" group-title="Fancode",Al-Fateh SC vs Al-Ahli Saudi FC [English]
+https://in-mc-flive.fancode.com/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/720p.m3u8?hdntl=Expires=1791557318~_GO=Generated~acl=/mumbai/4249137_english_hls_fdc1fd6bb593007_1ta-di_h264/*~SessionID=7ea3d7b341c44cd8_fc-app_sportsguruand_cd84ea54-1d8e-44~Signature=AXZsC1ADZLWF-nzzIKilSSo4jswdJaVs8hIS1RLLxEwr8wHhNw94a7DGbAhsb1i2BpMRF5zvjGGSxSX-KSXlY5nEKPIA
+
+#EXTINF:-1 tvg-id="4250133" tvg-name="Free Practice 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Fancode",Free Practice 2 [English]
+https://in-mc-flive.fancode.com/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/720p.m3u8?hdntl=Expires=1791551856~_GO=Generated~acl=/mumbai/4250133_english_hls_1511ebec8969707_1ta-di_h264/*~SessionID=a137f87774ae607a_fc-app_sportsguruand_3d304353-24e9-41~Signature=AXZsC1AwOkHcoYNqnEshbHG1auGTAQEfgepcDf976ro8Ol1-NrRNIzT-6cT9NFFwOVUCCjIvk1bmdgBBOb8B_f3BrJMB
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Hotstar",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="4e51a7d1-4a54-4fea-8ba1-b929e4c343d3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/h1cnwgyzec2jny66y12c" tvg-lang="English" group-title="ICC TV",English | Oman v Canada (1st Innings)
+#EXTINF:-1 tvg-id="ff264edc-02ad-4a52-9fa8-10801dd5055c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/kiaxxskka83zsazn8uf2" tvg-lang="English" group-title="ICC TV",English | Namibia v United Arab Emirates (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -18,66 +51,33 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791550808~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fedb7575413a6d0710e355a4f97db91a09603cc21c89c932b589496e82c0f647/manifest.mpd?vcfilter=4e51a7d1-4a54-4fea-8ba1-b929e4c343d3&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791585909~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=944ebea1fd2081c82d95a96dfb97bbc90b54d253877ed541d74fa97cda57bfc1/manifest.mpd?vcfilter=ff264edc-02ad-4a52-9fa8-10801dd5055c&
 
-#EXTINF:-1 tvg-id="c098c554-a22a-495a-8573-135b7a37adfe" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cgd9cdbqdyqej5fxn0ju" tvg-lang="English" group-title="ICC TV",English | Singapore v Maldives
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791553508~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8079635d60a9782f61681999af7a3287da21ffc9d9d4028e632a7f08447dee3c/manifest.mpd?vcfilter=c098c554-a22a-495a-8573-135b7a37adfe&
-
-#EXTINF:-1 tvg-id="846fe9c2-0ef7-4cb3-974b-af95e878323d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hpgosnzgs1t42sdspjbf" tvg-lang="English" group-title="ICC TV",English | Hong Kong, China v China
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791553512~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=85b3879fe9b65cc704e2feb59c429e722523e2a3f4066a3fbb51142b92f7cbb7/manifest.mpd?vcfilter=846fe9c2-0ef7-4cb3-974b-af95e878323d&
-
-#EXTINF:-1 tvg-id="23fba0fd-2e9e-4560-8988-5aec0b513a36" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v8vnjovfbn2tracoacfw" tvg-lang="English" group-title="ICC TV",English | Malaysia v Saudi Arabia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791553515~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=efa88226e92bf33a97bdb7cfcd91cb9c7dddc043c949c563f7dfd362e39fa7d6/manifest.mpd?vcfilter=23fba0fd-2e9e-4560-8988-5aec0b513a36&
-
-#EXTINF:-1 tvg-id="B0HLVVTVRS" tvg-name="Pertamina Grand Prix of Indonesia, Practice" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.24728e8b-ea4a-4d8d-8a10-15657493d437/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Pertamina Grand Prix of Indonesia, Practice
+#EXTINF:-1 tvg-id="B0HM7GPJCC" tvg-name="Unknown Match" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b20b13fa-3883-405f-a9d5-bdd3e3c09301/2/CAROUSEL-BACKGROUND-8X3/en-US/3840x1440._UR3840,1440_SX2160_FMjpg_.jpg" group-title="Prime Video",Unknown Match
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://a151live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3AOmBhpqyD0mA2Zha2FtYWkCeChmaWQ6MDFhMTFlMmUtZGU3Zi03MDkyLTliZjAtZjg5NDBkNmYyYzEzGQE4oQWhAngzL2RhcnIyd2NxenQvb3V0L3YxLzgxOTdjOGUwNTVjOTRhODY4NjIzNjUzYWM1NWMxMGJmWCCru6acSCH1IRbDFl678mdBK5ffluI0K9lTs0-elB2BiA/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/darr2wcqzt/out/v1/8197c8e055c94a868623653ac55c10bf/a628643c-23ab-4d59-b161-89d414774cff-cenc.mpd?aws.sessionId=91b216ca-07f8-4203-81e3-0c4f36161a18
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HKTZTKFL" tvg-name="Australia vs. Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.832174c7-259f-48b9-a56d-fd0d5f450a46/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Australia vs. Bangladesh
+#EXTINF:-1 tvg-id="B0HFR7WRDV" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.345b91c6-a47c-488b-9ab0-8c8aac75b653/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HM6G2NV6" tvg-name="Ukraine vs. Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.01123cf8-c0b5-450d-ac85-3e99d40956cb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Ukraine vs. Spain
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HKNSGQGF" tvg-name="Cricket Highlights-Pakistan vs Sri Lanka: 1st T20I" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ffc65e15-0965-4ce8-acaa-f1f97ab50f67/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Cricket Highlights-Pakistan vs Sri Lanka: 1st T20I
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HLPNB395" tvg-name="Northland Taniwha v Tasman" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fd1fe5a-53e8-4d34-87e2-6360a7be307d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Northland Taniwha v Tasman
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HKC67FML" tvg-name="Third Quarterfinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.004fb98f-b70f-4336-915f-0300ef82c835/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Third Quarterfinal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
