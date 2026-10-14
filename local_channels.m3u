@@ -408,12 +408,6 @@ https://app.ashokadigital.net/app/320fe68e/index.m3u8
 #EXTINF:-1 tvg-name="MALAR TV SURANDAI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1766937001_94933e74-395c-4256-a988-c606e16b040b.png" group-title="Local TV",MALAR TV SURANDAI
 http://asokaapp-malartv.sscloud7.in/malartv/malartv/index.mpd
 
-#EXTINF:-1 tvg-name="nellai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753792693_WhatsApp_Image_2025-07-29_at_5.34.20_AM-removebg-preview.png" group-title="Local TV",nellai tv
-https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
-
-#EXTINF:-1 tvg-name="suriya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1760613543_Sjsurya.png" group-title="Local TV",suriya tv
-https://nellaitv.stream.ipcloud.live/nellaitv/suriyatv/index.m3u8
-
 #EXTINF:-1 tvg-name="jkt tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533345_jtk.png" group-title="Local TV",jkt tv
 https://app.ashokadigital.net/app/f8af5632/index.m3u8
 
@@ -479,6 +473,9 @@ https://stream.ashokadigital.net/KMTELEVISION/kmtelevision/index.m3u8
 
 #EXTINF:-1 tvg-name="M TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777712105_MTV 1.png" group-title="Local TV",M TV
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
+
+#EXTINF:-1 tvg-name="mtntv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784603031_ashoka-digital-320x180 (2).gif" group-title="Local TV",mtntv
+https://applelive.in/mtntv/mtntv/index.m3u8
 
 #EXTINF:-1 tvg-name="vinayaga tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768196945_WhatsApp Image 2026-01-12 at 10.15.02 AM.jpeg" group-title="Local TV",vinayaga tv
 https://app.ashokadigital.net/app/9d60f10e/index.m3u8
@@ -846,45 +843,6 @@ https://live.streambox24.in:5443/SalamBengalore/streams/SalamBengalore.m3u8
 #EXTINF:-1 tvg-name="Km News Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316 copy.png" group-title="Local TV",Km News Bengaluru
 https://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
 
-#EXTINF:-1 tvg-name="Music Beats" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786440228_1837ec5c-4bbf-4bde-9078-608d9afdc805-Photoroom.png" group-title="Local TV",Music Beats
-http://guru.sritv.co.in:1935/musicbeat/live/sri_network_cdn.m3u8
-
-#EXTINF:-1 tvg-name="kadamba" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650288_603.png" group-title="Local TV",kadamba
-https://app.ashokadigital.net/app/f06d872d/index.m3u8
-
-#EXTINF:-1 tvg-name="nam city1" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650304_604.png" group-title="Local TV",nam city1
-https://app.ashokadigital.net/app/bd30651e/index.m3u8
-
-#EXTINF:-1 tvg-name="Akshaya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786440140_e67231ba-00c8-4de9-8fad-e7167f8d650f-Photoroom.png" group-title="Local TV",Akshaya tv
-http://guru.sritv.co.in:1935/akshaytv/live/sri_network_cdn.m3u8
-
-#EXTINF:-1 tvg-name="rr tv 2" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650325_606.png" group-title="Local TV",rr tv 2
-http://guru.sritv.co.in:1935/rrtv/live/sri_network_cdn.m3u8
-
-#EXTINF:-1 tvg-name="sne" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650352_607.png" group-title="Local TV",sne
-https://app.ashokadigital.net/app/76f5622b/index.m3u8
-
-#EXTINF:-1 tvg-name="Namma media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786440114_bf74deb6-3a09-4eb5-b255-10cbe29e2572-Photoroom.png" group-title="Local TV",Namma media
-https://app.ashokadigital.net/app/ae7018a9/index.m3u8
-
-#EXTINF:-1 tvg-name="sity" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650373_609.png" group-title="Local TV",sity
-https://app.ashokadigital.net/app/b082ac97/index.m3u8
-
-#EXTINF:-1 tvg-name="amogha" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650386_610.png" group-title="Local TV",amogha
-https://app.ashokadigital.net/app/a4bcf68a/index.m3u8
-
-#EXTINF:-1 tvg-name="kalki" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650575_no link.png" group-title="Local TV",kalki
-https://app.ashokadigital.net/app/18ff86bb/index.m3u8
-
-#EXTINF:-1 tvg-name="swastik" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650589_612.png" group-title="Local TV",swastik
-https://app.ashokadigital.net/app/46ec9692/index.m3u8
-
-#EXTINF:-1 tvg-name="metro" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650618_613.png" group-title="Local TV",metro
-http://guru.sritv.co.in:1935/metro/live/sri_network_cdn.m3u8
-
-#EXTINF:-1 tvg-name="akashtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650650_615.png" group-title="Local TV",akashtv
-https://app.ashokadigital.net/app/59add6fc/index.m3u8
-
 #EXTINF:-1 tvg-name="అశోక తెలుగు" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788414638_7bc9b907-5cfd-472f-ab68-20e4677c6004-Photoroom (1).png" group-title="Local TV",అశోక తెలుగు
 https://app.ashokadigital.net/app/ce705f4a/index.m3u8
 
@@ -1064,4 +1022,49 @@ https://agashamtv.stream.ipcloud.live/agashamtv/livestream/index.m3u8
 
 #EXTINF:-1 tvg-name="d bhakthi tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" group-title="Local TV",d bhakthi tv
 https://stream.d6-pro.com/dbhakhi/live/video.m3u8
+
+#EXTINF:-1 tvg-name="Hoysala" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948218_1790782799_a private channel copy.png" group-title="Local TV",Hoysala
+https://mumbai-edge.smartplaytv.in/Hoysala/index.m3u8
+
+#EXTINF:-1 tvg-name="akashtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948263_1790782799_a private channel copy.png" group-title="Local TV",akashtv
+https://mumbai-edge.smartplaytv.in/akashtv/index.m3u8
+
+#EXTINF:-1 tvg-name="sne" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948305_1790782799_a private channel copy.png" group-title="Local TV",sne
+https://mumbai-edge.smartplaytv.in/sne/index.m3u8
+
+#EXTINF:-1 tvg-name="Nammamedia" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948370_1790782799_a private channel copy.png" group-title="Local TV",Nammamedia
+https://mumbai-edge.smartplaytv.in/Nammamedia/index.m3u8
+
+#EXTINF:-1 tvg-name="musicbeats" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948408_1790782799_a private channel copy.png" group-title="Local TV",musicbeats
+https://mumbai-edge.smartplaytv.in/musicbeats/index.m3u8
+
+#EXTINF:-1 tvg-name="amogha" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948474_1790782799_a private channel copy.png" group-title="Local TV",amogha
+https://mumbai-edge.smartplaytv.in/amogha/index.m3u8
+
+#EXTINF:-1 tvg-name="kalki" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948491_1790782799_a private channel copy.png" group-title="Local TV",kalki
+https://mumbai-edge.smartplaytv.in/kalki/index.m3u8
+
+#EXTINF:-1 tvg-name="swastik" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948533_1790782799_a private channel copy.png" group-title="Local TV",swastik
+https://mumbai-edge.smartplaytv.in/swastik/index.m3u8
+
+#EXTINF:-1 tvg-name="sity" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948581_1790782799_a private channel copy.png" group-title="Local TV",sity
+https://mumbai-edge.smartplaytv.in/sity/index.m3u8
+
+#EXTINF:-1 tvg-name="Akshyatv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791948613_1790782799_a private channel copy.png" group-title="Local TV",Akshyatv
+https://mumbai-edge.smartplaytv.in/Akshyatv/index.m3u8
+
+#EXTINF:-1 tvg-name="kadamba" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791949123_1790782799_a private channel copy.png" group-title="Local TV",kadamba
+https://mumbai-edge.smartplaytv.in/kadamba/index.m3u8
+
+#EXTINF:-1 tvg-name="rrtv1" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791949166_1790782799_a private channel copy.png" group-title="Local TV",rrtv1
+https://mumbai-edge.smartplaytv.in/rrtv1/index.m3u8
+
+#EXTINF:-1 tvg-name="namcity1" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791949224_1790782799_a private channel copy.png" group-title="Local TV",namcity1
+https://mumbai-edge.smartplaytv.in/namcity1/index.m3u8
+
+#EXTINF:-1 tvg-name="nillai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791963811_nellai tv.png" group-title="Local TV",nillai tv
+https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
+
+#EXTINF:-1 tvg-name="sj surya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791963956_sj suriya tv.png" group-title="Local TV",sj surya tv
+https://nellaitv.stream.ipcloud.live/nellaitv/suriyatv/index.m3u8
 
