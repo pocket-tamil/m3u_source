@@ -1,4 +1,4 @@
-name: Update Teachub M3U
+name: Update hotstar M3U
 
 on:
   schedule:
@@ -24,19 +24,19 @@ jobs:
 
       - name: Download latest playlist
         run: |
-          curl -g -L "https://jiotvspro-v3.zonmp.net/" -o teachub.m3u
+          curl -g -L "https://sportlink-playlist.pages.dev/tstar.m3u" -o hotstar.m3u
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add teachub.m3u
+          git add hotstar.m3u
 
           if git diff --cached --quiet; then
             echo "No changes detected."
           else
-            git commit -m "Update teachub.m3u"
+            git commit -m "Update hotstar.m3u"
             git pull --rebase origin main
             git push
           fi
