@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-            curl -A "OTT Navigator" -L "https://yashzeotvplus.livenoww.workers.dev/" -o strx.m3u
+            curl -A "OTT Navigator" -L "https://jiostbplus.saregojo99.workers.dev" -o strx.m3u
             
       - name: Commit and push if changed
         run: |
