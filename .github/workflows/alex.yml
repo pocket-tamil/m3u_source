@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-          curl -L "https://alex4528.site/jplus/playlist.m3u" -o alex.m3u
+          curl -L "https://zeotvyash.streamxlivenow.workers.dev/" -o alex.m3u
 
       - name: Commit and push if changed
         run: |
