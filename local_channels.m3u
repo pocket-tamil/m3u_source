@@ -546,6 +546,12 @@ https://rtmp.notvstream.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-name="queens Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746107527_QUEENS 143.png" group-title="Local TV",queens Tv
 https://rtmp.notvstream.in/queens/queens/index.m3u8
 
+#EXTINF:-1 tvg-name="ROJA TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793087439_roja hd (2).png" group-title="Local TV",ROJA TV
+http://14.96.244.82:5001/live/3409.m3u8 - roja tv
+
+#EXTINF:-1 tvg-name="ROJA MOVICE" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793087527_roja movice.png" group-title="Local TV",ROJA MOVICE
+http://14.96.244.82:5001/live/3417.m3u8 - roja movies
+
 #EXTINF:-1 tvg-name="ACP Isai oli" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762800961_WhatsApp Image 2025-11-10 at 2.03.57 PM.jpeg" group-title="Local TV",ACP Isai oli
 http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8
 
