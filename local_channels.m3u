@@ -373,7 +373,7 @@ http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
 http://sarah.7starcloud.com:1935/live/sarahtv/live.m3u8
 
 #EXTINF:-1 tvg-name="INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1757781783_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",INFO TV
-https://ashokaadsplay.ashokadigital.net/player/time-9-news?utm_source=chatgpt.com
+https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 
 #EXTINF:-1 tvg-name="Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782816106_Ashoka TV LOGO SWF.gif" group-title="Local TV",Ashoka Tv
 https://live-stream.in/ashokatv/ashokatv/index.m3u8
@@ -731,9 +731,6 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 
 #EXTINF:-1 tvg-name="rio tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785590479_WhatsApp Image 2026-08-01 at 6.41.03 PM.jpeg" group-title="Local TV",rio tv
 https://ipcloud.live/riotv/riotvhd/index.m3u8
-
-#EXTINF:-1 tvg-name="Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785674178_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",Tv
-https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 
 #EXTINF:-1 tvg-name="thoma tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437744_1786264094_WhatsApp Image 2026-08-08 at 10.03.07 PM-Photoroom.png" group-title="Local TV",thoma tv
 https://thoma.stream.onecloudlive.in/thoma/thoma/index.m3u8
