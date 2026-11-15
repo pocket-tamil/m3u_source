@@ -489,6 +489,15 @@ https://app.ashokadigital.net/app/c29cd7a3/index.m3u8
 #EXTINF:-1 tvg-name="thendral tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774794281_thendral tv chennai.png" group-title="Local TV",thendral tv
 https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8
 
+#EXTINF:-1 tvg-name="chola rv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala tv.png" group-title="Local TV",chola rv
+https://stream.olidigital.in/cholatv/cholatv/index.m3u8
+
+#EXTINF:-1 tvg-name="hitech tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777425322_HI TECH TV NEW 29.4.26.jpeg" group-title="Local TV",hitech tv
+https://app.ashokadigital.net/app/9c84678d/index.m3u8
+
+#EXTINF:-1 tvg-name="Swasthik Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794730184_WhatsApp Image 2026-11-15 at 1.28.25 PM.jpeg" group-title="Local TV",Swasthik Tv
+http://swastiktv.stream.nellaiiptv.com:80/swastiktv/swastiktv/index.m3u8
+
 #EXTINF:-1 tvg-name="thirumalai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775583461_WhatsApp Image 2026-04-07 at 6.43.19 PM.jpeg" group-title="Local TV",thirumalai tv
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
 
@@ -729,8 +738,8 @@ https://athithoothartv-hls.proxy.nellaiiptv.com/live/athithoothartv/index.m3u8
 #EXTINF:-1 tvg-name="garudan tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787643805_garudan tv.png" group-title="Local TV",garudan tv
 http://play.applelive.in/hls/garudantv.m3u8
 
-#EXTINF:-1 tvg-name="kirubai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp Image 2026-07-30 at 5.02.41 PM.jpeg" group-title="Local TV",kirubai tv
-https://live.sscloud7.in/live/kirubaitv/index.m3u8
+#EXTINF:-1 tvg-name="GRACE TV MADURAI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794730690_Grace TV Royal Broadcast Emblem.png" group-title="Local TV",GRACE TV MADURAI
+http://147.93.29.33:8888/mdu/grace/index.m3u8
 
 #EXTINF:-1 tvg-name="rio tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785590479_WhatsApp Image 2026-08-01 at 6.41.03 PM.jpeg" group-title="Local TV",rio tv
 https://ipcloud.live/riotv/riotvhd/index.m3u8
@@ -780,41 +789,23 @@ https://pothigaifm-prabak78.radioca.st/stream
 #EXTINF:-1 tvg-name="sigaram tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794579835_Sigaram tv.png" group-title="Local TV",sigaram tv
 ..
 
-#EXTINF:-1 tvg-name="Rj Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" group-title="Local TV",Rj Tamil Tv
-https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
-
 #EXTINF:-1 tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp Image 2026-08-06 at 12.21.27 PM.jpeg" group-title="Local TV",abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
-
-#EXTINF:-1 tvg-name="Coimbatore" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" group-title="Local TV",Coimbatore
-http://brightmeltech.in/kchannel/kchannel.m3u8
 
 #EXTINF:-1 tvg-name="Hello Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1778558132_helo tamil tv.png" group-title="Local TV",Hello Tamil Tv
 https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
 
-#EXTINF:-1 tvg-name="Thannaram tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782835651_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",Thannaram tv
-https://stream.ashokadigital.net/Thannaramtv/Thannaramtv/index.m3u8
-
-#EXTINF:-1 tvg-name="ammantvplus" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775194694_AMMAN PLUS.png" group-title="Local TV",ammantvplus
-rtmp://103.155.33.67:1935/live/ammantvplus
-
-#EXTINF:-1 tvg-name="ABI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772634994_ABI TV.png" group-title="Local TV",ABI TV
-rtmp://103.136.136.77:1935/abihd/abihd?psk=123456
-
 #EXTINF:-1 tvg-name="SHALINI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366422_1736392678_IMG-20250109-WA0048.jpg" group-title="Local TV",SHALINI TV
 https://app.ashokadigital.net/app/55c65ef4/index.m3u8
 
-#EXTINF:-1 tvg-name="TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366560_1781012797_RubyDigitalTv.png" group-title="Local TV",TV
-https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8
+#EXTINF:-1 tvg-name="D TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366106_1785171805_d tv logo (1).png" group-title="Local TV",D TV
+https://stream.d6-pro.com/Dtv/live/video.m3u8
 
 #EXTINF:-1 tvg-name="VAAGAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787365671_1783397514_Vaagai TV logo.png" group-title="Local TV",VAAGAI TV
 https://app.ashokadigital.net/app/7fe2793b/index.m3u8
 
-#EXTINF:-1 tvg-name="AMMAN Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754665306_amman tv png logo.png" group-title="Local TV",AMMAN Tv
-https://app.ashokadigital.net/app/78b1bc36/index.m3u8
-
-#EXTINF:-1 tvg-name="CSK TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733983239_csk tv png logo kanishq.png" group-title="Local TV",CSK TV
-rtmp://csktv.stream.ashokadigital.net:1935/csktv/csktv
+#EXTINF:-1 tvg-name="Rj Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" group-title="Local TV",Rj Tamil Tv
+https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 
 #EXTINF:-1 tvg-name="Gubbi TV Kannada" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209169_315 copy.png" group-title="Local TV",Gubbi TV Kannada
 https://vvsolutions-server12.in/gubbinewskannada_11/video.m3u8
@@ -830,6 +821,9 @@ https://stream.ashokadigital.net/rohith/rohith/index.m3u8
 
 #EXTINF:-1 tvg-name="Janasruthi Media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1752323731_1280x1280-removebg-preview.png" group-title="Local TV",Janasruthi Media
 https://live.applelive.in/janasruthitv/janasruthitv/index.m3u8
+
+#EXTINF:-1 tvg-name="kirubai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp Image 2026-07-30 at 5.02.41 PM.jpeg" group-title="Local TV",kirubai tv
+https://live.sscloud7.in/live/kirubaitv/index.m3u8
 
 #EXTINF:-1 tvg-name="nvision hd" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890627_WhatsApp_Image_2025-02-18_at_8.25.19_PM__1_-removebg-preview.png" group-title="Local TV",nvision hd
 https://ipcloud.live/nvision/nvisionhd.m3u8
@@ -1088,4 +1082,25 @@ https://nellaitv.stream.ipcloud.live/nellaitv/suriyatv/index.m3u8
 
 #EXTINF:-1 tvg-name="VELA BHAKTHI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793176641_1790782799_1b.png" group-title="Local TV",VELA BHAKTHI
 http://live.mintv.in/vezhamugam/live/playlist
+
+#EXTINF:-1 tvg-name="Coimbatore" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" group-title="Local TV",Coimbatore
+http://brightmeltech.in/kchannel/kchannel.m3u8
+
+#EXTINF:-1 tvg-name="Thannaram tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782835651_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",Thannaram tv
+https://stream.ashokadigital.net/Thannaramtv/Thannaramtv/index.m3u8
+
+#EXTINF:-1 tvg-name="ammantvplus" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775194694_AMMAN PLUS.png" group-title="Local TV",ammantvplus
+rtmp://103.155.33.67:1935/live/ammantvplus
+
+#EXTINF:-1 tvg-name="ABI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772634994_ABI TV.png" group-title="Local TV",ABI TV
+rtmp://103.136.136.77:1935/abihd/abihd?psk=123456
+
+#EXTINF:-1 tvg-name="TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366560_1781012797_RubyDigitalTv.png" group-title="Local TV",TV
+https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8
+
+#EXTINF:-1 tvg-name="AMMAN Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754665306_amman tv png logo.png" group-title="Local TV",AMMAN Tv
+https://app.ashokadigital.net/app/78b1bc36/index.m3u8
+
+#EXTINF:-1 tvg-name="CSK TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733983239_csk tv png logo kanishq.png" group-title="Local TV",CSK TV
+rtmp://csktv.stream.ashokadigital.net:1935/csktv/csktv
 
