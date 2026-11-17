@@ -375,7 +375,7 @@ http://sarah.7starcloud.com:1935/live/sarahtv/live.m3u8
 #EXTINF:-1 tvg-name="INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1757781783_0 . ASHOKA DIGITAL LOGO.png" group-title="Local TV",INFO TV
 https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 
-#EXTINF:-1 tvg-name="Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782816106_Ashoka TV LOGO SWF.gif" group-title="Local TV",Ashoka Tv
+#EXTINF:-1 tvg-name="Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794885011_3. ashoka tv.png" group-title="Local TV",Ashoka Tv
 https://live-stream.in/ashokatv/ashokatv/index.m3u8
 
 #EXTINF:-1 tvg-name="ARK Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784905126_WhatsApp Image 2026-07-24 at 20.08.51.jpeg" group-title="Local TV",ARK Tv
@@ -407,6 +407,12 @@ https://app.ashokadigital.net/app/320fe68e/index.m3u8
 
 #EXTINF:-1 tvg-name="MALAR TV SURANDAI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1766937001_94933e74-395c-4256-a988-c606e16b040b.png" group-title="Local TV",MALAR TV SURANDAI
 http://asokaapp-malartv.sscloud7.in/malartv/malartv/index.mpd
+
+#EXTINF:-1 tvg-name="nellai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753792693_WhatsApp_Image_2025-07-29_at_5.34.20_AM-removebg-preview.png" group-title="Local TV",nellai tv
+https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
+
+#EXTINF:-1 tvg-name="suriya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1760613543_Sjsurya.png" group-title="Local TV",suriya tv
+https://nellaitv.stream.ipcloud.live/nellaitv/suriyatv/index.m3u8
 
 #EXTINF:-1 tvg-name="jkt tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533345_jtk.png" group-title="Local TV",jkt tv
 https://app.ashokadigital.net/app/f8af5632/index.m3u8
@@ -1073,12 +1079,6 @@ https://mumbai-edge.smartplaytv.in/rrtv1/index.m3u8
 
 #EXTINF:-1 tvg-name="namcity1" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791949224_1790782799_a private channel copy.png" group-title="Local TV",namcity1
 https://mumbai-edge.smartplaytv.in/namcity1/index.m3u8
-
-#EXTINF:-1 tvg-name="nillai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791963811_nellai tv.png" group-title="Local TV",nillai tv
-https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
-
-#EXTINF:-1 tvg-name="sj surya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791963956_sj suriya tv.png" group-title="Local TV",sj surya tv
-https://nellaitv.stream.ipcloud.live/nellaitv/suriyatv/index.m3u8
 
 #EXTINF:-1 tvg-name="VELA BHAKTHI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793176641_1790782799_1b.png" group-title="Local TV",VELA BHAKTHI
 http://live.mintv.in/vezhamugam/live/playlist
