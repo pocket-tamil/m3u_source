@@ -24,7 +24,7 @@ jobs:
 
       - name: Download latest playlist
         run: |
-          curl -g -L "https://sportlink-playlist.pages.dev/tstar.m3u" -o hotstar.m3u
+          curl -g -L "https://sportlink-tv10.pages.dev/tstar.m3u" -o hotstar.m3u
 
       - name: Commit and push if changed
         run: |
